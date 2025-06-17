@@ -1,0 +1,1740 @@
+{
+    "@cnpj": "60114865",
+    "@codigoDocumento": "9011",
+    "@tipoRemessa": "I",
+    "@unidadeMedida": 1000,
+    "@dataBase": "122023",
+    "datasBaseReferencia": [{
+            "@id": "dt1",
+            "@data": "S122023"
+        }, {
+            "@id": "dt2",
+            "@data": "A122023"
+        }, {
+            "@id": "dt3",
+            "@data": "A122022"
+        }, {
+            "@id": "dt4",
+            "@data": "A122021"
+        }
+    ],
+    "BalancoPatrimonial": {
+        "contas": [{
+                "@id": "BP_ATIVO_Totaldoativo",
+                "@nivel": "1",
+                "@descricao": "ativo",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 1058810.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 715098.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_CIRC_Totaldoativo-CIRCULANTE",
+                "@nivel": "1.1",
+                "@descricao": "CIRCULANTE",
+                "@contaPai": "BP_ATIVO_Totaldoativo",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 816621.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 522544.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_CIRC_Disponibilidades",
+                "@nivel": "1.1.1",
+                "@descricao": "Disponibilidades",
+                "@contaPai": "BP_ATIVO_CIRC_Totaldoativo-CIRCULANTE",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 9016.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 8057.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_CIRC_InstrumentosFinanceiros",
+                "@nivel": "1.1.2",
+                "@descricao": "Instrumentos Financeiros",
+                "@contaPai": "BP_ATIVO_CIRC_Totaldoativo-CIRCULANTE",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 631530.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 447181.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_CIRC_InstrumentosFinanceiros-Titulosevaloresmobiliarios",
+                "@nivel": "1.1.2.1",
+                "@descricao": "Títulos e valores mobiliários",
+                "@contaPai": "BP_ATIVO_CIRC_InstrumentosFinanceiros",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 36.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 112.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_CIRC_InstrumentosFinanceiros-RelacoesInterfinanceiras",
+                "@nivel": "1.1.2.2",
+                "@descricao": "Relações Interfinanceiras",
+                "@contaPai": "BP_ATIVO_CIRC_InstrumentosFinanceiros",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 102653.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 41874.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_CIRC_InstrumentosFinanceiros-Outrosativosfinanceiros",
+                "@nivel": "1.1.2.3",
+                "@descricao": "Outros ativos financeiros",
+                "@contaPai": "BP_ATIVO_CIRC_InstrumentosFinanceiros",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 528841.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 405195.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_CIRC_ProvisoesparaPerdasAssociadasaoRiscodeCredito",
+                "@nivel": "1.1.3",
+                "@descricao": "Provisões para Perdas Associadas ao Risco de Crédito",
+                "@contaPai": "BP_ATIVO_CIRC_Totaldoativo-CIRCULANTE",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": -7113.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -15206.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_CIRC_Provisaoparaoutroscreditosdeliquidacaoduvidosa",
+                "@nivel": "1.1.3.1",
+                "@descricao": "(Provisão para outros créditos de liquidação duvidosa)",
+                "@contaPai": "BP_ATIVO_CIRC_ProvisoesparaPerdasAssociadasaoRiscodeCredito",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": -7113.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -15206.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_CIRC_Outrosativos",
+                "@nivel": "1.1.4",
+                "@descricao": "Outros ativos",
+                "@contaPai": "BP_ATIVO_CIRC_Totaldoativo-CIRCULANTE",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 168699.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 72587.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_CIRC_CIRCULANTE-OutrosValoreseBens",
+                "@nivel": "1.1.5",
+                "@descricao": "Outros Valores e Bens",
+                "@contaPai": "BP_ATIVO_CIRC_Totaldoativo-CIRCULANTE",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 14489.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 9925.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_CIRC_OutrosValoreseBens-Despesasantecipadas",
+                "@nivel": "1.1.5.1",
+                "@descricao": "Despesas antecipadas",
+                "@contaPai": "BP_ATIVO_CIRC_CIRCULANTE-OutrosValoreseBens",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 14489.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 9925.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_LONGO_Totaldoativo-NAOCIRCULANTE",
+                "@nivel": "1.2",
+                "@descricao": "NÃO CIRCULANTE",
+                "@contaPai": "BP_ATIVO_Totaldoativo",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 242189.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 192554.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_LONGO_InstrumentosFinanceiros.",
+                "@nivel": "1.2.1",
+                "@descricao": "Instrumentos Financeiros.",
+                "@contaPai": "BP_ATIVO_LONGO_Totaldoativo-NAOCIRCULANTE",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 11771.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 316.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_LONGO_InstrumentosFinanceiros.-Titulosevaloresmobiliarios",
+                "@nivel": "1.2.1.1",
+                "@descricao": "Títulos e valores mobiliários",
+                "@contaPai": "BP_ATIVO_LONGO_InstrumentosFinanceiros.",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 11118.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_LONGO_InstrumentosFinanceiros.-Outrosativosfinanceiros",
+                "@nivel": "1.2.1.2",
+                "@descricao": "Outros ativos financeiros",
+                "@contaPai": "BP_ATIVO_LONGO_InstrumentosFinanceiros.",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 653.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 316.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_LONGO_CreditosTributarios",
+                "@nivel": "1.2.2",
+                "@descricao": "Créditos Tributários",
+                "@contaPai": "BP_ATIVO_LONGO_Totaldoativo-NAOCIRCULANTE",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 2935.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 8185.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_LONGO_NAOCIRCULANTE-OutrosValoreseBens",
+                "@nivel": "1.2.3",
+                "@descricao": "Outros Valores e Bens",
+                "@contaPai": "BP_ATIVO_LONGO_Totaldoativo-NAOCIRCULANTE",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 48993.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 48541.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_LONGO_OutrosValoreseBens.",
+                "@nivel": "1.2.3.1",
+                "@descricao": "Outros Valores e Bens.",
+                "@contaPai": "BP_ATIVO_LONGO_NAOCIRCULANTE-OutrosValoreseBens",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 11.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_LONGO_OutrosValoreseBens-Despesasantecipadas",
+                "@nivel": "1.2.3.2",
+                "@descricao": "Despesas antecipadas",
+                "@contaPai": "BP_ATIVO_LONGO_NAOCIRCULANTE-OutrosValoreseBens",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 48982.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 48541.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_LONGO_Permanente",
+                "@nivel": "1.2.4",
+                "@descricao": "Permanente",
+                "@contaPai": "BP_ATIVO_LONGO_Totaldoativo-NAOCIRCULANTE",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 178490.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 135512.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_LONGO_Investimento",
+                "@nivel": "1.2.4.1",
+                "@descricao": "Investimento",
+                "@contaPai": "BP_ATIVO_LONGO_Permanente",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 101758.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 93571.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_LONGO_Imobilizado",
+                "@nivel": "1.2.4.2",
+                "@descricao": "Imobilizado",
+                "@contaPai": "BP_ATIVO_LONGO_Permanente",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 27.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 27.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_LONGO_Intangivel",
+                "@nivel": "1.2.4.3",
+                "@descricao": "Intangível",
+                "@contaPai": "BP_ATIVO_LONGO_Permanente",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 76730.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 41938.00
+                    }
+                ]
+            }, {
+                "@id": "BP_ATIVO_LONGO_Depreciacoesamortizacoesereducaoaovalorrecuperavel",
+                "@nivel": "1.2.4.4",
+                "@descricao": "Depreciações, amortizações e redução ao valor recuperável",
+                "@contaPai": "BP_ATIVO_LONGO_Permanente",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": -25.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -24.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_Totaldopassivoedopatrimonioliquido",
+                "@nivel": "2",
+                "@descricao": "passivo e do patrimônio líquido",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 1058810.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 715098.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_CIRC_Totaldopassivoedopatrimonioliquido-CIRCULANTE",
+                "@nivel": "2.1",
+                "@descricao": "CIRCULANTE",
+                "@contaPai": "BP_PASSIVO_Totaldopassivoedopatrimonioliquido",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 843433.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 600912.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_CIRC_CIRCULANTE-Relacoesinterfinanceiras",
+                "@nivel": "2.1.1",
+                "@descricao": "Relações interfinanceiras",
+                "@contaPai": "BP_PASSIVO_CIRC_Totaldopassivoedopatrimonioliquido-CIRCULANTE",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 541759.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 156735.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_CIRC_TransacoesdePagamento",
+                "@nivel": "2.1.1.1",
+                "@descricao": "Transações de Pagamento",
+                "@contaPai": "BP_PASSIVO_CIRC_CIRCULANTE-Relacoesinterfinanceiras",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 541759.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 156735.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_CIRC_Outrasobrigacoes",
+                "@nivel": "2.1.2",
+                "@descricao": "Outras obrigações",
+                "@contaPai": "BP_PASSIVO_CIRC_Totaldopassivoedopatrimonioliquido-CIRCULANTE",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 301674.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 444177.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_CIRC_Obrigacoesportransacoesdepagamentos",
+                "@nivel": "2.1.2.1",
+                "@descricao": "Obrigações por transações de pagamentos",
+                "@contaPai": "BP_PASSIVO_CIRC_Outrasobrigacoes",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 53976.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 31465.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_CIRC_Obrigacoesporservicosdeinstituidoresdearranjo",
+                "@nivel": "2.1.2.2",
+                "@descricao": "Obrigações por serviços de instituidores de arranjo",
+                "@contaPai": "BP_PASSIVO_CIRC_Outrasobrigacoes",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 286.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 344.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_CIRC_Cobrancaearrecadacaodetributoseassemelhados",
+                "@nivel": "2.1.2.3",
+                "@descricao": "Cobrança e arrecadação de tributos e assemelhados",
+                "@contaPai": "BP_PASSIVO_CIRC_Outrasobrigacoes",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 209.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_CIRC_Fiscaiseprevidenciarias",
+                "@nivel": "2.1.2.4",
+                "@descricao": "Fiscais e previdenciárias",
+                "@contaPai": "BP_PASSIVO_CIRC_Outrasobrigacoes",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 11198.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 2002.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_CIRC_ProvisaoparaContingencias",
+                "@nivel": "2.1.2.5",
+                "@descricao": "Provisão para Contingências",
+                "@contaPai": "BP_PASSIVO_CIRC_Outrasobrigacoes",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 728.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 413.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_CIRC_Diversas",
+                "@nivel": "2.1.2.6",
+                "@descricao": "Diversas",
+                "@contaPai": "BP_PASSIVO_CIRC_Outrasobrigacoes",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 235277.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 409953.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_LONGO_Totaldopassivoedopatrimonioliquido-NAOCIRCULANTE",
+                "@nivel": "2.2",
+                "@descricao": "NÃO CIRCULANTE",
+                "@contaPai": "BP_PASSIVO_Totaldopassivoedopatrimonioliquido",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 84404.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 84380.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_LONGO_Obrigacoesporemprestimoserepasses",
+                "@nivel": "2.2.1",
+                "@descricao": "Obrigações por empréstimos e repasses",
+                "@contaPai": "BP_PASSIVO_LONGO_Totaldopassivoedopatrimonioliquido-NAOCIRCULANTE",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 84404.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 84380.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_PL_PATRIMONIOLIQUIDO",
+                "@nivel": "2.3",
+                "@descricao": "PATRIMÔNIO LÍQUIDO",
+                "@contaPai": "BP_PASSIVO_Totaldopassivoedopatrimonioliquido",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 130973.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 29806.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_PL_Reservaslegal",
+                "@nivel": "2.3.1",
+                "@descricao": "Reservas legal",
+                "@contaPai": "BP_PASSIVO_PL_PATRIMONIOLIQUIDO",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 1700.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 1700.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_PL_ReservasdeLucro",
+                "@nivel": "2.3.2",
+                "@descricao": "Reservas de Lucro",
+                "@contaPai": "BP_PASSIVO_PL_PATRIMONIOLIQUIDO",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 0.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_PL_PrejuizosAcumulados",
+                "@nivel": "2.3.3",
+                "@descricao": "Prejuízos Acumulados",
+                "@contaPai": "BP_PASSIVO_PL_PATRIMONIOLIQUIDO",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": -60780.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -76947.00
+                    }
+                ]
+            }, {
+                "@id": "BP_PASSIVO_PL_Capitalsocial",
+                "@nivel": "2.4",
+                "@descricao": "Capital social",
+                "@contaPai": "BP_PASSIVO_Totaldopassivoedopatrimonioliquido",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 190053.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 105053.00
+                    }
+                ]
+            }
+        ]
+    },
+    "DemonstracaoDoResultado": {
+        "contas": [{
+                "@id": "DRE_ResultadoBrutodaIntermediacaoFinanceira",
+                "@nivel": "1",
+                "@descricao": "Resultado Bruto da Intermediação Financeira",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 8563.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 8831.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -9932.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_ReceitasdaIntermediacaoFinanceira",
+                "@nivel": "1.1",
+                "@descricao": "Receitas da Intermediação Financeira",
+                "@contaPai": "DRE_ResultadoBrutodaIntermediacaoFinanceira",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 8880.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 9334.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 5603.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_ResultadodeOperacoescomTituloseValoresMobiliarios",
+                "@nivel": "1.1.1",
+                "@descricao": "Resultado de Operações com Títulos e Valores Mobiliários",
+                "@contaPai": "DRE_ReceitasdaIntermediacaoFinanceira",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 659.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 1113.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 5603.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_ReversaodeOutrosCreditosdeLiquidacaoDuvidosa",
+                "@nivel": "1.1.2",
+                "@descricao": "Reversão de Outros Créditos de Liquidação Duvidosa",
+                "@contaPai": "DRE_ReceitasdaIntermediacaoFinanceira",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 8221.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 8221.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_DespesasdaIntermediacaoFinanceira",
+                "@nivel": "1.2",
+                "@descricao": "Despesas da Intermediação Financeira",
+                "@contaPai": "DRE_ResultadoBrutodaIntermediacaoFinanceira",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -317.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -503.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -15535.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_DespesasdaIntermediacaoFinanceira.",
+                "@nivel": "1.2.1",
+                "@descricao": "Despesas da Intermediação Financeira.",
+                "@contaPai": "DRE_DespesasdaIntermediacaoFinanceira",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -190.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -376.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -329.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_ProvisaoparaOutrosCreditosdeLiquidacaoDuvidosa",
+                "@nivel": "1.2.2",
+                "@descricao": "Provisão para Outros Créditos de Liquidação Duvidosa",
+                "@contaPai": "DRE_DespesasdaIntermediacaoFinanceira",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -127.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -127.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -15206.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_OutrasReceitasDespesasOperacionais",
+                "@nivel": "2",
+                "@descricao": "Outras Receitas (Despesas) Operacionais",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 20555.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 22171.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -69265.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_DespesasFinanceiras",
+                "@nivel": "2.1",
+                "@descricao": "Despesas Financeiras",
+                "@contaPai": "DRE_OutrasReceitasDespesasOperacionais",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -7329.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -14926.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -12235.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_ReceitadePrestacaodeServicos",
+                "@nivel": "2.2",
+                "@descricao": "Receita de Prestação de Serviços",
+                "@contaPai": "DRE_OutrasReceitasDespesasOperacionais",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 86377.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 172637.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 147640.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_DespesasTributarias",
+                "@nivel": "2.3",
+                "@descricao": "Despesas Tributárias",
+                "@contaPai": "DRE_OutrasReceitasDespesasOperacionais",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -7445.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -11338.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -11492.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_CustodosServicosPrestados",
+                "@nivel": "2.4",
+                "@descricao": "Custo dos Serviços Prestados",
+                "@contaPai": "DRE_OutrasReceitasDespesasOperacionais",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -29074.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -70928.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -90909.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_DespesasdePessoal",
+                "@nivel": "2.5",
+                "@descricao": "Despesas de Pessoal",
+                "@contaPai": "DRE_OutrasReceitasDespesasOperacionais",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -1639.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -3387.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -3830.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_OutrasDespesasAdministrativas",
+                "@nivel": "2.6",
+                "@descricao": "Outras Despesas Administrativas",
+                "@contaPai": "DRE_OutrasReceitasDespesasOperacionais",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -19960.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -45063.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -65200.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_ResultadodeInvestimentosemColigadaseControladas",
+                "@nivel": "2.7",
+                "@descricao": "Resultado de Investimentos em Coligadas e Controladas",
+                "@contaPai": "DRE_OutrasReceitasDespesasOperacionais",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -8634.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -11813.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -54477.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_OutrasReceitasOperacionais",
+                "@nivel": "2.8",
+                "@descricao": "Outras Receitas Operacionais",
+                "@contaPai": "DRE_OutrasReceitasDespesasOperacionais",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 21067.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 23847.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 27811.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_OutrasDespesasOperacionais",
+                "@nivel": "2.9",
+                "@descricao": "Outras Despesas Operacionais",
+                "@contaPai": "DRE_OutrasReceitasDespesasOperacionais",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -12808.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -16858.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -6573.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_ResultadoOperacional",
+                "@nivel": "3",
+                "@descricao": "Resultado Operacional",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 29118.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 31002.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -79197.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_ResultadoantesdaTributacaosobreoLucro",
+                "@nivel": "4",
+                "@descricao": "Resultado antes da Tributação sobre o Lucro",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 29118.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 31002.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -79197.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_ImpostodeRendaeContribuicaoSocial",
+                "@nivel": "5",
+                "@descricao": "Imposto de Renda e Contribuição Social",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -12990.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -14835.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 8076.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_ProvisaoparaImpostodeRenda",
+                "@nivel": "5.1",
+                "@descricao": "Provisão para Imposto de Renda",
+                "@contaPai": "DRE_ImpostodeRendaeContribuicaoSocial",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -6092.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -7445.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 5938.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_ProvisaoparaContribuicaoSocial",
+                "@nivel": "5.2",
+                "@descricao": "Provisão para Contribuição Social",
+                "@contaPai": "DRE_ImpostodeRendaeContribuicaoSocial",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -2197.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -2689.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 2138.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_ImpostosDiferidos",
+                "@nivel": "5.3",
+                "@descricao": "Impostos Diferidos",
+                "@contaPai": "DRE_ImpostodeRendaeContribuicaoSocial",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -4701.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -4701.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DRE_LucroPrejuizoliquidodosemestre",
+                "@nivel": "6",
+                "@descricao": "Lucro/Prejuízo líquido do semestre",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 16128.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 16167.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -71121.00
+                    }
+                ]
+            }
+        ]
+    },
+    "DemonstracaoDoResultadoAbrangente": {
+        "contas": [{
+                "@id": "DRA_LucroPrejuizoliquidodosemestreexercicio",
+                "@nivel": "1",
+                "@descricao": "Lucro/Prejuízo líquido do semestre/exercício",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 16128.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 16167.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -71120.00
+                    }
+                ]
+            }, {
+                "@id": "DRA_OutrosResultadosAbrangentesqueseraoreclassificadossubsequentementeparalucrosouprejuizosquandocondicoesespecificasforematendidas",
+                "@nivel": "2",
+                "@descricao": "Outros Resultados Abrangentes que serão reclassificados subsequentemente para lucros ou prejuízos quando condições específicas forem atendidas",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 0.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 0.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DRA_OutrosResultadosAbrangentesquenaoseraoreclassificadosparaLucroLiquido",
+                "@nivel": "3",
+                "@descricao": "Outros Resultados Abrangentes que não serão reclassificados para Lucro Líquido",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 0.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 0.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DRA_Totaldoresultadoabrangentedosemestre",
+                "@nivel": "4",
+                "@descricao": "Total do resultado abrangente do semestre",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 16128.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 16167.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -71120.00
+                    }
+                ]
+            }
+        ]
+    },
+    "DemonstracaoDosFluxosDeCaixa": {
+        "contas": [{
+                "@id": "DFC_PrejuizoLucroliquidoajustado",
+                "@nivel": "1",
+                "@descricao": "Prejuízo/Lucro líquido ajustado",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 29445.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 33196.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -24758.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_PrejuizoLucroliquidodosemestre",
+                "@nivel": "1.1",
+                "@descricao": "Prejuizo/Lucro líquido do semestre",
+                "@contaPai": "DFC_PrejuizoLucroliquidoajustado",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 16128.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 16168.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -71120.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_ImpostoDiferido",
+                "@nivel": "1.2",
+                "@descricao": "Imposto Diferido",
+                "@contaPai": "DFC_PrejuizoLucroliquidoajustado",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 4701.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 5251.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -8076.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_ResultadodeParticipacoesemColigadaseControladas",
+                "@nivel": "1.3",
+                "@descricao": "Resultado de Participações em Coligadas e Controladas",
+                "@contaPai": "DFC_PrejuizoLucroliquidoajustado",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 8634.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 11813.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 54476.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_ReceitasdeVariacaoCambial",
+                "@nivel": "1.4",
+                "@descricao": "Receitas de Variação Cambial",
+                "@contaPai": "DFC_PrejuizoLucroliquidoajustado",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -18.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -36.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -38.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_Variacaodeativoseobrigacoes",
+                "@nivel": "2",
+                "@descricao": "Variação de ativos e obrigações",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -71298.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -62445.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 59625.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_ReducaoAumentoemTitulosevaloresmobiliarios",
+                "@nivel": "2.1",
+                "@descricao": "Redução/(Aumento) em Títulos e valores mobiliarios",
+                "@contaPai": "DFC_Variacaodeativoseobrigacoes",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -8132.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -11042.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 22689.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_ReducaoAumentoemOutrosCreditos",
+                "@nivel": "2.2",
+                "@descricao": "Redução/(Aumento) em Outros Créditos",
+                "@contaPai": "DFC_Variacaodeativoseobrigacoes",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -146250.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -241077.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 38683.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_ReducaoAumentoemTributosaRecuperar",
+                "@nivel": "2.3",
+                "@descricao": "(Redução)/ Aumento em Tributos a Recuperar",
+                "@contaPai": "DFC_Variacaodeativoseobrigacoes",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 6201.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 7906.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -5000.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_ReducaoAumentoemTransacoesdePagamento",
+                "@nivel": "2.4",
+                "@descricao": "Redução/(Aumento) em Transações de Pagamento",
+                "@contaPai": "DFC_Variacaodeativoseobrigacoes",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -47239.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -60779.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 13928.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_ReducaoAumentoemObrigacoesportransacoesdepagamentos",
+                "@nivel": "2.5",
+                "@descricao": "(Redução)/ Aumento em Obrigações por transações de pagamentos",
+                "@contaPai": "DFC_Variacaodeativoseobrigacoes",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 24213.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 22510.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -141310.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_ReducaoAumentoemOutrasobrigacoestributarios",
+                "@nivel": "2.6",
+                "@descricao": "(Redução)/ Aumento em Outras obrigações tributários",
+                "@contaPai": "DFC_Variacaodeativoseobrigacoes",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -267725.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -165012.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 16497.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_ReducaoAumentoemRelacoesinterfinanceiras",
+                "@nivel": "2.7",
+                "@descricao": "Redução/(Aumento) em Relações interfinanceiras",
+                "@contaPai": "DFC_Variacaodeativoseobrigacoes",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 367679.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 385025.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 29758.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_ReducaoAumentoemObrigacoesporemprestimoserepasses",
+                "@nivel": "2.8",
+                "@descricao": "Redução/(Aumento) em Obrigações por emprestimos e repasses",
+                "@contaPai": "DFC_Variacaodeativoseobrigacoes",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -45.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 24.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 84380.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_Caixaliquidoaplicadonasdasatividadesoperacionais",
+                "@nivel": "3",
+                "@descricao": "Caixa líquido (aplicado nas) das atividades operacionais",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -41853.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -29249.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 34867.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_Caixaliquidoaplicadonasdasatividadesdeinvestimentos",
+                "@nivel": "4",
+                "@descricao": "Caixa líquido (aplicado nas) das atividades de investimentos",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -19350.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -54792.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -105185.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_Aumentoemparticipacoesemcoligadasecontroladas",
+                "@nivel": "4.1",
+                "@descricao": "Aumento em participaçoes em coligadas e controladas",
+                "@contaPai": "DFC_Caixaliquidoaplicadonasdasatividadesdeinvestimentos",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 0.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -20000.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -69000.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_AquisicoesdeIntangivel",
+                "@nivel": "4.2",
+                "@descricao": "Aquisições de Intangível",
+                "@contaPai": "DFC_Caixaliquidoaplicadonasdasatividadesdeinvestimentos",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": -19350.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": -34792.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -36185.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_Caixaliquidoaplicadonasatividadesdefinanciamento",
+                "@nivel": "5",
+                "@descricao": "Caixa líquido (aplicado nas) atividades de financiamento",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 65000.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 85000.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 45638.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_AumentoCapitalSocial",
+                "@nivel": "5.1",
+                "@descricao": "Aumento Capital Social",
+                "@contaPai": "DFC_Caixaliquidoaplicadonasatividadesdefinanciamento",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 65000.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 85000.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 41008.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_Dividendosdistribuidos",
+                "@nivel": "5.2",
+                "@descricao": "Dividendos distribuidos",
+                "@contaPai": "DFC_Caixaliquidoaplicadonasatividadesdefinanciamento",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 0.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 0.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 4630.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_Aumentoliquidonocaixaeequivalentesdecaixa",
+                "@nivel": "6",
+                "@descricao": "Aumento líquido no caixa e equivalentes de caixa",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 3797.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 959.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -24680.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_Noiniciodoexercicio",
+                "@nivel": "7",
+                "@descricao": "No início do exercício",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 5219.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 8057.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 32737.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_Nofinaldoexercicio",
+                "@nivel": "8",
+                "@descricao": "No final do exercício",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 9016.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 9016.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 8057.00
+                    }
+                ]
+            }, {
+                "@id": "DFC_Aumentoliquidonocaixaeequivalentesdecaixa.",
+                "@nivel": "9",
+                "@descricao": "Aumento líquido no caixa e equivalentes de caixa.",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt1",
+                        "@valor": 3797.00
+                    }, {
+                        "@dtBase": "dt2",
+                        "@valor": 959.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -24680.00
+                    }
+                ]
+            }
+        ]
+    },
+    "DemonstracaoDasMutacoesDoPatrimonioLiquido": {
+        "contas": [{
+                "@id": "DMPL_Capitalsocial",
+                "@nivel": "1",
+                "@descricao": "Capital social",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 190053.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 105053.00
+                    }, {
+                        "@dtBase": "dt4",
+                        "@valor": 64045.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_Capitalsocial_Lucroliquidodoexercicio",
+                "@nivel": "1.1",
+                "@descricao": "Capital social_Lucro líquido do exercicio",
+                "@contaPai": "DMPL_Capitalsocial",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_Capitalsocial_AumentodeCapital",
+                "@nivel": "1.2",
+                "@descricao": "Capital social_Aumento de Capital",
+                "@contaPai": "DMPL_Capitalsocial",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 85000.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 41008.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_Capitalsocial_Dividendos",
+                "@nivel": "1.3",
+                "@descricao": "Capital social_Dividendos",
+                "@contaPai": "DMPL_Capitalsocial",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_Capitalsocial_Retencaodelucros",
+                "@nivel": "1.4",
+                "@descricao": "Capital social_Retenção de lucros",
+                "@contaPai": "DMPL_Capitalsocial",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_Capitalsocial_Lucroliquidodosemestre",
+                "@nivel": "1.5",
+                "@descricao": "Capital social_Lucro líquido do semestre",
+                "@contaPai": "DMPL_Capitalsocial",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_ReservaLegal",
+                "@nivel": "2",
+                "@descricao": "Reserva Legal",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 1700.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 1700.00
+                    }, {
+                        "@dtBase": "dt4",
+                        "@valor": 1700.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_ReservaLegal_Lucroliquidodoexercicio",
+                "@nivel": "2.1",
+                "@descricao": "Reserva Legal_Lucro líquido do exercicio",
+                "@contaPai": "DMPL_ReservaLegal",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_ReservaLegal_AumentodeCapital",
+                "@nivel": "2.2",
+                "@descricao": "Reserva Legal_Aumento de Capital",
+                "@contaPai": "DMPL_ReservaLegal",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 0.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_ReservaLegal_Dividendos",
+                "@nivel": "2.3",
+                "@descricao": "Reserva Legal_Dividendos",
+                "@contaPai": "DMPL_ReservaLegal",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_ReservaLegal_Retencaodelucros",
+                "@nivel": "2.4",
+                "@descricao": "Reserva Legal_Retenção de lucros",
+                "@contaPai": "DMPL_ReservaLegal",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_ReservaLegal_Lucroliquidodosemestre",
+                "@nivel": "2.5",
+                "@descricao": "Reserva Legal_Lucro líquido do semestre",
+                "@contaPai": "DMPL_ReservaLegal",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_OutrasReservas",
+                "@nivel": "3",
+                "@descricao": "Outras Reservas",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 0.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }, {
+                        "@dtBase": "dt4",
+                        "@valor": 30022.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_OutrasReservas_Lucroliquidodoexercicio",
+                "@nivel": "3.1",
+                "@descricao": "Outras Reservas_Lucro líquido do exercicio",
+                "@contaPai": "DMPL_OutrasReservas",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_OutrasReservas_AumentodeCapital",
+                "@nivel": "3.2",
+                "@descricao": "Outras Reservas_Aumento de Capital",
+                "@contaPai": "DMPL_OutrasReservas",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 0.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_OutrasReservas_Dividendos",
+                "@nivel": "3.3",
+                "@descricao": "Outras Reservas_Dividendos",
+                "@contaPai": "DMPL_OutrasReservas",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_OutrasReservas_Retencaodelucros",
+                "@nivel": "3.4",
+                "@descricao": "Outras Reservas_Retenção de lucros",
+                "@contaPai": "DMPL_OutrasReservas",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt3",
+                        "@valor": -30022.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_OutrasReservas_Lucroliquidodosemestre",
+                "@nivel": "3.5",
+                "@descricao": "Outras Reservas_Lucro líquido do semestre",
+                "@contaPai": "DMPL_OutrasReservas",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_Prejuizosacumulados",
+                "@nivel": "4",
+                "@descricao": "(Prejuízos acumulados)",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": -60780.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": -76947.00
+                    }, {
+                        "@dtBase": "dt4",
+                        "@valor": -40479.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_Prejuizosacumulados_Lucroliquidodoexercicio",
+                "@nivel": "4.1",
+                "@descricao": "(Prejuízos acumulados)_Lucro líquido do exercicio",
+                "@contaPai": "DMPL_Prejuizosacumulados",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt3",
+                        "@valor": -71120.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_Prejuizosacumulados_AumentodeCapital",
+                "@nivel": "4.2",
+                "@descricao": "(Prejuízos acumulados)_Aumento de Capital",
+                "@contaPai": "DMPL_Prejuizosacumulados",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 0.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 0.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_Prejuizosacumulados_Dividendos",
+                "@nivel": "4.3",
+                "@descricao": "(Prejuízos acumulados)_Dividendos",
+                "@contaPai": "DMPL_Prejuizosacumulados",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt3",
+                        "@valor": 4630.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_Prejuizosacumulados_Retencaodelucros",
+                "@nivel": "4.4",
+                "@descricao": "(Prejuízos acumulados)_Retenção de lucros",
+                "@contaPai": "DMPL_Prejuizosacumulados",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt3",
+                        "@valor": 30022.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_Prejuizosacumulados_Lucroliquidodosemestre",
+                "@nivel": "4.5",
+                "@descricao": "(Prejuízos acumulados)_Lucro líquido do semestre",
+                "@contaPai": "DMPL_Prejuizosacumulados",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 16167.00
+                    }
+                ]
+            }, {
+                "@id": "DMPL_Total",
+                "@nivel": "5",
+                "@descricao": "Total",
+                "@contaPai": "",
+                "valoresIndividualizados": [{
+                        "@dtBase": "dt2",
+                        "@valor": 130973.00
+                    }, {
+                        "@dtBase": "dt3",
+                        "@valor": 29806.00
+                    }, {
+                        "@dtBase": "dt4",
+                        "@valor": 55288.00
+                    }
+                ]
+            }
+        ]
+    }
+}

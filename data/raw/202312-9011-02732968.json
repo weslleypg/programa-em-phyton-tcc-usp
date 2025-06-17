@@ -1,0 +1,2297 @@
+{
+  "@cnpj": "02732968",
+  "@codigoDocumento": "9011",
+  "@tipoRemessa": "I",
+  "@unidadeMedida": 1,
+  "@dataBase": "122023",
+  "datasBaseReferencia": [
+    {
+      "@id": "dt1",
+      "@data": "A122023"
+    },
+    {
+      "@id": "dt2",
+      "@data": "A122022"
+    },
+    {
+      "@id": "dt3",
+      "@data": "A122021"
+    }
+  ],
+  "BalancoPatrimonial": {
+    "contas": [
+      {
+        "@id": "Conta1",
+        "@nivel": "1",
+        "@descricao": "Ativo",
+        "@contaPai": ""
+      },
+      {
+        "@id": "Conta2",
+        "@nivel": "1.1",
+        "@descricao": "Circulante",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 1092335111.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 942241913.6
+          }
+        ]
+      },
+      {
+        "@id": "Conta3",
+        "@nivel": "1.1.1",
+        "@descricao": "Caixa e equivalente a caixa",
+        "@contaPai": "Conta2",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 88704208.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 28998999.24
+          }
+        ]
+      },
+      {
+        "@id": "Conta4",
+        "@nivel": "1.1.1.1",
+        "@descricao": "Disponibilidades",
+        "@contaPai": "Conta3",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 37906611.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 22243496.09
+          }
+        ]
+      },
+      {
+        "@id": "Conta5",
+        "@nivel": "1.1.1.2",
+        "@descricao": "Títulos e valores mobiliários",
+        "@contaPai": "Conta3",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 50797597.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 6755503.15
+          }
+        ]
+      },
+      {
+        "@id": "Conta6",
+        "@nivel": "1.1.2",
+        "@descricao": "Instrumentos financeiros",
+        "@contaPai": "Conta2",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 974860493.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 896617520.18
+          }
+        ]
+      },
+      {
+        "@id": "Conta7",
+        "@nivel": "1.1.2.1",
+        "@descricao": "Títulos e valores mobiliários",
+        "@contaPai": "Conta6",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 36265687.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 35645418.16
+          }
+        ]
+      },
+      {
+        "@id": "Conta8",
+        "@nivel": "1.1.2.2",
+        "@descricao": "Operações com cartões de crédito",
+        "@contaPai": "Conta6",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 1052550855.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 928966408.95
+          }
+        ]
+      },
+      {
+        "@id": "Conta9",
+        "@nivel": "1.1.2.3",
+        "@descricao": "Outras contas a receber",
+        "@contaPai": "Conta6",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 29556962.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 33504018.27
+          }
+        ]
+      },
+      {
+        "@id": "Conta10",
+        "@nivel": "1.1.2.4",
+        "@descricao": "(-) Provisões para operações com cartões de crédito",
+        "@contaPai": "Conta6",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -143513011.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -101498325.2
+          }
+        ]
+      },
+      {
+        "@id": "Conta11",
+        "@nivel": "1.1.3",
+        "@descricao": "Outros créditos",
+        "@contaPai": "Conta2",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 18624912.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 9369218.93
+          }
+        ]
+      },
+      {
+        "@id": "Conta12",
+        "@nivel": "1.1.4",
+        "@descricao": "Ativos fiscais correntes ",
+        "@contaPai": "Conta2",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 10145498.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 7256175.25
+          }
+        ]
+      },
+      {
+        "@id": "Conta13",
+        "@nivel": "1.2",
+        "@descricao": "Não Circulante",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 71908522.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 94722807.31
+          }
+        ]
+      },
+      {
+        "@id": "Conta14",
+        "@nivel": "1.2.1",
+        "@descricao": "Realizável a longo prazo",
+        "@contaPai": "Conta13",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 56287160.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 78908166.62
+          }
+        ]
+      },
+      {
+        "@id": "Conta15",
+        "@nivel": "1.2.1.1",
+        "@descricao": "Instrumentos financeiros",
+        "@contaPai": "Conta14",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 55048680.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 77653015.96
+          }
+        ]
+      },
+      {
+        "@id": "Conta16",
+        "@nivel": "1.2.1.1.1",
+        "@descricao": "Fundos de investimentos em direitos creditórios",
+        "@contaPai": "Conta15",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 38185341.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 66892100.23
+          }
+        ]
+      },
+      {
+        "@id": "Conta17",
+        "@nivel": "1.2.1.1.2",
+        "@descricao": "Títulos e valores mobiliários",
+        "@contaPai": "Conta15",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 4244110.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 5771855.58
+          }
+        ]
+      },
+      {
+        "@id": "Conta18",
+        "@nivel": "1.2.1.1.3",
+        "@descricao": "Operações com cartões de crédito",
+        "@contaPai": "Conta15",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 12776915.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 5257163.46
+          }
+        ]
+      },
+      {
+        "@id": "Conta19",
+        "@nivel": "1.2.1.1.4",
+        "@descricao": "(-) Provisões para operações com cartões de crédito",
+        "@contaPai": "Conta15",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -157686.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -268103.31
+          }
+        ]
+      },
+      {
+        "@id": "Conta20",
+        "@nivel": "1.2.1.2",
+        "@descricao": "Outros créditos",
+        "@contaPai": "Conta14",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 1238480.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 1255150.66
+          }
+        ]
+      },
+      {
+        "@id": "Conta21",
+        "@nivel": "1.2.1.3",
+        "@descricao": "Ativos fiscais diferidos",
+        "@contaPai": "Conta14",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 17896322.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 18586744.51
+          }
+        ]
+      },
+      {
+        "@id": "Conta22",
+        "@nivel": "1.2.2",
+        "@descricao": "Permanente",
+        "@contaPai": "Conta13",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 15621362.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 15814640.69
+          }
+        ]
+      },
+      {
+        "@id": "Conta23",
+        "@nivel": "1.2.2.1",
+        "@descricao": "Investimentos em controladas",
+        "@contaPai": "Conta22",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 19915.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 10000.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta24",
+        "@nivel": "1.2.2.2",
+        "@descricao": "Intangível",
+        "@contaPai": "Conta22",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 28382615.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 22035448.94
+          }
+        ]
+      },
+      {
+        "@id": "Conta25",
+        "@nivel": "1.2.2.3",
+        "@descricao": "(-) Amortização",
+        "@contaPai": "Conta22",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -13435930.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -7126531.23
+          }
+        ]
+      },
+      {
+        "@id": "Conta26",
+        "@nivel": "1.2.2.4",
+        "@descricao": "Imobilizado",
+        "@contaPai": "Conta22",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 3299157.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 5440519.45
+          }
+        ]
+      },
+      {
+        "@id": "Conta27",
+        "@nivel": "1.2.2.5",
+        "@descricao": "(-) Depreciação",
+        "@contaPai": "Conta22",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -2644395.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -4544796.47
+          }
+        ]
+      },
+      {
+        "@id": "Conta28",
+        "@nivel": "2",
+        "@descricao": "Passivo e Patrimônio Líquido",
+        "@contaPai": ""
+      },
+      {
+        "@id": "Conta29",
+        "@nivel": "2.1",
+        "@descricao": "Circulante",
+        "@contaPai": "Conta28",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 846484487.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 773833440.3
+          }
+        ]
+      },
+      {
+        "@id": "Conta30",
+        "@nivel": "2.1.1",
+        "@descricao": "Instrumentos financeiros",
+        "@contaPai": "Conta29",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 827619104.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 754742261.3
+          }
+        ]
+      },
+      {
+        "@id": "Conta31",
+        "@nivel": "2.1.1.1",
+        "@descricao": "Obrigações por empréstimos",
+        "@contaPai": "Conta30",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 4985837.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 4976223.46
+          }
+        ]
+      },
+      {
+        "@id": "Conta32",
+        "@nivel": "2.1.1.2",
+        "@descricao": "Obrigações com bandeira",
+        "@contaPai": "Conta30",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 557539526.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 500089551.82
+          }
+        ]
+      },
+      {
+        "@id": "Conta33",
+        "@nivel": "2.1.1.3",
+        "@descricao": "Obrigações por transações de pagamentos",
+        "@contaPai": "Conta30",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 97385893.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 121407713.61
+          }
+        ]
+      },
+      {
+        "@id": "Conta34",
+        "@nivel": "2.1.1.4",
+        "@descricao": "Obrigações por operações vinculadas à cessão",
+        "@contaPai": "Conta30",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 133280247.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 120290708.52
+          }
+        ]
+      },
+      {
+        "@id": "Conta35",
+        "@nivel": "2.1.1.5",
+        "@descricao": "Debêntures",
+        "@contaPai": "Conta30",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 34427601.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 7978063.89
+          }
+        ]
+      },
+      {
+        "@id": "Conta36",
+        "@nivel": "2.1.2",
+        "@descricao": "Outras obrigações",
+        "@contaPai": "Conta29",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 18865383.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 19091179.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta37",
+        "@nivel": "2.1.2.1",
+        "@descricao": "Obrigações fiscais correntes ",
+        "@contaPai": "Conta36",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 8592869.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 6776974.95
+          }
+        ]
+      },
+      {
+        "@id": "Conta38",
+        "@nivel": "2.1.2.2",
+        "@descricao": "Provisão para pagamentos a efetuar",
+        "@contaPai": "Conta36",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 3535705.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 8019251.15
+          }
+        ]
+      },
+      {
+        "@id": "Conta39",
+        "@nivel": "2.1.2.3",
+        "@descricao": "Provisões",
+        "@contaPai": "Conta36",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 596791.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 402553.51
+          }
+        ]
+      },
+      {
+        "@id": "Conta40",
+        "@nivel": "2.1.2.4",
+        "@descricao": "Outras",
+        "@contaPai": "Conta36",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 6140018.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 3892399.5
+          }
+        ]
+      },
+      {
+        "@id": "Conta41",
+        "@nivel": "2.2",
+        "@descricao": "Não Circulante",
+        "@contaPai": "Conta28",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 355900215.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 241594634.62
+          }
+        ]
+      },
+      {
+        "@id": "Conta42",
+        "@nivel": "2.2.1",
+        "@descricao": "Exigível a longo prazo",
+        "@contaPai": "Conta41",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 355308626.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 239628695.62
+          }
+        ]
+      },
+      {
+        "@id": "Conta43",
+        "@nivel": "2.2.1.1",
+        "@descricao": "Instrumentos financeiros",
+        "@contaPai": "Conta42",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 355308626.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 239628695.62
+          }
+        ]
+      },
+      {
+        "@id": "Conta44",
+        "@nivel": "2.2.1.1.1",
+        "@descricao": "Obrigações por empréstimos",
+        "@contaPai": "Conta43",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 2953925.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 5394396.21
+          }
+        ]
+      },
+      {
+        "@id": "Conta45",
+        "@nivel": "2.2.1.1.2",
+        "@descricao": "Obrigações por operações vinculadas à cessão",
+        "@contaPai": "Conta43",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 352354701.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 223907360.52
+          }
+        ]
+      },
+      {
+        "@id": "Conta46",
+        "@nivel": "2.2.1.1.3",
+        "@descricao": "Debêntures",
+        "@contaPai": "Conta43",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 10326938.89
+          }
+        ]
+      },
+      {
+        "@id": "Conta47",
+        "@nivel": "2.3",
+        "@descricao": "Outras obrigações",
+        "@contaPai": "Conta28",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 591589.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 1965939.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta48",
+        "@nivel": "2.3.1",
+        "@descricao": "Obrigações fiscais diferidas",
+        "@contaPai": "Conta47",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 591589.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 1965938.93
+          }
+        ]
+      },
+      {
+        "@id": "Conta49",
+        "@nivel": "2.4",
+        "@descricao": "Patrimônio líquido",
+        "@contaPai": "Conta28",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 34079746.58
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 40123390.46
+          }
+        ]
+      },
+      {
+        "@id": "Conta50",
+        "@nivel": "2.4.1",
+        "@descricao": "Capital social",
+        "@contaPai": "Conta49",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 36259374.91
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 33220000.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta51",
+        "@nivel": "2.4.2",
+        "@descricao": "Reservas de lucros",
+        "@contaPai": "Conta49",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 4074357.09
+          }
+        ]
+      },
+      {
+        "@id": "Conta52",
+        "@nivel": "2.4.3",
+        "@descricao": "Outros resultados abrangentes",
+        "@contaPai": "Conta49",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 887382.61
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 2829033.37
+          }
+        ]
+      },
+      {
+        "@id": "Conta53",
+        "@nivel": "2.4.4",
+        "@descricao": "Lucros (prejuízos) acumulados",
+        "@contaPai": "Conta49",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -3067010.94
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 0.0
+          }
+        ]
+      }
+    ]
+  },
+  "DemonstracaoDoResultado": {
+    "contas": [
+      {
+        "@id": "Conta1",
+        "@nivel": "1",
+        "@descricao": "Receitas de intermediação financeira",
+        "@contaPai": ""
+      },
+      {
+        "@id": "Conta2",
+        "@nivel": "1.1",
+        "@descricao": "Receita de operações de cartão de crédito",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 463887928.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 397705520.19
+          }
+        ]
+      },
+      {
+        "@id": "Conta3",
+        "@nivel": "1.2",
+        "@descricao": "Receita de tarifas, rede e similares",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 93496329.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 59269557.75
+          }
+        ]
+      },
+      {
+        "@id": "Conta4",
+        "@nivel": "1.3",
+        "@descricao": "Resultado de títulos e valores mobiliários",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 21004618.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 21215274.05
+          }
+        ]
+      },
+      {
+        "@id": "Conta5",
+        "@nivel": "1.4",
+        "@descricao": "Variação cambial",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 34539.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 0.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta6",
+        "@nivel": "2",
+        "@descricao": "Despesas de intermediação financeira",
+        "@contaPai": ""
+      },
+      {
+        "@id": "Conta7",
+        "@nivel": "2.1",
+        "@descricao": "Despesas de juros e similares",
+        "@contaPai": "Conta6",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -97308639.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -77954714.73
+          }
+        ]
+      },
+      {
+        "@id": "Conta8",
+        "@nivel": "2.2",
+        "@descricao": "Outras despesas relacionados a crédito",
+        "@contaPai": "Conta6",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -24176612.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -30745886.77
+          }
+        ]
+      },
+      {
+        "@id": "Conta9",
+        "@nivel": "2.3",
+        "@descricao": "Despesas de processamento e infraestrutura",
+        "@contaPai": "Conta6",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -9624336.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -20855892.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta10",
+        "@nivel": "2.4",
+        "@descricao": "Despesas com tarifas e similares",
+        "@contaPai": "Conta6",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -8018435.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -10372989.21
+          }
+        ]
+      },
+      {
+        "@id": "Conta11",
+        "@nivel": "2.5",
+        "@descricao": "Variação cambial",
+        "@contaPai": "Conta6",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -1490598.09
+          }
+        ]
+      },
+      {
+        "@id": "Conta12",
+        "@nivel": "3",
+        "@descricao": "Resultado de intermediação financeira antes da provisão para perdas esperadas",
+        "@contaPai": ""
+      },
+      {
+        "@id": "Conta13",
+        "@nivel": "3.1",
+        "@descricao": "Provisão para perdas esperadas associadas ao risco de crédito",
+        "@contaPai": "Conta12",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -343214085.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -241895079.69
+          }
+        ]
+      },
+      {
+        "@id": "Conta14",
+        "@nivel": "4",
+        "@descricao": "Resultado de intermediação financeira",
+        "@contaPai": ""
+      },
+      {
+        "@id": "Conta15",
+        "@nivel": "5",
+        "@descricao": "Outras receitas e despesas",
+        "@contaPai": ""
+      },
+      {
+        "@id": "Conta16",
+        "@nivel": "5.1",
+        "@descricao": "Despesa de pessoal",
+        "@contaPai": "Conta15",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -33484795.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -40867793.01
+          }
+        ]
+      },
+      {
+        "@id": "Conta17",
+        "@nivel": "5.2",
+        "@descricao": "Despesas tributárias",
+        "@contaPai": "Conta15",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -39232377.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -33076326.87
+          }
+        ]
+      },
+      {
+        "@id": "Conta18",
+        "@nivel": "5.3",
+        "@descricao": "Despesas de provisões",
+        "@contaPai": "Conta15",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -2038954.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -1800516.19
+          }
+        ]
+      },
+      {
+        "@id": "Conta19",
+        "@nivel": "5.4",
+        "@descricao": "Despesas administrativas e gerais",
+        "@contaPai": "Conta15",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -26183426.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -23932635.84
+          }
+        ]
+      },
+      {
+        "@id": "Conta20",
+        "@nivel": "5.5",
+        "@descricao": "Resultado de equivalência patrimonial",
+        "@contaPai": "Conta15",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -85.37
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 0.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta21",
+        "@nivel": "5.6",
+        "@descricao": "Outras receitas",
+        "@contaPai": "Conta15",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 2913608.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 3708216.62
+          }
+        ]
+      },
+      {
+        "@id": "Conta22",
+        "@nivel": "5.7",
+        "@descricao": "Outras despesas",
+        "@contaPai": "Conta15",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -1466848.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -434904.7
+          }
+        ]
+      },
+      {
+        "@id": "Conta23",
+        "@nivel": "6",
+        "@descricao": "Resultado antes de tributos e participações",
+        "@contaPai": ""
+      },
+      {
+        "@id": "Conta24",
+        "@nivel": "7",
+        "@descricao": "Tributos e participações",
+        "@contaPai": ""
+      },
+      {
+        "@id": "Conta25",
+        "@nivel": "7.1",
+        "@descricao": "IR e CSLL correntes",
+        "@contaPai": "Conta24",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 34277.74
+          }
+        ]
+      },
+      {
+        "@id": "Conta26",
+        "@nivel": "7.2",
+        "@descricao": "IR e CSLL diferidos",
+        "@contaPai": "Conta24",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -690423.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -2324848.3
+          }
+        ]
+      },
+      {
+        "@id": "Conta27",
+        "@nivel": "8",
+        "@descricao": "Resultado líquido",
+        "@contaPai": ""
+      }
+    ]
+  },
+  "DemonstracaoDoResultadoAbrangente": {
+    "contas": [
+      {
+        "@id": "Conta1",
+        "@nivel": "1",
+        "@descricao": "Lucro (prejuízo) líquido do exercício",
+        "@contaPai": ""
+      },
+      {
+        "@id": "Conta2",
+        "@nivel": "2",
+        "@descricao": "Resultados abrangentes",
+        "@contaPai": ""
+      },
+      {
+        "@id": "Conta3",
+        "@nivel": "2.1",
+        "@descricao": "Ajuste a valor de mercado de títulos e valores mobiliários",
+        "@contaPai": "Conta2",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -3316001
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 3608588.77
+          }
+        ]
+      },
+      {
+        "@id": "Conta4",
+        "@nivel": "2.1.1",
+        "@descricao": "Ajuste de avaliação patrimonial por rendimentos de cotas de fundos",
+        "@contaPai": "Conta3",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 12699425
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 13804291.61
+          }
+        ]
+      },
+      {
+        "@id": "Conta5",
+        "@nivel": "2.1.2",
+        "@descricao": "Resgate de rendimentos de cotas de fundos",
+        "@contaPai": "Conta3",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -14406184
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -10500000.22
+          }
+        ]
+      },
+      {
+        "@id": "Conta6",
+        "@nivel": "2.1.3",
+        "@descricao": "Outros ajustes de avalidação patrimonial",
+        "@contaPai": "Conta3",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -1609242
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 304297.38
+          }
+        ]
+      },
+      {
+        "@id": "Conta7",
+        "@nivel": "2.2",
+        "@descricao": "Tributos diferidos sobre ajuste a valor de mercado",
+        "@contaPai": "Conta2",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 1374350
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -1432066.07
+          }
+        ]
+      },
+      {
+        "@id": "Conta8",
+        "@nivel": "3",
+        "@descricao": "Resultado abrangente total do exercício",
+        "@contaPai": ""
+      }
+    ]
+  },
+  "DemonstracaoDosFluxosDeCaixa": {
+    "contas": [
+      {
+        "@id": "Conta1",
+        "@nivel": "1",
+        "@descricao": "Resultado antes dos tributos sobre o lucro",
+        "@contaPai": ""
+      },
+      {
+        "@id": "Conta2",
+        "@nivel": "1.1",
+        "@descricao": "Rendimento de títulos e valores mobiliários, líquidos",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -3833097.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -6159757.69
+          }
+        ]
+      },
+      {
+        "@id": "Conta3",
+        "@nivel": "1.2",
+        "@descricao": "Provisão para perdas esperadas associadas ao risco de crédito",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 343214085.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 241895079.69
+          }
+        ]
+      },
+      {
+        "@id": "Conta4",
+        "@nivel": "1.3",
+        "@descricao": "Ajuste a valor de mercado",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -81497.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 5132.78
+          }
+        ]
+      },
+      {
+        "@id": "Conta5",
+        "@nivel": "1.4",
+        "@descricao": "Resultado com ganhos ou perdas com equivalência patrimonial",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 85.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 0.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta6",
+        "@nivel": "1.5",
+        "@descricao": "Resultado auferido com cotas de fundos de investimentos",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -14406184.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -10500000.21
+          }
+        ]
+      },
+      {
+        "@id": "Conta7",
+        "@nivel": "1.6",
+        "@descricao": "Variação cambial",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -34539.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 1490598.09
+          }
+        ]
+      },
+      {
+        "@id": "Conta8",
+        "@nivel": "1.7",
+        "@descricao": "Depreciação e amortização",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 6630899.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 3904561.21
+          }
+        ]
+      },
+      {
+        "@id": "Conta9",
+        "@nivel": "1.8",
+        "@descricao": "Resultado pela baixa de imobilizado e intangível",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 2092107.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 4449.26
+          }
+        ]
+      },
+      {
+        "@id": "Conta10",
+        "@nivel": "1.9",
+        "@descricao": "Encargos de obrigações vinculadas à cessão",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 85638113.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 70035376.53
+          }
+        ]
+      },
+      {
+        "@id": "Conta11",
+        "@nivel": "1.1",
+        "@descricao": "Encargos de obrigações por empréstimos",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 1986105.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 2614414.14
+          }
+        ]
+      },
+      {
+        "@id": "Conta12",
+        "@nivel": "1.11",
+        "@descricao": "Juros sobre debêntures",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 5984075.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 5022883.62
+          }
+        ]
+      },
+      {
+        "@id": "Conta13",
+        "@nivel": "1.12",
+        "@descricao": "Provisões para contingências passivas",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 194238.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -67579.12
+          }
+        ]
+      },
+      {
+        "@id": "Conta14",
+        "@nivel": "2",
+        "@descricao": "Redução (aumento) de ativos operacionais",
+        "@contaPai": ""
+      },
+      {
+        "@id": "Conta15",
+        "@nivel": "2.1",
+        "@descricao": "Títulos e valores mobiliários (aplicação)",
+        "@contaPai": "Conta14",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -32255915.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -110677838.89
+          }
+        ]
+      },
+      {
+        "@id": "Conta16",
+        "@nivel": "2.2",
+        "@descricao": "Títulos e valores mobiliários (resgate)",
+        "@contaPai": "Conta14",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 43968743.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 121229781.55
+          }
+        ]
+      },
+      {
+        "@id": "Conta17",
+        "@nivel": "2.3",
+        "@descricao": "Operações com cartões de crédito",
+        "@contaPai": "Conta14",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -432414014.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -498247435.59
+          }
+        ]
+      },
+      {
+        "@id": "Conta18",
+        "@nivel": "2.4",
+        "@descricao": "Outras contas a receber",
+        "@contaPai": "Conta14",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 3947056.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -24394474.27
+          }
+        ]
+      },
+      {
+        "@id": "Conta19",
+        "@nivel": "2.5",
+        "@descricao": "Ativos fiscais correntes",
+        "@contaPai": "Conta14",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -2889323.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 3132021.95
+          }
+        ]
+      },
+      {
+        "@id": "Conta20",
+        "@nivel": "2.7",
+        "@descricao": "Outros créditos",
+        "@contaPai": "Conta14",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -9204483.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 12789155.32
+          }
+        ]
+      },
+      {
+        "@id": "Conta21",
+        "@nivel": "3",
+        "@descricao": "Aumento (redução) de passivos operacionais",
+        "@contaPai": ""
+      },
+      {
+        "@id": "Conta22",
+        "@nivel": "3.1",
+        "@descricao": "Obrigações com bandeira",
+        "@contaPai": "Conta21",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 58091018.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 185884072.95
+          }
+        ]
+      },
+      {
+        "@id": "Conta23",
+        "@nivel": "3.3",
+        "@descricao": "Obrigações fiscais correntes",
+        "@contaPai": "Conta21",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -763023.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 1761692.79
+          }
+        ]
+      },
+      {
+        "@id": "Conta24",
+        "@nivel": "3.4",
+        "@descricao": "Obrigações por transações de pagamentos",
+        "@contaPai": "Conta21",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -50899430.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 41697366.9
+          }
+        ]
+      },
+      {
+        "@id": "Conta25",
+        "@nivel": "3.5",
+        "@descricao": "Provisão para pagamentos a efetuar",
+        "@contaPai": "Conta21",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -4483546.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -162390.33
+          }
+        ]
+      },
+      {
+        "@id": "Conta26",
+        "@nivel": "3.8",
+        "@descricao": "Outras",
+        "@contaPai": "Conta21",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 2247619.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -696819.74
+          }
+        ]
+      },
+      {
+        "@id": "Conta27",
+        "@nivel": "3.9",
+        "@descricao": "Tributos sobre o lucro pagos",
+        "@contaPai": "Conta21",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 2578917.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 0.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta28",
+        "@nivel": "4",
+        "@descricao": "Fluxos de caixa das atividades de investimentos",
+        "@contaPai": ""
+      },
+      {
+        "@id": "Conta29",
+        "@nivel": "4.1",
+        "@descricao": "Participação em empresas controladas",
+        "@contaPai": "Conta28",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -10000.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 0.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta30",
+        "@nivel": "4.2",
+        "@descricao": "Aquisição de cotas de fundos de investimentos",
+        "@contaPai": "Conta28",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -3000000.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -20200000.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta31",
+        "@nivel": "4.3",
+        "@descricao": "Resgate de cotas de fundos de investimentos",
+        "@contaPai": "Conta28",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 35906184.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 0.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta32",
+        "@nivel": "4.4",
+        "@descricao": "Aquisição de imobilizado",
+        "@contaPai": "Conta28",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -180158.88
+          }
+        ]
+      },
+      {
+        "@id": "Conta33",
+        "@nivel": "4.5",
+        "@descricao": "Aquisição de intangível",
+        "@contaPai": "Conta28",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -8519814.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -9246644.87
+          }
+        ]
+      },
+      {
+        "@id": "Conta34",
+        "@nivel": "5",
+        "@descricao": "Fluxos de caixa das atividades de financiamentos",
+        "@contaPai": ""
+      },
+      {
+        "@id": "Conta35",
+        "@nivel": "5.1",
+        "@descricao": "Captação de empréstimos",
+        "@contaPai": "Conta34",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 7154514.16
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 0.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta36",
+        "@nivel": "5.2",
+        "@descricao": "Juros de empréstimos pagos",
+        "@contaPai": "Conta34",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -2368380.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -2526872.66
+          }
+        ]
+      },
+      {
+        "@id": "Conta37",
+        "@nivel": "5.3",
+        "@descricao": "Amortização de empréstimos",
+        "@contaPai": "Conta34",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -5156953.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -4643885.5
+          }
+        ]
+      },
+      {
+        "@id": "Conta38",
+        "@nivel": "5.4",
+        "@descricao": "Aumento de obrigações vinculadas à cessão",
+        "@contaPai": "Conta34",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 258781148.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 101098883.83
+          }
+        ]
+      },
+      {
+        "@id": "Conta39",
+        "@nivel": "5.5",
+        "@descricao": "Encargos de obrigações vinculadas à cessão pagos",
+        "@contaPai": "Conta34",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -75196864.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -75782537.83
+          }
+        ]
+      },
+      {
+        "@id": "Conta40",
+        "@nivel": "5.6",
+        "@descricao": "Amortização de obrigações vinculadas à cessão",
+        "@contaPai": "Conta34",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -128110330.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -40335462.9
+          }
+        ]
+      },
+      {
+        "@id": "Conta41",
+        "@nivel": "5.7",
+        "@descricao": "Captação de debêntures",
+        "@contaPai": "Conta34",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 25000000.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 0.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta42",
+        "@nivel": "5.8",
+        "@descricao": "Juros de debêntures pagos",
+        "@contaPai": "Conta34",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -5337388.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -4320280.05
+          }
+        ]
+      },
+      {
+        "@id": "Conta43",
+        "@nivel": "5.9",
+        "@descricao": "Amortização de debêntures",
+        "@contaPai": "Conta34",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": -41333347.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -8333357.43
+          }
+        ]
+      },
+      {
+        "@id": "Conta44",
+        "@nivel": "5.1",
+        "@descricao": "Dividendos e juros sobre capital próprio pagos",
+        "@contaPai": "Conta34",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -1487767.92
+          }
+        ]
+      },
+      {
+        "@id": "Conta45",
+        "@nivel": "6",
+        "@descricao": "Aumento (redução) de caixa e equivalentes a caixa",
+        "@contaPai": ""
+      },
+      {
+        "@id": "Conta46",
+        "@nivel": "6.1",
+        "@descricao": "No início do período",
+        "@contaPai": "Conta45",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 28998999.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 55925561.27
+          }
+        ]
+      },
+      {
+        "@id": "Conta47",
+        "@nivel": "6.2",
+        "@descricao": "No fim do período",
+        "@contaPai": "Conta45",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt1",
+            "@valor": 88704208.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 28998999.24
+          }
+        ]
+      },
+      {
+        "@id": "Conta48",
+        "@nivel": "7",
+        "@descricao": "Aumento (redução) de caixa e equivalentes a caixa",
+        "@contaPai": ""
+      }
+    ]
+  },
+  "DemonstracaoDasMutacoesDoPatrimonioLiquido": {
+    "contas": [
+      {
+        "@id": "Conta1",
+        "@nivel": "1",
+        "@descricao": "Capital Social",
+        "@contaPai": "",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt3",
+            "@valor": 33220000.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 33220000.0
+          },
+          {
+            "@dtBase": "dt1",
+            "@valor": 36259374.92
+          }
+        ]
+      },
+      {
+        "@id": "Conta2",
+        "@nivel": "1.1",
+        "@descricao": "Incorporação de reserva estatutáia ao Capital Social",
+        "@contaPai": "Conta1",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt3",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt1",
+            "@valor": 3039374.92
+          }
+        ]
+      },
+      {
+        "@id": "Conta3",
+        "@nivel": "2",
+        "@descricao": "Reserva Legal",
+        "@contaPai": "",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt3",
+            "@valor": 1034982.18
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 1034982.18
+          },
+          {
+            "@dtBase": "dt1",
+            "@valor": 0.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta4",
+        "@nivel": "2.1",
+        "@descricao": " Constituição",
+        "@contaPai": "Conta3",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt3",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 1034982.18
+          },
+          {
+            "@dtBase": "dt1",
+            "@valor": -1034982.18
+          }
+        ]
+      },
+      {
+        "@id": "Conta5",
+        "@nivel": "2.2",
+        "@descricao": " Destinações",
+        "@contaPai": "Conta3",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt3",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt1",
+            "@valor": 0.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta6",
+        "@nivel": "3",
+        "@descricao": "Reserva Estatutária",
+        "@contaPai": "",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt3",
+            "@valor": 6858714.43
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 3039374.92
+          },
+          {
+            "@dtBase": "dt1",
+            "@valor": 0.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta7",
+        "@nivel": "3.1",
+        "@descricao": " Destinações",
+        "@contaPai": "Conta6",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt3",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -3819339.51
+          },
+          {
+            "@dtBase": "dt1",
+            "@valor": -3039374.92
+          }
+        ]
+      },
+      {
+        "@id": "Conta8",
+        "@nivel": "4",
+        "@descricao": "Outros Resultados Abrangentes",
+        "@contaPai": "",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt3",
+            "@valor": 652510.68
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 2829033.37
+          },
+          {
+            "@dtBase": "dt1",
+            "@valor": 887382.61
+          }
+        ]
+      },
+      {
+        "@id": "Conta9",
+        "@nivel": "4.1",
+        "@descricao": " Ajuste de avaliação patrimonial - instrumentos financeiros, líquido",
+        "@contaPai": "Conta8",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt3",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 2176522.7
+          },
+          {
+            "@dtBase": "dt1",
+            "@valor": -1941650.77
+          }
+        ]
+      },
+      {
+        "@id": "Conta10",
+        "@nivel": "5",
+        "@descricao": "Lucros/Prejuízos Acumulados",
+        "@contaPai": "",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt3",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt1",
+            "@valor": -3067010.82
+          }
+        ]
+      },
+      {
+        "@id": "Conta11",
+        "@nivel": "5.1",
+        "@descricao": " Resultado do exercício",
+        "@contaPai": "Conta10",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt3",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": -3819339.51
+          },
+          {
+            "@dtBase": "dt1",
+            "@valor": -4101993.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta12",
+        "@nivel": "5.2",
+        "@descricao": " Destinações - Reserva Legal",
+        "@contaPai": "Conta10",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt3",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt1",
+            "@valor": 1034982.18
+          }
+        ]
+      },
+      {
+        "@id": "Conta13",
+        "@nivel": "5.3",
+        "@descricao": " Destinações - Reserva Estatutária",
+        "@contaPai": "Conta10",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt3",
+            "@valor": 0.0
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 3819339.51
+          },
+          {
+            "@dtBase": "dt1",
+            "@valor": 0.0
+          }
+        ]
+      },
+      {
+        "@id": "Conta14",
+        "@nivel": "6",
+        "@descricao": "Total",
+        "@contaPai": "",
+        "valoresIndividualizados": [
+          {
+            "@dtBase": "dt3",
+            "@valor": 41766207.28
+          },
+          {
+            "@dtBase": "dt2",
+            "@valor": 40123390.47
+          },
+          {
+            "@dtBase": "dt1",
+            "@valor": 34079746.7
+          }
+        ]
+      }
+    ]
+  }
+}

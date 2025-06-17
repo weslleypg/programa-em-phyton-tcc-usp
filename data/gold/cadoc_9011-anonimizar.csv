@@ -1,0 +1,2076 @@
+bloco,escopo,nivel,descricao,valor,cnpj,periodo
+BP,IND,1,Total Ativo,87324870000.0,01027058,2020-12-31
+BP,CON,1,Total Ativo,90530589000.0,01027058,2020-12-31
+BP,IND,1.1,Total do ativo circulante,75344779000.0,01027058,2020-12-31
+BP,CON,1.1,Total do ativo circulante,75760144000.0,01027058,2020-12-31
+BP,IND,1.1.01,Disponibilidades,34083000.0,01027058,2020-12-31
+BP,CON,1.1.01,Disponibilidades,127969000.0,01027058,2020-12-31
+BP,IND,1.1.02,"Instrumentos financeiros, incluindo derivativos",2631697000.0,01027058,2020-12-31
+BP,CON,1.1.02,"Instrumentos financeiros, incluindo derivativos",3617998000.0,01027058,2020-12-31
+BP,IND,1.1.03,Fundos de investimento em direitos creditórios,1850998000.0,01027058,2020-12-31
+BP,CON,1.1.03,Fundos de investimento em direitos creditórios,0.0,01027058,2020-12-31
+BP,IND,1.1.04,Rendas a receber,338095000.0,01027058,2020-12-31
+BP,CON,1.1.04,Rendas a receber,935733000.0,01027058,2020-12-31
+BP,IND,1.1.05,Contas a receber de emissores,70034602000.0,01027058,2020-12-31
+BP,CON,1.1.05,Contas a receber de emissores,70211977000.0,01027058,2020-12-31
+BP,IND,1.1.06,Contas a receber com partes relacionadas,5265000.0,01027058,2020-12-31
+BP,CON,1.1.06,Contas a receber com partes relacionadas,29907000.0,01027058,2020-12-31
+BP,IND,1.1.07,Impostos e contribuições a compensar/recuperar,497087000.0,01027058,2020-12-31
+BP,CON,1.1.07,Impostos e contribuições a compensar/recuperar,810768000.0,01027058,2020-12-31
+BP,IND,1.1.08,Outras contas a receber operacionais,186678000.0,01027058,2020-12-31
+BP,CON,1.1.08,Outras contas a receber operacionais,262894000.0,01027058,2020-12-31
+BP,IND,1.1.09,Provisão para créditos incobráveis,-277701000.0,01027058,2020-12-31
+BP,CON,1.1.09,Provisão para créditos incobráveis,-304582000.0,01027058,2020-12-31
+BP,IND,1.1.10,Outros valores a receber,43975000.0,01027058,2020-12-31
+BP,CON,1.1.10,Outros valores a receber,67480000.0,01027058,2020-12-31
+BP,IND,1.2,Total do ativo realizável a longo prazo e permanente,11980091000.0,01027058,2020-12-31
+BP,CON,1.2,Total do ativo realizável a longo prazo e permanente,14770445000.0,01027058,2020-12-31
+BP,IND,1.2.01.01,"Instrumentos financeiros, incluindo derivativos",175498000.0,01027058,2020-12-31
+BP,CON,1.2.01.01,"Instrumentos financeiros, incluindo derivativos",457892000.0,01027058,2020-12-31
+BP,IND,1.2.01.02,Depósitos judiciais,1576406000.0,01027058,2020-12-31
+BP,CON,1.2.01.02,Depósitos judiciais,1578987000.0,01027058,2020-12-31
+BP,IND,1.2.01.03,Créditos tributários,927919000.0,01027058,2020-12-31
+BP,CON,1.2.01.03,Créditos tributários,1159755000.0,01027058,2020-12-31
+BP,IND,1.2.01.04,Outras contas a receber operacionais,20638000.0,01027058,2020-12-31
+BP,CON,1.2.01.04,Outras contas a receber operacionais,22410000.0,01027058,2020-12-31
+BP,IND,1.2.02.01,Investimentos,7753343000.0,01027058,2020-12-31
+BP,CON,1.2.02.01,Investimentos,121890000.0,01027058,2020-12-31
+BP,IND,1.2.02.02,Imobilizado de uso,929880000.0,01027058,2020-12-31
+BP,CON,1.2.02.02,Imobilizado de uso,986756000.0,01027058,2020-12-31
+BP,IND,1.2.02.03,Intangível,596407000.0,01027058,2020-12-31
+BP,CON,1.2.02.03,Intangível,10442755000.0,01027058,2020-12-31
+BP,IND,2,Total do passivo e patrimônio líquido,87324870000.0,01027058,2020-12-31
+BP,CON,2,Total do passivo e patrimônio líquido,90530589000.0,01027058,2020-12-31
+BP,IND,2.1,Total do passivo circulante,67687515000.0,01027058,2020-12-31
+BP,CON,2.1,Total do passivo circulante,67097518000.0,01027058,2020-12-31
+BP,IND,2.1.01,Obrigações por empréstimos,40214000.0,01027058,2020-12-31
+BP,CON,2.1.01,Obrigações por empréstimos,40960000.0,01027058,2020-12-31
+BP,IND,2.1.02,Instrumentos financeiros derivativos,2079000.0,01027058,2020-12-31
+BP,CON,2.1.02,Instrumentos financeiros derivativos,2079000.0,01027058,2020-12-31
+BP,IND,2.1.03,Outras obrigações,67645222000.0,01027058,2020-12-31
+BP,CON,2.1.03,Outras obrigações,67054479000.0,01027058,2020-12-31
+BP,IND,2.1.03.01,Sociais e estatutárias,223244000.0,01027058,2020-12-31
+BP,CON,2.1.03.01,Sociais e estatutárias,277043000.0,01027058,2020-12-31
+BP,IND,2.1.03.02,Fiscais e previdenciárias,236452000.0,01027058,2020-12-31
+BP,CON,2.1.03.02,Fiscais e previdenciárias,581140000.0,01027058,2020-12-31
+BP,IND,2.1.03.03,Obrigações com cotas de terceiros FIDC,0.0,01027058,2020-12-31
+BP,CON,2.1.03.03,Obrigações com cotas de terceiros FIDC,3041462000.0,01027058,2020-12-31
+BP,IND,2.1.03.04,Contas a pagar a estabelecimentos,61529245000.0,01027058,2020-12-31
+BP,CON,2.1.03.04,Contas a pagar a estabelecimentos,61765044000.0,01027058,2020-12-31
+BP,IND,2.1.03.05,Contas a pagar com partes relacionadas,5059410000.0,01027058,2020-12-31
+BP,CON,2.1.03.05,Contas a pagar com partes relacionadas,0.0,01027058,2020-12-31
+BP,IND,2.1.03.06,Outras,596871000.0,01027058,2020-12-31
+BP,CON,2.1.03.06,Outras,1389790000.0,01027058,2020-12-31
+BP,IND,2.2,Total do passivo exigível a longo prazo,10146501000.0,01027058,2020-12-31
+BP,CON,2.2,Total do passivo exigível a longo prazo,10827359000.0,01027058,2020-12-31
+BP,IND,2.2.01,Obrigações por empréstimos,6901822000.0,01027058,2020-12-31
+BP,CON,2.2.01,Obrigações por empréstimos,8903652000.0,01027058,2020-12-31
+BP,IND,2.2.02,Outras obrigações,3244679000.0,01027058,2020-12-31
+BP,CON,2.2.02,Outras obrigações,1923707000.0,01027058,2020-12-31
+BP,IND,2.2.02.01,Provisões para contingências,1819580000.0,01027058,2020-12-31
+BP,CON,2.2.02.01,Provisões para contingências,1838719000.0,01027058,2020-12-31
+BP,IND,2.2.02.02,Impostos e contribuições diferidos,0.0,01027058,2020-12-31
+BP,CON,2.2.02.02,Impostos e contribuições diferidos,34864000.0,01027058,2020-12-31
+BP,IND,2.2.02.03,Provisão para obrigações com investidas,1390012000.0,01027058,2020-12-31
+BP,CON,2.2.02.03,Provisão para obrigações com investidas,104000.0,01027058,2020-12-31
+BP,IND,2.2.02.04,Outras,35087000.0,01027058,2020-12-31
+BP,CON,2.2.02.04,Outras,50020000.0,01027058,2020-12-31
+BP,IND,2.2.02.05,Obrigações com cotas de terceiros FIDC,0.0,01027058,2020-12-31
+BP,CON,2.2.02.05,Obrigações com cotas de terceiros FIDC,0.0,01027058,2020-12-31
+BP,IND,2.3.01,Acionistas controladores,9490854000.0,01027058,2020-12-31
+BP,CON,2.3.01,Acionistas controladores,9490854000.0,01027058,2020-12-31
+BP,IND,2.3.01.01,Capital social,5700000000.0,01027058,2020-12-31
+BP,CON,2.3.01.01,Capital social,5700000000.0,01027058,2020-12-31
+BP,IND,2.3.01.02,Reservas de capital,67529000.0,01027058,2020-12-31
+BP,CON,2.3.01.02,Reservas de capital,67529000.0,01027058,2020-12-31
+BP,IND,2.3.01.03,Reservas de lucros,4031907000.0,01027058,2020-12-31
+BP,CON,2.3.01.03,Reservas de lucros,4031907000.0,01027058,2020-12-31
+BP,IND,2.3.01.04,Outros resultados abrangentes,-223767000.0,01027058,2020-12-31
+BP,CON,2.3.01.04,Outros resultados abrangentes,-223767000.0,01027058,2020-12-31
+BP,IND,2.3.01.05,(-) Ações em tesouraria,-84815000.0,01027058,2020-12-31
+BP,CON,2.3.01.05,(-) Ações em tesouraria,-84815000.0,01027058,2020-12-31
+BP,IND,2.3.02,Outros acionistas que não a Cielo,0.0,01027058,2020-12-31
+BP,CON,2.3.02,Outros acionistas que não a Cielo,3114858000.0,01027058,2020-12-31
+DR,IND,1,Receita líquida,4675572000.0,01027058,2020-12-31
+DR,CON,1,Receita líquida,11186013000.0,01027058,2020-12-31
+DR,IND,2,Custo dos serviços prestados,-2820654000.0,01027058,2020-12-31
+DR,CON,2,Custo dos serviços prestados,-8071148000.0,01027058,2020-12-31
+DR,IND,3,Lucro Bruto,1854918000.0,01027058,2020-12-31
+DR,CON,3,Lucro Bruto,3114865000.0,01027058,2020-12-31
+DR,IND,4.1,Pessoal,-287011000.0,01027058,2020-12-31
+DR,CON,4.1,Pessoal,-772533000.0,01027058,2020-12-31
+DR,IND,4.2,Gerais e administrativas,-511125000.0,01027058,2020-12-31
+DR,CON,4.2,Gerais e administrativas,-509658000.0,01027058,2020-12-31
+DR,IND,4.3,Vendas e marketing,-129743000.0,01027058,2020-12-31
+DR,CON,4.3,Vendas e marketing,-373416000.0,01027058,2020-12-31
+DR,IND,4.4,Equivalência patrimonial,-11366000.0,01027058,2020-12-31
+DR,CON,4.4,Equivalência patrimonial,-1882000.0,01027058,2020-12-31
+DR,IND,4.5,"Outras despesas operacionais, líquidas",-359374000.0,01027058,2020-12-31
+DR,CON,4.5,"Outras despesas operacionais, líquidas",-627889000.0,01027058,2020-12-31
+DR,IND,5,Lucro operacional,556299000.0,01027058,2020-12-31
+DR,CON,5,Lucro operacional,829487000.0,01027058,2020-12-31
+DR,IND,6.1,Receitas financeiras,52816000.0,01027058,2020-12-31
+DR,CON,6.1,Receitas financeiras,160639000.0,01027058,2020-12-31
+DR,IND,6.2,Despesas financeiras,-336470000.0,01027058,2020-12-31
+DR,CON,6.2,Despesas financeiras,-511907000.0,01027058,2020-12-31
+DR,IND,6.4,Rendimento de cotas FIDCs e Antecipação de Recebíveis,424441000.0,01027058,2020-12-31
+DR,CON,6.4,Rendimento de cotas FIDCs e Antecipação de Recebíveis,502672000.0,01027058,2020-12-31
+DR,IND,6.4,"Ganho e (perda) de variação cambial, líquida",-29661000.0,01027058,2020-12-31
+DR,CON,6.4,"Ganho e (perda) de variação cambial, líquida",-29918000.0,01027058,2020-12-31
+DR,IND,7,Lucro operacional antes do imposto e renda e da contribuição social,667425000.0,01027058,2020-12-31
+DR,CON,7,Lucro operacional antes do imposto e renda e da contribuição social,950973000.0,01027058,2020-12-31
+DR,IND,8.1,Correntes,-203401000.0,01027058,2020-12-31
+DR,CON,8.1,Correntes,-397686000.0,01027058,2020-12-31
+DR,IND,8.2,Diferidos,26225000.0,01027058,2020-12-31
+DR,CON,8.2,Diferidos,78226000.0,01027058,2020-12-31
+DR,IND,9,Lucro líquido do período,490249000.0,01027058,2020-12-31
+DR,CON,9,Lucro líquido do período,631513000.0,01027058,2020-12-31
+DR,IND,11,Acionistas controladores,0.0,01027058,2020-12-31
+DR,CON,11,Acionistas controladores,490249000.0,01027058,2020-12-31
+DR,IND,12,Outros acionistas que não a Cielo,0.0,01027058,2020-12-31
+DR,CON,12,Outros acionistas que não a Cielo,141264000.0,01027058,2020-12-31
+DR,IND,13,Lucro líquido por ação (em R$) - Básico,180.91,01027058,2020-12-31
+DR,CON,13,Lucro líquido por ação (em R$) - Básico,180.91,01027058,2020-12-31
+DR,IND,14,Lucro líquido por ação (em R$) - Diluído,180.35000000000002,01027058,2020-12-31
+DR,CON,14,Lucro líquido por ação (em R$) - Diluído,180.35000000000002,01027058,2020-12-31
+DRA,IND,1,Lucro líquido do período,490249000.0,01027058,2020-12-31
+DRA,CON,1,Lucro líquido do período,631513000.0,01027058,2020-12-31
+DRA,IND,4,Variação cambial sobre investimentos no exterior,-250349000.0,01027058,2020-12-31
+DRA,CON,4,Variação cambial sobre investimentos no exterior,-250349000.0,01027058,2020-12-31
+DRA,IND,5,Benefício pós-emprego,13866000.0,01027058,2020-12-31
+DRA,CON,5,Benefício pós-emprego,13866000.0,01027058,2020-12-31
+DRA,IND,6,Movimentações do período,-236483000.0,01027058,2020-12-31
+DRA,CON,6,Movimentações do período,-236483000.0,01027058,2020-12-31
+DRA,IND,7,Resultado abrangente total do período,253766000.0,01027058,2020-12-31
+DRA,CON,7,Resultado abrangente total do período,395030000.0,01027058,2020-12-31
+DRA,IND,9,Acionistas controladores,0.0,01027058,2020-12-31
+DRA,CON,9,Acionistas controladores,253766000.0,01027058,2020-12-31
+DRA,IND,10,Outros acionistas que não a Cielo,0.0,01027058,2020-12-31
+DRA,CON,10,Outros acionistas que não a Cielo,141264000.0,01027058,2020-12-31
+DFC,IND,2,Lucro antes do imposto de renda e da contribuição social,667425000.0,01027058,2020-12-31
+DFC,CON,2,Lucro antes do imposto de renda e da contribuição social,950973000.0,01027058,2020-12-31
+DFC,IND,4,Depreciações e amortizações,472729000.0,01027058,2020-12-31
+DFC,CON,4,Depreciações e amortizações,1228503000.0,01027058,2020-12-31
+DFC,IND,5,Baixas/perdas de imobilizado e intangível,42995000.0,01027058,2020-12-31
+DFC,CON,5,Baixas/perdas de imobilizado e intangível,83910000.0,01027058,2020-12-31
+DFC,IND,6,Equivalência patrimonial,11366000.0,01027058,2020-12-31
+DFC,CON,6,Equivalência patrimonial,1882000.0,01027058,2020-12-31
+DFC,IND,7,Variação cambial sobre imobilizado e intangível,0.0,01027058,2020-12-31
+DFC,CON,7,Variação cambial sobre imobilizado e intangível,-138741000.0,01027058,2020-12-31
+DFC,IND,8,Ações restritas outorgadas,13468000.0,01027058,2020-12-31
+DFC,CON,8,Ações restritas outorgadas,13468000.0,01027058,2020-12-31
+DFC,IND,9,Transferência de ações em tesouraria pelo exercício de ações,-11597000.0,01027058,2020-12-31
+DFC,CON,9,Transferência de ações em tesouraria pelo exercício de ações,-11597000.0,01027058,2020-12-31
+DFC,IND,10,Perdas com créditos incobráveis e fraude,255540000.0,01027058,2020-12-31
+DFC,CON,10,Perdas com créditos incobráveis e fraude,511854000.0,01027058,2020-12-31
+DFC,IND,11,"Provisão para riscos tributários, cíveis e trabalhistas",60360000.0,01027058,2020-12-31
+DFC,CON,11,"Provisão para riscos tributários, cíveis e trabalhistas",58103000.0,01027058,2020-12-31
+DFC,IND,12,Variação cambial sobre juros de empréstimos e financiamentos captados no exterior,301535000.0,01027058,2020-12-31
+DFC,CON,12,Variação cambial sobre juros de empréstimos e financiamentos captados no exterior,788882000.0,01027058,2020-12-31
+DFC,IND,13,Resultado com instrumentos financeiros derivativos,-302417000.0,01027058,2020-12-31
+DFC,CON,13,Resultado com instrumentos financeiros derivativos,-302417000.0,01027058,2020-12-31
+DFC,IND,14,Juros sobre empréstimos e financiamentos,252806000.0,01027058,2020-12-31
+DFC,CON,14,Juros sobre empréstimos e financiamentos,254397000.0,01027058,2020-12-31
+DFC,IND,15,Amortização de custos de emissão de dívidas,33700000.0,01027058,2020-12-31
+DFC,CON,15,Amortização de custos de emissão de dívidas,33700000.0,01027058,2020-12-31
+DFC,IND,16,Rendimento de participação no FIDC,-424441000.0,01027058,2020-12-31
+DFC,CON,16,Rendimento de participação no FIDC,0.0,01027058,2020-12-31
+DFC,IND,18,Rendas a receber,-53457000.0,01027058,2020-12-31
+DFC,CON,18,Rendas a receber,-89964000.0,01027058,2020-12-31
+DFC,IND,19,Contas a receber de emissores,1606484000.0,01027058,2020-12-31
+DFC,CON,19,Contas a receber de emissores,1505082000.0,01027058,2020-12-31
+DFC,IND,20,Contas a receber com partes relacionadas,191628000.0,01027058,2020-12-31
+DFC,CON,20,Contas a receber com partes relacionadas,0.0,01027058,2020-12-31
+DFC,IND,21,Impostos e contribuições a compensar/recuperar,-386488000.0,01027058,2020-12-31
+DFC,CON,21,Impostos e contribuições a compensar/recuperar,-349266000.0,01027058,2020-12-31
+DFC,IND,22,Depósitos judiciais,10215000.0,01027058,2020-12-31
+DFC,CON,22,Depósitos judiciais,15153000.0,01027058,2020-12-31
+DFC,IND,23,Outros valores e bens,41748000.0,01027058,2020-12-31
+DFC,CON,23,Outros valores e bens,33377000.0,01027058,2020-12-31
+DFC,IND,24,Outros ativos,-102282000.0,01027058,2020-12-31
+DFC,CON,24,Outros ativos,-91735000.0,01027058,2020-12-31
+DFC,IND,25,"Instrumentos financeiros, incluindo derivativos",130065000.0,01027058,2020-12-31
+DFC,CON,25,"Instrumentos financeiros, incluindo derivativos",-391055000.0,01027058,2020-12-31
+DFC,IND,27,Sociais e estatutárias:,-2688000.0,01027058,2020-12-31
+DFC,CON,27,Sociais e estatutárias:,-2736000.0,01027058,2020-12-31
+DFC,IND,28,Fiscais e previdenciárias,-6974000.0,01027058,2020-12-31
+DFC,CON,28,Fiscais e previdenciárias,30884000.0,01027058,2020-12-31
+DFC,IND,29,Contas a pagar a estabelecimentos,-1275899000.0,01027058,2020-12-31
+DFC,CON,29,Contas a pagar a estabelecimentos,-1575936000.0,01027058,2020-12-31
+DFC,IND,30,Contas a pagar com partes relacionadas,-4847033000.0,01027058,2020-12-31
+DFC,CON,30,Contas a pagar com partes relacionadas,0.0,01027058,2020-12-31
+DFC,IND,31,Provisões para contingências,-47654000.0,01027058,2020-12-31
+DFC,CON,31,Provisões para contingências,-50131000.0,01027058,2020-12-31
+DFC,IND,32,Outros passivos,-4191000.0,01027058,2020-12-31
+DFC,CON,32,Outros passivos,67062000.0,01027058,2020-12-31
+DFC,IND,33,Caixa proveniente/(utilizado) das operações,-3373057000.0,01027058,2020-12-31
+DFC,CON,33,Caixa proveniente/(utilizado) das operações,2573652000.0,01027058,2020-12-31
+DFC,IND,34,Imposto de renda e contribuição social pagos,-58824000.0,01027058,2020-12-31
+DFC,CON,34,Imposto de renda e contribuição social pagos,-358786000.0,01027058,2020-12-31
+DFC,IND,35,Caixa líquido gerado pelas (aplicado nas) atividades operacionais,-3431881000.0,01027058,2020-12-31
+DFC,CON,35,Caixa líquido gerado pelas (aplicado nas) atividades operacionais,2214866000.0,01027058,2020-12-31
+DFC,IND,37,Aquisições de cotas FIDC's,-3505837000.0,01027058,2020-12-31
+DFC,CON,37,Aquisições de cotas FIDC's,0.0,01027058,2020-12-31
+DFC,IND,38,Resgate de cotas FIDC's,9985053000.0,01027058,2020-12-31
+DFC,CON,38,Resgate de cotas FIDC's,0.0,01027058,2020-12-31
+DFC,IND,39,Alienação de participação em controlada,1305064000.0,01027058,2020-12-31
+DFC,CON,39,Alienação de participação em controlada,0.0,01027058,2020-12-31
+DFC,IND,40,Aporte de capital em controladas,-95297000.0,01027058,2020-12-31
+DFC,CON,40,Aporte de capital em controladas,0.0,01027058,2020-12-31
+DFC,IND,41,Dividendos recebidos de subsidiárias,350414000.0,01027058,2020-12-31
+DFC,CON,41,Dividendos recebidos de subsidiárias,2124000.0,01027058,2020-12-31
+DFC,IND,42,Aquisições de imobilizado de uso,-389946000.0,01027058,2020-12-31
+DFC,CON,42,Aquisições de imobilizado de uso,-419445000.0,01027058,2020-12-31
+DFC,IND,43,Alienação de intangível,0.0,01027058,2020-12-31
+DFC,CON,43,Alienação de intangível,0.0,01027058,2020-12-31
+DFC,IND,44,Aquisições de intagível,-258882000.0,01027058,2020-12-31
+DFC,CON,44,Aquisições de intagível,-348590000.0,01027058,2020-12-31
+DFC,IND,45,Caixa líquido gerado (aplicado) nas atividades de investimento,7390569000.0,01027058,2020-12-31
+DFC,CON,45,Caixa líquido gerado (aplicado) nas atividades de investimento,-765911000.0,01027058,2020-12-31
+DFC,IND,47,Captação de empréstimos,6097196000.0,01027058,2020-12-31
+DFC,CON,47,Captação de empréstimos,6097196000.0,01027058,2020-12-31
+DFC,IND,48,"Pagamento de principal de empréstimos, líquido de derivativos",-7143479000.0,01027058,2020-12-31
+DFC,CON,48,"Pagamento de principal de empréstimos, líquido de derivativos",-7143479000.0,01027058,2020-12-31
+DFC,IND,49,Custos incorridos sobre emissão de dívidas,-22040000.0,01027058,2020-12-31
+DFC,CON,49,Custos incorridos sobre emissão de dívidas,-22040000.0,01027058,2020-12-31
+DFC,IND,50,Juros pagos,-294495000.0,01027058,2020-12-31
+DFC,CON,50,Juros pagos,-309679000.0,01027058,2020-12-31
+DFC,IND,51,Cotas de terceiros FIDC,0.0,01027058,2020-12-31
+DFC,CON,51,Cotas de terceiros FIDC,3041462000.0,01027058,2020-12-31
+DFC,IND,52,Amortização de cotas de terceiros FIDC,0.0,01027058,2020-12-31
+DFC,CON,52,Amortização de cotas de terceiros FIDC,-2000352000.0,01027058,2020-12-31
+DFC,IND,53,Aquisição de ações em tesouraria,-40214000.0,01027058,2020-12-31
+DFC,CON,53,Aquisição de ações em tesouraria,-40214000.0,01027058,2020-12-31
+DFC,IND,54,Dividendos e juros sobre o capital próprio,-81276000.0,01027058,2020-12-31
+DFC,CON,54,Dividendos e juros sobre o capital próprio,-217687000.0,01027058,2020-12-31
+DFC,IND,55,Resgate de ações pagos a terceiros,0.0,01027058,2020-12-31
+DFC,CON,55,Resgate de ações pagos a terceiros,-559313000.0,01027058,2020-12-31
+DFC,IND,56,Caixa líquido proveniente das (aplicado nas) atividades de financiamento,-1484308000.0,01027058,2020-12-31
+DFC,CON,56,Caixa líquido proveniente das (aplicado nas) atividades de financiamento,-1154106000.0,01027058,2020-12-31
+DFC,IND,57,Aumento do saldo de caixa e equivalentes de caixa,2474380000.0,01027058,2020-12-31
+DFC,CON,57,Aumento do saldo de caixa e equivalentes de caixa,294849000.0,01027058,2020-12-31
+DFC,IND,59,Saldo final,2665780000.0,01027058,2020-12-31
+DFC,CON,59,Saldo final,3507241000.0,01027058,2020-12-31
+DFC,IND,60,Saldo inicial,191400000.0,01027058,2020-12-31
+DFC,CON,60,Saldo inicial,3212392000.0,01027058,2020-12-31
+DFC,IND,61,Aumento (Redução) do saldo de caixa e equivalentes de caixa,2474380000.0,01027058,2020-12-31
+DFC,CON,61,Aumento (Redução) do saldo de caixa e equivalentes de caixa,294849000.0,01027058,2020-12-31
+DMPL,IND,1,Capital social,5700000000.0,01027058,2020-12-31
+DMPL,IND,2,Reserva de capital,67529000.0,01027058,2020-12-31
+DMPL,IND,2.1,Ações restritas outorgadas,13468000.0,01027058,2020-12-31
+DMPL,IND,2.2,Venda/transferencia de ações em tesouraria pelo exercício de ações,-11597000.0,01027058,2020-12-31
+DMPL,IND,3,Ações em tesouraria,-84815000.0,01027058,2020-12-31
+DMPL,IND,3.1,Aquisição de ações em tesouraria,-40214000.0,01027058,2020-12-31
+DMPL,IND,3.2,Venda/transferencia de ações em tesouraria pelo exercício de ações,11597000.0,01027058,2020-12-31
+DMPL,IND,4,Reserva legal,1140000000.0,01027058,2020-12-31
+DMPL,IND,4.1,Reserva legal,11247000.0,01027058,2020-12-31
+DMPL,IND,5,Reserva de orçamento de capital,2891907000.0,01027058,2020-12-31
+DMPL,IND,5.1,Reserva de orçamento de capital,312581000.0,01027058,2020-12-31
+DMPL,IND,6,Dividendos adicionais,0.0,01027058,2020-12-31
+DMPL,IND,6.1,Dividendos pagos,0.0,01027058,2020-12-31
+DMPL,IND,7,Retenção de lucros,0.0,01027058,2020-12-31
+DMPL,IND,7.1,Lucro líquido do período,490249000.0,01027058,2020-12-31
+DMPL,IND,7.2,Reserva legal,-11247000.0,01027058,2020-12-31
+DMPL,IND,7.3,Juros sobre o capital próprio proposto,-151470000.0,01027058,2020-12-31
+DMPL,IND,7.4,Juros sobre o capital próprio pagos,0.0,01027058,2020-12-31
+DMPL,IND,7.5,Dividendos pagos,0.0,01027058,2020-12-31
+DMPL,IND,7.6,Dividendos proposto,-14951000.0,01027058,2020-12-31
+DMPL,IND,7.7,Reserva de orçamento de capital,-312581000.0,01027058,2020-12-31
+DMPL,IND,8,Outros resultados abrangentes,-223767000.0,01027058,2020-12-31
+DMPL,IND,8.1,Variação cambial sobre investimento líquido no exterior,-250349000.0,01027058,2020-12-31
+DMPL,IND,8.2,Benefício pós emprego,13866000.0,01027058,2020-12-31
+DMPL,IND,9,Total de participação dos acionistas controladores,9490854000.0,01027058,2020-12-31
+DMPL,IND,9.1,Aquisição de ações em tesouraria,-40214000.0,01027058,2020-12-31
+DMPL,IND,9.2,Ações restritas outorgadas,13468000.0,01027058,2020-12-31
+DMPL,IND,9.3,Lucro líquido do período,490249000.0,01027058,2020-12-31
+DMPL,IND,9.4,Juros sobre o capital próprio proposto,-151470000.0,01027058,2020-12-31
+DMPL,IND,9.5,Juros sobre o capital próprio pagos,0.0,01027058,2020-12-31
+DMPL,IND,9.6,Dividendos pagos,0.0,01027058,2020-12-31
+DMPL,IND,9.7,Dividendos proposto,-14951000.0,01027058,2020-12-31
+DMPL,IND,9.8,Variação cambial sobre investimento líquido no exterior,-250349000.0,01027058,2020-12-31
+DMPL,IND,9.9,Benefício pós emprego,13866000.0,01027058,2020-12-31
+DMPL,IND,10,Participação de outros acionistas que não a Cielo,3114858000.0,01027058,2020-12-31
+DMPL,IND,10.1,Lucro líquido do período,141264000.0,01027058,2020-12-31
+DMPL,IND,10.2,Efeito dos outros acionistas que não a Cielo sobre entidades consolidadas,-698731000.0,01027058,2020-12-31
+DMPL,IND,11,Total do Patrimônio líquido,12605712000.0,01027058,2020-12-31
+DMPL,IND,11.1,Aquisição de ações em tesouraria,-40214000.0,01027058,2020-12-31
+DMPL,IND,11.2,Ações restritas outorgadas,13468000.0,01027058,2020-12-31
+DMPL,IND,11.3,Lucro líquido do período,631513000.0,01027058,2020-12-31
+DMPL,IND,11.4,Juros sobre o capital próprio proposto,-151470000.0,01027058,2020-12-31
+DMPL,IND,11.5,Juros sobre o capital próprio pagos,0.0,01027058,2020-12-31
+DMPL,IND,11.6,Dividendos pagos,0.0,01027058,2020-12-31
+DMPL,IND,11.7,Dividendos proposto,-14951000.0,01027058,2020-12-31
+DMPL,IND,11.8,Variação cambial sobre investimento líquido no exterior,-250349000.0,01027058,2020-12-31
+DMPL,IND,11.9,Benefício pós emprego,13866000.0,01027058,2020-12-31
+DMPL,IND,11.10,Efeito dos outros acionistas que não a Cielo sobre entidades consolidadas,-698731000.0,01027058,2020-12-31
+BP,IND,1,Total do Ativo,66769913000.0,01425787,2020-12-31
+BP,IND,1.1,Circulante e Não Circulante,65363681000.0,01425787,2020-12-31
+BP,IND,1.1.1,Disponibilidades,506537000.0,01425787,2020-12-31
+BP,IND,1.1.2,Aplicações Interfinanceiras de Liquidez,2403910000.0,01425787,2020-12-31
+BP,IND,1.1.2.1,Aplicações no Mercado Aberto,2403910000.0,01425787,2020-12-31
+BP,IND,1.1.3,Títulos e Valores Mobiliários,1228177000.0,01425787,2020-12-31
+BP,IND,1.1.3.1,Carteira Própria,1228177000.0,01425787,2020-12-31
+BP,IND,1.1.4,Relações Interfinanceiras,60740683000.0,01425787,2020-12-31
+BP,IND,1.1.5,Outros Créditos,452391000.0,01425787,2020-12-31
+BP,IND,1.1.5.1,Ativos Fiscais Correntes,118232000.0,01425787,2020-12-31
+BP,IND,1.1.5.2,Ativos Fiscais Diferidos,115451000.0,01425787,2020-12-31
+BP,IND,1.1.5.3,Diversos,218708000.0,01425787,2020-12-31
+BP,IND,1.1.6,Outros Valores e Bens,31983000.0,01425787,2020-12-31
+BP,IND,1.1.6.1,Despesas Antecipadas,31983000.0,01425787,2020-12-31
+BP,IND,1.2,Permanente,1406232000.0,01425787,2020-12-31
+BP,IND,1.2.1,Investimentos,677278000.0,01425787,2020-12-31
+BP,IND,1.2.1.1,Participações em Controladas e Coligadas,677006000.0,01425787,2020-12-31
+BP,IND,1.2.1.2,Outros Investimentos,1653000.0,01425787,2020-12-31
+BP,IND,1.2.1.3,(Provisões para Perdas),-1381000.0,01425787,2020-12-31
+BP,IND,1.2.2,Imobilizado,533132000.0,01425787,2020-12-31
+BP,IND,1.2.2.1,Outras Imobilizações,1537937000.0,01425787,2020-12-31
+BP,IND,1.2.2.2,(Depreciações Acumuladas),-1004805000.0,01425787,2020-12-31
+BP,IND,1.2.3,Ágio e Intangível,195822000.0,01425787,2020-12-31
+BP,IND,1.2.3.1,Ativos Intangíveis,13093250000.0,01425787,2020-12-31
+BP,IND,1.2.3.2,(Amortização Acumulada),-12897428000.0,01425787,2020-12-31
+BP,IND,2,Total do Passivo e do Patrimônio Líquido,66769913000.0,01425787,2020-12-31
+BP,IND,2.1,Circulante e Não Circulante,49443910000.0,01425787,2020-12-31
+BP,IND,2.1.1,Relações Interfinanceiras,11408797000.0,01425787,2020-12-31
+BP,IND,2.1.1.1,Transações de Pagamentos,11408797000.0,01425787,2020-12-31
+BP,IND,2.1.2,Provisões,85096000.0,01425787,2020-12-31
+BP,IND,2.1.3,Outras Obrigações,37950017000.0,01425787,2020-12-31
+BP,IND,2.1.3.1,Transações de Pagamentos,37532253000.0,01425787,2020-12-31
+BP,IND,2.1.3.2,Obrigações Fiscais Correntes,160144000.0,01425787,2020-12-31
+BP,IND,2.1.3.3,Obrigações Fiscais Diferidas,3259000.0,01425787,2020-12-31
+BP,IND,2.1.3.4,Diversas,254361000.0,01425787,2020-12-31
+BP,IND,2.2,Patrimônio Líquido,17326003000.0,01425787,2020-12-31
+BP,IND,2.2.1,Capital Social,3865210000.0,01425787,2020-12-31
+BP,IND,2.2.2,Reservas de Capital,12506309000.0,01425787,2020-12-31
+BP,IND,2.2.3,Reservas de Lucros,950306000.0,01425787,2020-12-31
+BP,IND,2.2.4,Outros Resultados Abrangentes,4178000.0,01425787,2020-12-31
+DR,IND,1,Receitas da Intermediação Financeira,342695000.0,01425787,2020-12-31
+DR,IND,1.1,Operações de Outros Créditos,110247000.0,01425787,2020-12-31
+DR,IND,1.2,Resultado de Operações com Títulos e Valores Mobiliários,232448000.0,01425787,2020-12-31
+DR,IND,2,Resultado Bruto da Intermediação Financeira,342695000.0,01425787,2020-12-31
+DR,IND,3,Outras Receitas / (Despesas) Operacionais,-20731000.0,01425787,2020-12-31
+DR,IND,3.1,Receitas de Prestação de Serviços,2957008000.0,01425787,2020-12-31
+DR,IND,3.2,Despesas de Pessoal,-425664000.0,01425787,2020-12-31
+DR,IND,3.3,Outras Despesas Administrativas,-1777808000.0,01425787,2020-12-31
+DR,IND,3.4,Despesas de Provisões,-63060000.0,01425787,2020-12-31
+DR,IND,3.4.1,Provisões Cíveis,-20334000.0,01425787,2020-12-31
+DR,IND,3.4.2,Provisões Trabalhistas,-45114000.0,01425787,2020-12-31
+DR,IND,3.4.3,Provisões Fiscais e Previdenciárias,2438000.0,01425787,2020-12-31
+DR,IND,3.4.4,Outros Riscos,-50000.0,01425787,2020-12-31
+DR,IND,3.5,Despesas Tributárias,-269508000.0,01425787,2020-12-31
+DR,IND,3.6,Resultado de Participações em Controladas e Coligadas e Outros Investimentos,-9823000.0,01425787,2020-12-31
+DR,IND,3.7,Outras Receitas / (Despesas) Operacionais,-431876000.0,01425787,2020-12-31
+DR,IND,4,Resultado Operacional,321964000.0,01425787,2020-12-31
+DR,IND,5,Resultado Não Operacional,-6633000.0,01425787,2020-12-31
+DR,IND,6,Resultado Antes da Tributação Sobre o Lucro e Participações,315331000.0,01425787,2020-12-31
+DR,IND,7,Imposto de Renda e Contribuição Social,-118575000.0,01425787,2020-12-31
+DR,IND,7.1,Devidos sobre Operações do Período,-79501000.0,01425787,2020-12-31
+DR,IND,7.2,Referentes a Diferenças Temporárias,-39074000.0,01425787,2020-12-31
+DR,IND,8,Participações no Lucro,-1595000.0,01425787,2020-12-31
+DR,IND,9,Lucro Líquido,195161000.0,01425787,2020-12-31
+DR,IND,10,Lucro por ação (Ordinárias) - Básico e Diluído,0.29,01425787,2020-12-31
+DR,IND,11,Média Ponderada da Quantidade de Ações Ordinárias em Circulação - Básica e Diluída,671898449.0,01425787,2020-12-31
+DRA,IND,1,Lucro Líquido,195161000.0,01425787,2020-12-31
+DRA,IND,2,Ativos Financeiros Disponíveis para Venda,0.0,01425787,2020-12-31
+DRA,IND,2.1,Remensurações,0.0,01425787,2020-12-31
+DRA,IND,2.2,Efeito Fiscal,0.0,01425787,2020-12-31
+DRA,IND,3,Remensurações em Obrigações de Benefícios Pós Emprego (*),-2030000.0,01425787,2020-12-31
+DRA,IND,3.1,Remensurações,-3139000.0,01425787,2020-12-31
+DRA,IND,3.2,Efeito Fiscal,1109000.0,01425787,2020-12-31
+DRA,IND,4,Total de Outros Resultados Abrangentes,-2030000.0,01425787,2020-12-31
+DRA,IND,5,Total do Resultado Abrangente,193131000.0,01425787,2020-12-31
+DFC,IND,1,Lucro Líquido Ajustado,539265000.0,01425787,2020-12-31
+DFC,IND,1.1,Lucro Líquido,195161000.0,01425787,2020-12-31
+DFC,IND,1.2,Ajustes ao Lucro Líquido,344104000.0,01425787,2020-12-31
+DFC,IND,1.2.1,Depreciações e Amortizações,397534000.0,01425787,2020-12-31
+DFC,IND,1.2.2,Amortização de Ágio,36368000.0,01425787,2020-12-31
+DFC,IND,1.2.3,Tributos Diferidos,39074000.0,01425787,2020-12-31
+DFC,IND,1.2.4,Receita de Atualização / Encargos de Depósitos em Garantia,-1911000.0,01425787,2020-12-31
+DFC,IND,1.2.5,"Despesa de Atualização / Encargos de Provisões Cíveis, Trabalhistas, Fiscais e Previdenciárias e Outros Riscos",2761000.0,01425787,2020-12-31
+DFC,IND,1.2.6,"Provisões Cíveis, Trabalhistas, Fiscais e Previdenciárias e Outros Riscos",63840000.0,01425787,2020-12-31
+DFC,IND,1.2.7,Resultado de Participações em Coligadas e Controladas,10560000.0,01425787,2020-12-31
+DFC,IND,1.2.8,Resultado de Juros e Variação Cambial de Títulos e Valores Mobiliários Disponíveis para Venda,-208945000.0,01425787,2020-12-31
+DFC,IND,1.2.9,Constituição / (Reversão) de Perdas em Outros Investimentos,0.0,01425787,2020-12-31
+DFC,IND,1.2.10,Resultado na Alienação de Imobilizado,4823000.0,01425787,2020-12-31
+DFC,IND,1.2.11,Outros,0.0,01425787,2020-12-31
+DFC,IND,2,Variação de Ativos e Passivos,-3223940000.0,01425787,2020-12-31
+DFC,IND,2.1.1,Títulos e Valores Mobiliários,0.0,01425787,2020-12-31
+DFC,IND,2.1.2,Relações Interfinanceiras e Relações Interdependências (Ativos / Passivos),-4198541000.0,01425787,2020-12-31
+DFC,IND,2.1.3,Outros Créditos e Outros Valores e Bens,616245000.0,01425787,2020-12-31
+DFC,IND,2.2.1,Provisões e Outras Obrigações,415496000.0,01425787,2020-12-31
+DFC,IND,2.2.2,Resultados de Exercícios Futuros,-58000.0,01425787,2020-12-31
+DFC,IND,2.2.3,Pagamento de Imposto de Renda e Contribuição Social,-57082000.0,01425787,2020-12-31
+DFC,IND,3,Caixa Líquido Proveniente / (Aplicado) nas Atividades Operacionais,-2684675000.0,01425787,2020-12-31
+DFC,IND,3.1,Dividendos/Juros sobre o Capital Próprio Recebidos,7760000.0,01425787,2020-12-31
+DFC,IND,3.2,Recursos da Venda de Títulos e Valores Mobiliários Disponíveis para Venda,6133300000.0,01425787,2020-12-31
+DFC,IND,3.3,Aquisição de Títulos e Valores Mobiliários Disponíveis para Venda,0.0,01425787,2020-12-31
+DFC,IND,3.4,(Aquisição) de Investimentos,-320347000.0,01425787,2020-12-31
+DFC,IND,3.5,(Aquisição) de Imobilizado,-272508000.0,01425787,2020-12-31
+DFC,IND,3.6,Alienação de Imobilizado,51392000.0,01425787,2020-12-31
+DFC,IND,3.7,(Aquisição) de Intangível,-56049000.0,01425787,2020-12-31
+DFC,IND,4,Caixa Líquido Proveniente / (Aplicado) nas Atividades de Investimento,5543548000.0,01425787,2020-12-31
+DFC,IND,4.1,Aumento de Capital,0.0,01425787,2020-12-31
+DFC,IND,4.2,Dividendos e Juros sobre o Capital Próprio Pagos,-241422000.0,01425787,2020-12-31
+DFC,IND,5,Caixa Líquido Proveniente / (Aplicado) nas Atividades de Financiamento,-241422000.0,01425787,2020-12-31
+DFC,IND,6,Aumento / (Diminuição) Líquido em Caixa e Equivalentes de Caixa (Nota 3a),2617451000.0,01425787,2020-12-31
+DFC,IND,6.1,Caixa e Equivalentes de Caixa no Início do Período,292996000.0,01425787,2020-12-31
+DFC,IND,6.2,Caixa e Equivalentes de Caixa no Final do Período,2910447000.0,01425787,2020-12-31
+DFC,IND,6.2.1,Disponibilidades,506537000.0,01425787,2020-12-31
+DFC,IND,6.2.2,Aplicações no Mercado Aberto - Posição Bancada,2403910000.0,01425787,2020-12-31
+DMPL,IND,1,Capital Social,3865210000.0,01425787,2020-12-31
+DMPL,IND,2,Reserva de Capital,12506309000.0,01425787,2020-12-31
+DMPL,IND,2.1,Reconhecimento de Planos de Pagamento Baseado em Ações,2577000.0,01425787,2020-12-31
+DMPL,IND,2.2,Mutações do Período,2577000.0,01425787,2020-12-31
+DMPL,IND,3.1,Estatutária,950306000.0,01425787,2020-12-31
+DMPL,IND,3.1.3,Outros,5475000.0,01425787,2020-12-31
+DMPL,IND,3.1.4.1,Reservas,193209000.0,01425787,2020-12-31
+DMPL,IND,3.1.5,Mutações do Período,198684000.0,01425787,2020-12-31
+DMPL,IND,4.2,Remensurações em Obrigações de Benefícios Pós Emprego,4178000.0,01425787,2020-12-31
+DMPL,IND,4.2.1,Total do Resultado Abrangente,-2030000.0,01425787,2020-12-31
+DMPL,IND,4.2.1.1,Outros Resultados Abrangentes,-2030000.0,01425787,2020-12-31
+DMPL,IND,4.2.2,Mutações do Período,-2030000.0,01425787,2020-12-31
+DMPL,IND,5.1,Total do Resultado Abrangente,195161000.0,01425787,2020-12-31
+DMPL,IND,5.1.1,Lucro Líquido,195161000.0,01425787,2020-12-31
+DMPL,IND,5.2.1,Reservas,-193209000.0,01425787,2020-12-31
+DMPL,IND,5.2.2,Dividendos,-1952000.0,01425787,2020-12-31
+DMPL,IND,6,Total,17326003000.0,01425787,2020-12-31
+DMPL,IND,6.1,Mutações do Período,199231000.0,01425787,2020-12-31
+BP,IND,1,ativo,98646690000.0,01027058,2021-12-31
+BP,CON,1,ativo,100422635000.0,01027058,2021-12-31
+BP,IND,1.1,ativo circulante,87109848000.0,01027058,2021-12-31
+BP,CON,1.1,ativo circulante,86543162000.0,01027058,2021-12-31
+BP,IND,1.1.1,Disponibilidades,69177000.0,01027058,2021-12-31
+BP,CON,1.1.1,Disponibilidades,350104000.0,01027058,2021-12-31
+BP,IND,1.1.2,"Instrumentos financeiros, incluindo derivativos",1978842000.0,01027058,2021-12-31
+BP,CON,1.1.2,"Instrumentos financeiros, incluindo derivativos",5225593000.0,01027058,2021-12-31
+BP,IND,1.1.3,Fundos de investimentos em direitos creditórios,5568737000.0,01027058,2021-12-31
+BP,CON,1.1.3,Fundos de investimentos em direitos creditórios,0.0,01027058,2021-12-31
+BP,IND,1.1.4,Rendas a receber,170080000.0,01027058,2021-12-31
+BP,CON,1.1.4,Rendas a receber,213358000.0,01027058,2021-12-31
+BP,IND,1.1.5,Contas a receber de emissores,78865744000.0,01027058,2021-12-31
+BP,CON,1.1.5,Contas a receber de emissores,79088367000.0,01027058,2021-12-31
+BP,IND,1.1.6,Contas a receber com partes relacionadas,2793000.0,01027058,2021-12-31
+BP,CON,1.1.6,Contas a receber com partes relacionadas,738105000.0,01027058,2021-12-31
+BP,IND,1.1.7,Impostos e contribuições a compensar/recuperar,382956000.0,01027058,2021-12-31
+BP,CON,1.1.7,Impostos e contribuições a compensar/recuperar,837561000.0,01027058,2021-12-31
+BP,IND,1.1.8,Outras contas a receber operacionais,148866000.0,01027058,2021-12-31
+BP,CON,1.1.8,Outras contas a receber operacionais,155641000.0,01027058,2021-12-31
+BP,IND,1.1.9,Provisão para créditos incobráveis,-188986000.0,01027058,2021-12-31
+BP,CON,1.1.9,Provisão para créditos incobráveis,-205161000.0,01027058,2021-12-31
+BP,IND,1.1.10,Outros valores a receber,111639000.0,01027058,2021-12-31
+BP,CON,1.1.10,Outros valores a receber,139594000.0,01027058,2021-12-31
+BP,IND,1.2,ativo não circulante,11536842000.0,01027058,2021-12-31
+BP,CON,1.2,ativo não circulante,13879473000.0,01027058,2021-12-31
+BP,IND,1.2.1,"Instrumentos financeiros, incluindo derivativos",6350000.0,01027058,2021-12-31
+BP,CON,1.2.1,"Instrumentos financeiros, incluindo derivativos",284999000.0,01027058,2021-12-31
+BP,IND,1.2.2,Depósitos judiciais,1573876000.0,01027058,2021-12-31
+BP,CON,1.2.2,Depósitos judiciais,1576643000.0,01027058,2021-12-31
+BP,IND,1.2.3,Créditos tributários,924523000.0,01027058,2021-12-31
+BP,CON,1.2.3,Créditos tributários,1283046000.0,01027058,2021-12-31
+BP,IND,1.2.4,Outras contas a receber operacionais,18549000.0,01027058,2021-12-31
+BP,CON,1.2.4,Outras contas a receber operacionais,29077000.0,01027058,2021-12-31
+BP,IND,1.2.5,Investimentos,7596638000.0,01027058,2021-12-31
+BP,CON,1.2.5,Investimentos,0.0,01027058,2021-12-31
+BP,IND,1.2.6,Imobilizado de uso,914756000.0,01027058,2021-12-31
+BP,CON,1.2.6,Imobilizado de uso,971151000.0,01027058,2021-12-31
+BP,IND,1.2.7,Intangível,502150000.0,01027058,2021-12-31
+BP,CON,1.2.7,Intangível,9734557000.0,01027058,2021-12-31
+BP,IND,2,passivo e patrimônio líquido,98646690000.0,01027058,2021-12-31
+BP,CON,2,passivo e patrimônio líquido,100422635000.0,01027058,2021-12-31
+BP,IND,2.1,passivo circulante,81683517000.0,01027058,2021-12-31
+BP,CON,2.1,passivo circulante,74552988000.0,01027058,2021-12-31
+BP,IND,2.1.1,Obrigações por empréstimos,652144000.0,01027058,2021-12-31
+BP,CON,2.1.1,Obrigações por empréstimos,2912802000.0,01027058,2021-12-31
+BP,IND,2.1.2,Outras obrigações,81031373000.0,01027058,2021-12-31
+BP,CON,2.1.2,Outras obrigações,71640186000.0,01027058,2021-12-31
+BP,IND,2.1.2.1,Sociais e estatutárias,290146000.0,01027058,2021-12-31
+BP,CON,2.1.2.1,Sociais e estatutárias,347750000.0,01027058,2021-12-31
+BP,IND,2.1.2.2,Fiscais e previdenciárias,95655000.0,01027058,2021-12-31
+BP,CON,2.1.2.2,Fiscais e previdenciárias,582399000.0,01027058,2021-12-31
+BP,IND,2.1.2.3,Contas a pagar a estabelecimentos,69138706000.0,01027058,2021-12-31
+BP,CON,2.1.2.3,Contas a pagar a estabelecimentos,69530057000.0,01027058,2021-12-31
+BP,IND,2.1.2.4,Contas a pagar com partes relacionadas,10942421000.0,01027058,2021-12-31
+BP,CON,2.1.2.4,Contas a pagar com partes relacionadas,396503000.0,01027058,2021-12-31
+BP,IND,2.1.2.5,Outras,564445000.0,01027058,2021-12-31
+BP,CON,2.1.2.5,Outras,783477000.0,01027058,2021-12-31
+BP,IND,2.2,passivo não circulante,7072584000.0,01027058,2021-12-31
+BP,CON,2.2,passivo não circulante,5611155000.0,01027058,2021-12-31
+BP,IND,2.2.1,Obrigações por empréstimos,3382302000.0,01027058,2021-12-31
+BP,CON,2.2.1,Obrigações por empréstimos,3382302000.0,01027058,2021-12-31
+BP,IND,2.2.2,Outras obrigações.,3690282000.0,01027058,2021-12-31
+BP,CON,2.2.2,Outras obrigações.,2228853000.0,01027058,2021-12-31
+BP,IND,2.2.2.1,Provisões para contingências,1985883000.0,01027058,2021-12-31
+BP,CON,2.2.2.1,Provisões para contingências,2158491000.0,01027058,2021-12-31
+BP,IND,2.2.2.2,Impostos e contribuições diferidos,0.0,01027058,2021-12-31
+BP,CON,2.2.2.2,Impostos e contribuições diferidos,25964000.0,01027058,2021-12-31
+BP,IND,2.2.2.3,Provisão para obrigações com investidas,1665683000.0,01027058,2021-12-31
+BP,CON,2.2.2.3,Provisão para obrigações com investidas,170000.0,01027058,2021-12-31
+BP,IND,2.2.2.4,Outras,38716000.0,01027058,2021-12-31
+BP,CON,2.2.2.4,Outras,44228000.0,01027058,2021-12-31
+BP,IND,2.3,Total do patrimônio líquido,9890589000.0,01027058,2021-12-31
+BP,CON,2.3,Total do patrimônio líquido,20258492000.0,01027058,2021-12-31
+BP,IND,2.3.1,Acionistas controladores,9890589000.0,01027058,2021-12-31
+BP,CON,2.3.1,Acionistas controladores,9890589000.0,01027058,2021-12-31
+BP,IND,2.3.1.1,Capital social,5700000000.0,01027058,2021-12-31
+BP,CON,2.3.1.1,Capital social,5700000000.0,01027058,2021-12-31
+BP,IND,2.3.1.2,Reservas de capital,77030000.0,01027058,2021-12-31
+BP,CON,2.3.1.2,Reservas de capital,77030000.0,01027058,2021-12-31
+BP,IND,2.3.1.3,Reservas de lucros,4542989000.0,01027058,2021-12-31
+BP,CON,2.3.1.3,Reservas de lucros,4542989000.0,01027058,2021-12-31
+BP,IND,2.3.1.4,Outros resultados abrangentes,-330852000.0,01027058,2021-12-31
+BP,CON,2.3.1.4,Outros resultados abrangentes,-330852000.0,01027058,2021-12-31
+BP,IND,2.3.1.5,(-) Ações em tesouraria,-98578000.0,01027058,2021-12-31
+BP,CON,2.3.1.5,(-) Ações em tesouraria,-98578000.0,01027058,2021-12-31
+BP,IND,2.3.2,Acionistas não controladores,0.0,01027058,2021-12-31
+BP,CON,2.3.2,Acionistas não controladores,10367903000.0,01027058,2021-12-31
+DR,IND,1,RECEITA LÍQUIDA,4992009000.0,01027058,2021-12-31
+DR,CON,1,RECEITA LÍQUIDA,11685440000.0,01027058,2021-12-31
+DR,IND,2,CUSTO DOS SERVIÇOS PRESTADOS,-3082241000.0,01027058,2021-12-31
+DR,CON,2,CUSTO DOS SERVIÇOS PRESTADOS,-8287260000.0,01027058,2021-12-31
+DR,IND,3,LUCRO BRUTO,1909768000.0,01027058,2021-12-31
+DR,CON,3,LUCRO BRUTO,3398180000.0,01027058,2021-12-31
+DR,IND,4,RECEITAS (DESPESAS) OPERACIONAIS,0.0,01027058,2021-12-31
+DR,CON,4,RECEITAS (DESPESAS) OPERACIONAIS,0.0,01027058,2021-12-31
+DR,IND,4.1,Pessoal,-316440000.0,01027058,2021-12-31
+DR,CON,4.1,Pessoal,-885169000.0,01027058,2021-12-31
+DR,IND,4.2,Gerais e administrativas,-693392000.0,01027058,2021-12-31
+DR,CON,4.2,Gerais e administrativas,-389345000.0,01027058,2021-12-31
+DR,IND,4.3,Vendas e marketing,-76063000.0,01027058,2021-12-31
+DR,CON,4.3,Vendas e marketing,-235258000.0,01027058,2021-12-31
+DR,IND,4.4,Equivalência patrimonial,377806000.0,01027058,2021-12-31
+DR,CON,4.4,Equivalência patrimonial,679000.0,01027058,2021-12-31
+DR,IND,4.5,"Outras receitas (despesas) operacionais, líquidas",-116433000.0,01027058,2021-12-31
+DR,CON,4.5,"Outras receitas (despesas) operacionais, líquidas",-313210000.0,01027058,2021-12-31
+DR,IND,5,LUCRO OPERACIONAL,1085246000.0,01027058,2021-12-31
+DR,CON,5,LUCRO OPERACIONAL,1575877000.0,01027058,2021-12-31
+DR,IND,6,RESULTADO FINANCEIRO,-73752000.0,01027058,2021-12-31
+DR,CON,6,RESULTADO FINANCEIRO,-74524000.0,01027058,2021-12-31
+DR,IND,6.1,Receitas financeiras,123630000.0,01027058,2021-12-31
+DR,CON,6.1,Receitas financeiras,324415000.0,01027058,2021-12-31
+DR,IND,6.2,Despesas financeiras,-614321000.0,01027058,2021-12-31
+DR,CON,6.2,Despesas financeiras,-805008000.0,01027058,2021-12-31
+DR,IND,6.3,Rendimento de cotas FIDCs e Antecipação de Recebíveis,417470000.0,01027058,2021-12-31
+DR,CON,6.3,Rendimento de cotas FIDCs e Antecipação de Recebíveis,406582000.0,01027058,2021-12-31
+DR,IND,6.4,"Perda de variação cambial, líquida",-531000.0,01027058,2021-12-31
+DR,CON,6.4,"Perda de variação cambial, líquida",-513000.0,01027058,2021-12-31
+DR,IND,7,LUCRO OPERACIONAL ANTES DO IMPOSTO DE RENDA,1011494000.0,01027058,2021-12-31
+DR,CON,7,LUCRO OPERACIONAL ANTES DO IMPOSTO DE RENDA,1501353000.0,01027058,2021-12-31
+DR,IND,8,IMPOSTO DE RENDA E CONTRIBUIÇÃO SOCIAL,0.0,01027058,2021-12-31
+DR,CON,8,IMPOSTO DE RENDA E CONTRIBUIÇÃO SOCIAL,0.0,01027058,2021-12-31
+DR,IND,8.1,Correntes,-38172000.0,01027058,2021-12-31
+DR,CON,8.1,Correntes,-479295000.0,01027058,2021-12-31
+DR,IND,8.2,Diferidos,-2851000.0,01027058,2021-12-31
+DR,CON,8.2,Diferidos,136432000.0,01027058,2021-12-31
+DR,IND,9,LUCRO LÍQUIDO DO PERÍODO,970471000.0,01027058,2021-12-31
+DR,CON,9,LUCRO LÍQUIDO DO PERÍODO,1158490000.0,01027058,2021-12-31
+DR,IND,9.1,Acionistas controladores,0.0,01027058,2021-12-31
+DR,CON,9.1,Acionistas controladores,970471000.0,01027058,2021-12-31
+DR,IND,9.2,Acionistas não controladores,0.0,01027058,2021-12-31
+DR,CON,9.2,Acionistas não controladores,188019000.0,01027058,2021-12-31
+DR,IND,10,Lucro líquido por ação (em R$) - Básico,358.25,01027058,2021-12-31
+DR,CON,10,Lucro líquido por ação (em R$) - Básico,358.25,01027058,2021-12-31
+DR,IND,11,Lucro líquido por ação (em R$) - Diluído,356.65000000000003,01027058,2021-12-31
+DR,CON,11,Lucro líquido por ação (em R$) - Diluído,356.65000000000003,01027058,2021-12-31
+DRA,IND,1,Lucro líquido do período,970471000.0,01027058,2021-12-31
+DRA,CON,1,Lucro líquido do período,1158490000.0,01027058,2021-12-31
+DRA,IND,2,Movimentações do exercício,-107085000.0,01027058,2021-12-31
+DRA,CON,2,Movimentações do exercício,-107085000.0,01027058,2021-12-31
+DRA,IND,2.1,Variação cambial sobre investimentos no exterior,-107986000.0,01027058,2021-12-31
+DRA,CON,2.1,Variação cambial sobre investimentos no exterior,-107986000.0,01027058,2021-12-31
+DRA,IND,2.2,Benefício pós-emprego,901000.0,01027058,2021-12-31
+DRA,CON,2.2,Benefício pós-emprego,901000.0,01027058,2021-12-31
+DRA,IND,3,Resultado abrangente total,863386000.0,01027058,2021-12-31
+DRA,CON,3,Resultado abrangente total,1051405000.0,01027058,2021-12-31
+DRA,IND,3.1,Acionistas controladores,0.0,01027058,2021-12-31
+DRA,CON,3.1,Acionistas controladores,863386000.0,01027058,2021-12-31
+DRA,IND,3.2,Acionistas não controladores,0.0,01027058,2021-12-31
+DRA,CON,3.2,Acionistas não controladores,188019000.0,01027058,2021-12-31
+DFC,IND,1,Fluxo de caixa das atividades operacionais,0.0,01027058,2021-12-31
+DFC,CON,1,Fluxo de caixa das atividades operacionais,0.0,01027058,2021-12-31
+DFC,IND,1.1,Lucro antes do imposto de renda e da contribuição social,1011494000.0,01027058,2021-12-31
+DFC,CON,1.1,Lucro antes do imposto de renda e da contribuição social,1501353000.0,01027058,2021-12-31
+DFC,IND,2,Ajustes para conciliar o lucro antes do imposto de renda e da contribuição social com o caixa líquido gerado pelas atividades operacionais:,0.0,01027058,2021-12-31
+DFC,CON,2,Ajustes para conciliar o lucro antes do imposto de renda e da contribuição social com o caixa líquido gerado pelas atividades operacionais:,0.0,01027058,2021-12-31
+DFC,IND,2.1,Depreciações e amortizações,504588000.0,01027058,2021-12-31
+DFC,CON,2.1,Depreciações e amortizações,1100748000.0,01027058,2021-12-31
+DFC,IND,2.2,Baixas/perdas de imobilizado e intangível,223077000.0,01027058,2021-12-31
+DFC,CON,2.2,Baixas/perdas de imobilizado e intangível,308574000.0,01027058,2021-12-31
+DFC,IND,2.3,Equivalência patrimonial,-377806000.0,01027058,2021-12-31
+DFC,CON,2.3,Equivalência patrimonial,-679000.0,01027058,2021-12-31
+DFC,IND,2.4,Variação cambial de investimentos no exterior,0.0,01027058,2021-12-31
+DFC,CON,2.4,Variação cambial de investimentos no exterior,0.0,01027058,2021-12-31
+DFC,IND,2.5,Variação cambial sobre imobilizado e intangível,0.0,01027058,2021-12-31
+DFC,CON,2.5,Variação cambial sobre imobilizado e intangível,-26324000.0,01027058,2021-12-31
+DFC,IND,2.6,Ações restritas outorgadas,22862000.0,01027058,2021-12-31
+DFC,CON,2.6,Ações restritas outorgadas,22862000.0,01027058,2021-12-31
+DFC,IND,2.7,Transferência de ações em tesouraria pelo exercício de ações,-13361000.0,01027058,2021-12-31
+DFC,CON,2.7,Transferência de ações em tesouraria pelo exercício de ações,-13361000.0,01027058,2021-12-31
+DFC,IND,2.8,Perdas com créditos incobráveis e fraude,170129000.0,01027058,2021-12-31
+DFC,CON,2.8,Perdas com créditos incobráveis e fraude,331216000.0,01027058,2021-12-31
+DFC,IND,2.9,"Provisão para riscos tributários, cíveis e trabalhistas",216028000.0,01027058,2021-12-31
+DFC,CON,2.9,"Provisão para riscos tributários, cíveis e trabalhistas",371693000.0,01027058,2021-12-31
+DFC,IND,2.10,Variação cambial sobre juros de empréstimos e financiamentos captados no exterior,37269000.0,01027058,2021-12-31
+DFC,CON,2.10,Variação cambial sobre juros de empréstimos e financiamentos captados no exterior,196908000.0,01027058,2021-12-31
+DFC,IND,2.11,Resultado com instrumentos financeiros derivativos,50187000.0,01027058,2021-12-31
+DFC,CON,2.11,Resultado com instrumentos financeiros derivativos,50187000.0,01027058,2021-12-31
+DFC,IND,2.12,Juros sobre empréstimos e financiamentos,234120000.0,01027058,2021-12-31
+DFC,CON,2.12,Juros sobre empréstimos e financiamentos,313666000.0,01027058,2021-12-31
+DFC,IND,2.13,Amortização de custos de emissão de dívidas,25312000.0,01027058,2021-12-31
+DFC,CON,2.13,Amortização de custos de emissão de dívidas,25312000.0,01027058,2021-12-31
+DFC,IND,2.14,Rendimento de participação no FIDC,-417470000.0,01027058,2021-12-31
+DFC,CON,2.14,Rendimento de participação no FIDC,0.0,01027058,2021-12-31
+DFC,IND,3,(Aumento)/redução nos ativos operacionais:,0.0,01027058,2021-12-31
+DFC,CON,3,(Aumento)/redução nos ativos operacionais:,0.0,01027058,2021-12-31
+DFC,IND,3.1,Rendas a receber,168015000.0,01027058,2021-12-31
+DFC,CON,3.1,Rendas a receber,9100000.0,01027058,2021-12-31
+DFC,IND,3.2,Contas a receber de emissores,-9089986000.0,01027058,2021-12-31
+DFC,CON,3.2,Contas a receber de emissores,-9307027000.0,01027058,2021-12-31
+DFC,IND,3.3,Contas a receber com partes relacionadas,2472000.0,01027058,2021-12-31
+DFC,CON,3.3,Contas a receber com partes relacionadas,5077000.0,01027058,2021-12-31
+DFC,IND,3.4,Impostos e contribuições a compensar/recuperar,117527000.0,01027058,2021-12-31
+DFC,CON,3.4,Impostos e contribuições a compensar/recuperar,-145983000.0,01027058,2021-12-31
+DFC,IND,3.5,Depósitos judiciais,2530000.0,01027058,2021-12-31
+DFC,CON,3.5,Depósitos judiciais,2344000.0,01027058,2021-12-31
+DFC,IND,3.6,Outros valores e bens,-67664000.0,01027058,2021-12-31
+DFC,CON,3.6,Outros valores e bens,-72114000.0,01027058,2021-12-31
+DFC,IND,3.7,Outros ativos,-267880000.0,01027058,2021-12-31
+DFC,CON,3.7,Outros ativos,-184866000.0,01027058,2021-12-31
+DFC,IND,3.8,"Instrumentos financeiros, incluindo derivativos",-106425000.0,01027058,2021-12-31
+DFC,CON,3.8,"Instrumentos financeiros, incluindo derivativos",123859000.0,01027058,2021-12-31
+DFC,IND,4,Aumento/(redução) nos passivos operacionais:,0.0,01027058,2021-12-31
+DFC,CON,4,Aumento/(redução) nos passivos operacionais:,0.0,01027058,2021-12-31
+DFC,IND,4.1,Sociais e estatutárias,-29198000.0,01027058,2021-12-31
+DFC,CON,4.1,Sociais e estatutárias,-134615000.0,01027058,2021-12-31
+DFC,IND,4.2,Fiscais e previdenciárias,-84362000.0,01027058,2021-12-31
+DFC,CON,4.2,Fiscais e previdenciárias,428909000.0,01027058,2021-12-31
+DFC,IND,4.3,Contas a pagar a estabelecimentos,7609461000.0,01027058,2021-12-31
+DFC,CON,4.3,Contas a pagar a estabelecimentos,7765013000.0,01027058,2021-12-31
+DFC,IND,4.4,Contas a pagar com partes relacionadas,5883011000.0,01027058,2021-12-31
+DFC,CON,4.4,Contas a pagar com partes relacionadas,0.0,01027058,2021-12-31
+DFC,IND,4.5,Provisões para contingências,-49725000.0,01027058,2021-12-31
+DFC,CON,4.5,Provisões para contingências,-51921000.0,01027058,2021-12-31
+DFC,IND,4.6,Outros passivos,79057000.0,01027058,2021-12-31
+DFC,CON,4.6,Outros passivos,-415622000.0,01027058,2021-12-31
+DFC,IND,5,Caixa gerado nas/(aplicado em) atividades operacionais,5853262000.0,01027058,2021-12-31
+DFC,CON,5,Caixa gerado nas/(aplicado em) atividades operacionais,2204309000.0,01027058,2021-12-31
+DFC,IND,6,Imposto de renda e contribuição social pagos,-76794000.0,01027058,2021-12-31
+DFC,CON,6,Imposto de renda e contribuição social pagos,-427650000.0,01027058,2021-12-31
+DFC,IND,7,Caixa líquido gerado nas/(aplicado em) atividades operacionais,5776468000.0,01027058,2021-12-31
+DFC,CON,7,Caixa líquido gerado nas/(aplicado em) atividades operacionais,1776659000.0,01027058,2021-12-31
+DFC,IND,8,Caixa líquido (aplicado em) atividades de investimento,-2996071000.0,01027058,2021-12-31
+DFC,CON,8,Caixa líquido (aplicado em) atividades de investimento,-363222000.0,01027058,2021-12-31
+DFC,IND,8.1,Aquisições de cotas FIDC's,-3279910000.0,01027058,2021-12-31
+DFC,CON,8.1,Aquisições de cotas FIDC's,0.0,01027058,2021-12-31
+DFC,IND,8.2,Venda de participação em controlada,208086000.0,01027058,2021-12-31
+DFC,CON,8.2,Venda de participação em controlada,122608000.0,01027058,2021-12-31
+DFC,IND,8.3,Resgate de ações em controladas,0.0,01027058,2021-12-31
+DFC,CON,8.3,Resgate de ações em controladas,0.0,01027058,2021-12-31
+DFC,IND,8.4,Aporte de capital em controladas,0.0,01027058,2021-12-31
+DFC,CON,8.4,Aporte de capital em controladas,0.0,01027058,2021-12-31
+DFC,IND,8.5,Dividendos recebidos de subsidiárias,490712000.0,01027058,2021-12-31
+DFC,CON,8.5,Dividendos recebidos de subsidiárias,0.0,01027058,2021-12-31
+DFC,IND,8.6,Aquisições de imobilizado de uso,-403524000.0,01027058,2021-12-31
+DFC,CON,8.6,Aquisições de imobilizado de uso,-424456000.0,01027058,2021-12-31
+DFC,IND,8.7,Alienação de intangível,199795000.0,01027058,2021-12-31
+DFC,CON,8.7,Alienação de intangível,199795000.0,01027058,2021-12-31
+DFC,IND,8.8,Aquisições de intagível,-211230000.0,01027058,2021-12-31
+DFC,CON,8.8,Aquisições de intagível,-261169000.0,01027058,2021-12-31
+DFC,IND,9,Caixa líquido gerado nas/(aplicado em) atividades de financiamento,-3621465000.0,01027058,2021-12-31
+DFC,CON,9,Caixa líquido gerado nas/(aplicado em) atividades de financiamento,419525000.0,01027058,2021-12-31
+DFC,IND,9.1,Captação de empréstimos,0.0,01027058,2021-12-31
+DFC,CON,9.1,Captação de empréstimos,0.0,01027058,2021-12-31
+DFC,IND,9.2,"Pagamento de principal de empréstimos, líquido de derivativos",-3022557000.0,01027058,2021-12-31
+DFC,CON,9.2,"Pagamento de principal de empréstimos, líquido de derivativos",-2922495000.0,01027058,2021-12-31
+DFC,IND,9.3,Custos incorridos sobre emissão de dívidas,-7652000.0,01027058,2021-12-31
+DFC,CON,9.3,Custos incorridos sobre emissão de dívidas,-7652000.0,01027058,2021-12-31
+DFC,IND,9.4,Juros pagos,-174082000.0,01027058,2021-12-31
+DFC,CON,9.4,Juros pagos,-255247000.0,01027058,2021-12-31
+DFC,IND,9.5,Aquisição de ações em tesouraria,-27124000.0,01027058,2021-12-31
+DFC,CON,9.5,Aquisição de ações em tesouraria,-27124000.0,01027058,2021-12-31
+DFC,IND,9.6,Dividendos e juros sobre o capital próprio pagos,-390050000.0,01027058,2021-12-31
+DFC,CON,9.6,Dividendos e juros sobre o capital próprio pagos,-583569000.0,01027058,2021-12-31
+DFC,IND,9.7,Aumento de participação de terceiros no FIDC,0.0,01027058,2021-12-31
+DFC,CON,9.7,Aumento de participação de terceiros no FIDC,7702826000.0,01027058,2021-12-31
+DFC,IND,9.8,Amortização de cotas de terceiros no FIDC,0.0,01027058,2021-12-31
+DFC,CON,9.8,Amortização de cotas de terceiros no FIDC,-3487214000.0,01027058,2021-12-31
+DFC,IND,10,Aumento/(redução) do saldo de caixa e equivalentes de caixa,-841068000.0,01027058,2021-12-31
+DFC,CON,10,Aumento/(redução) do saldo de caixa e equivalentes de caixa,1832962000.0,01027058,2021-12-31
+DFC,IND,11,Caixa e equivalentes de caixa,0.0,01027058,2021-12-31
+DFC,CON,11,Caixa e equivalentes de caixa,0.0,01027058,2021-12-31
+DFC,IND,11.1,Saldo final,1824712000.0,01027058,2021-12-31
+DFC,CON,11.1,Saldo final,5340203000.0,01027058,2021-12-31
+DFC,IND,11.2,Efeito de variação cambial sobre caixa e equivalentes de caixa no exterior,0.0,01027058,2021-12-31
+DFC,CON,11.2,Efeito de variação cambial sobre caixa e equivalentes de caixa no exterior,27692000.0,01027058,2021-12-31
+DFC,IND,11.3,Saldo inicial,2665780000.0,01027058,2021-12-31
+DFC,CON,11.3,Saldo inicial,3507241000.0,01027058,2021-12-31
+DFC,IND,12,Aumento/(redução) do saldo de caixa e equivalentes de caixa.,-841068000.0,01027058,2021-12-31
+DFC,CON,12,Aumento/(redução) do saldo de caixa e equivalentes de caixa.,1832962000.0,01027058,2021-12-31
+DMPL,IND,1,Capital social,5700000000.0,01027058,2021-12-31
+DMPL,IND,2,Reserva de capital,77030000.0,01027058,2021-12-31
+DMPL,IND,2.1,Reserva de capital_Ações restritas outorgadas,22862000.0,01027058,2021-12-31
+DMPL,IND,2.2,Reserva de capital_Transferência de ações em tesouraria pelo exercício de ações,-13361000.0,01027058,2021-12-31
+DMPL,IND,3,Ações em tesouraria,-98578000.0,01027058,2021-12-31
+DMPL,IND,3.1,Ações em tesouraria_Aquisição de ações em tesouraria,-27124000.0,01027058,2021-12-31
+DMPL,IND,3.2,Ações em tesouraria_Transferência de ações em tesouraria pelo exercício de ações,13361000.0,01027058,2021-12-31
+DMPL,IND,4,Reservas de lucros - Legal,1140000000.0,01027058,2021-12-31
+DMPL,IND,5,Reservas de lucros - Orçamento de capital,3402989000.0,01027058,2021-12-31
+DMPL,IND,5.1,Reservas de lucros - Orçamento de capital_Reserva Orçamento de Capital,511082000.0,01027058,2021-12-31
+DMPL,IND,6,Reservas de lucros - Retenção de lucros,0.0,01027058,2021-12-31
+DMPL,IND,6.1,Reservas de lucros - Retenção de lucros_Lucro líquido do exercício,970471000.0,01027058,2021-12-31
+DMPL,IND,6.2,Reservas de lucros - Retenção de lucros_Juros sobre o capital próprio proposto,-235760000.0,01027058,2021-12-31
+DMPL,IND,6.3,Reservas de lucros - Retenção de lucros_Juros sobre o capital próprio pagos,-223629000.0,01027058,2021-12-31
+DMPL,IND,6.4,Reservas de lucros - Retenção de lucros_Reserva Orçamento de Capital,-511082000.0,01027058,2021-12-31
+DMPL,IND,6.5,Reservas de lucros - Retenção de lucros_Lucro líquido do período,0.0,01027058,2021-12-31
+DMPL,IND,7,Outros resultados abrangentes,-330852000.0,01027058,2021-12-31
+DMPL,IND,7.1,Outros resultados abrangentes_Variação cambial sobre investimento líquido no exterior,-107986000.0,01027058,2021-12-31
+DMPL,IND,7.2,Outros resultados abrangentes_Adoção inicial - Instrução Normativa BCB nº 272/22,901000.0,01027058,2021-12-31
+DMPL,IND,7.3,Outros resultados abrangentes_Benefício pós-emprego,0.0,01027058,2021-12-31
+DMPL,IND,8,Total da participação dos acionistas controladores,9890589000.0,01027058,2021-12-31
+DMPL,IND,8.1,Total da participação dos acionistas controladores_Aquisição de ações em tesouraria,-27124000.0,01027058,2021-12-31
+DMPL,IND,8.2,Total da participação dos acionistas controladores_Ações restritas outorgadas,22862000.0,01027058,2021-12-31
+DMPL,IND,8.3,Total da participação dos acionistas controladores_Lucro líquido do exercício,970471000.0,01027058,2021-12-31
+DMPL,IND,8.4,Total da participação dos acionistas controladores_Juros sobre o capital próprio proposto,-235760000.0,01027058,2021-12-31
+DMPL,IND,8.5,Total da participação dos acionistas controladores_Juros sobre o capital próprio pagos,-223629000.0,01027058,2021-12-31
+DMPL,IND,8.6,Total da participação dos acionistas controladores_Variação cambial sobre investimento líquido no exterior,-107986000.0,01027058,2021-12-31
+DMPL,IND,8.7,Total da participação dos acionistas controladores_Adoção inicial - Instrução Normativa BCB nº 272/22,901000.0,01027058,2021-12-31
+DMPL,IND,8.8,Total da participação dos acionistas controladores_Lucro líquido do período,0.0,01027058,2021-12-31
+DMPL,IND,8.9,Total da participação dos acionistas controladores_Benefício pós-emprego,0.0,01027058,2021-12-31
+DMPL,IND,9,Participação de outros acionistas que não a Cielo,10367903000.0,01027058,2021-12-31
+DMPL,IND,9.1,Participação de outros acionistas que não a Cielo_Lucro líquido do exercício,188019000.0,01027058,2021-12-31
+DMPL,IND,9.2,Participação de outros acionistas que não a Cielo_Adoção inicial - Instrução Normativa BCB nº 272/22,7272634000.0,01027058,2021-12-31
+DMPL,IND,9.3,Participação de outros acionistas que não a Cielo_Efeito dos outros acionistas não controladores sobre entidades consolidadas,-207608000.0,01027058,2021-12-31
+DMPL,IND,9.4,Participação de outros acionistas que não a Cielo_Lucro líquido do período,0.0,01027058,2021-12-31
+DMPL,IND,10,Total do Patrimônio líquido,20258492000.0,01027058,2021-12-31
+BP,IND,1,Total do Ativo,101596407000.0,01425787,2021-12-31
+BP,IND,1.1,Circulante e Não Circulante,100297412000.0,01425787,2021-12-31
+BP,IND,1.1.1,Disponibilidades,425129000.0,01425787,2021-12-31
+BP,IND,1.1.2,Aplicações Interfinanceiras de Liquidez,1312242000.0,01425787,2021-12-31
+BP,IND,1.1.2.1,Aplicações no Mercado Aberto,1312242000.0,01425787,2021-12-31
+BP,IND,1.1.3,Títulos e Valores Mobiliários,24093317000.0,01425787,2021-12-31
+BP,IND,1.1.3.1,Carteira Própria,24093317000.0,01425787,2021-12-31
+BP,IND,1.1.4,Relações Interfinanceiras,73540248000.0,01425787,2021-12-31
+BP,IND,1.1.4.1,Pagamentos e Recebimentos a Liquidar,73540248000.0,01425787,2021-12-31
+BP,IND,1.1.5,Outros Créditos,895110000.0,01425787,2021-12-31
+BP,IND,1.1.5.1,Ativos Fiscais Correntes,462520000.0,01425787,2021-12-31
+BP,IND,1.1.5.2,Ativos Fiscais Diferidos,123194000.0,01425787,2021-12-31
+BP,IND,1.1.5.3,Diversos,309396000.0,01425787,2021-12-31
+BP,IND,1.1.6,Outros Valores e Bens,31366000.0,01425787,2021-12-31
+BP,IND,1.1.6.1,Despesas Antecipadas,31366000.0,01425787,2021-12-31
+BP,IND,1.2,Permanente,1298995000.0,01425787,2021-12-31
+BP,IND,1.2.1,Investimentos,669810000.0,01425787,2021-12-31
+BP,IND,1.2.1.1,Investimentos em Controladas e Coligadas,669615000.0,01425787,2021-12-31
+BP,IND,1.2.1.2,Outros Investimentos,1283000.0,01425787,2021-12-31
+BP,IND,1.2.1.3,(Provisões para Perdas),-1088000.0,01425787,2021-12-31
+BP,IND,1.2.2,Imobilizado,372543000.0,01425787,2021-12-31
+BP,IND,1.2.2.1,Outras Imobilizações,1517579000.0,01425787,2021-12-31
+BP,IND,1.2.2.2,(Depreciações Acumuladas),-1145036000.0,01425787,2021-12-31
+BP,IND,1.2.3,Ágio e Intangível,256642000.0,01425787,2021-12-31
+BP,IND,1.2.3.1,Ativos Intangíveis,13220100000.0,01425787,2021-12-31
+BP,IND,1.2.3.2,(Amortizações Acumuladas),-12963458000.0,01425787,2021-12-31
+BP,IND,2,Total do Passivo e do Patrimônio Líquido,101596407000.0,01425787,2021-12-31
+BP,IND,2.1,Circulante e Não Circulante,56751422000.0,01425787,2021-12-31
+BP,IND,2.1.1,Relações Interfinanceiras,13317168000.0,01425787,2021-12-31
+BP,IND,2.1.1.1,Transações de Pagamentos,13317168000.0,01425787,2021-12-31
+BP,IND,2.1.2,Provisões,71119000.0,01425787,2021-12-31
+BP,IND,2.1.3,Outras Obrigações,43363135000.0,01425787,2021-12-31
+BP,IND,2.1.3.1,Obrigações Fiscais Correntes,248057000.0,01425787,2021-12-31
+BP,IND,2.1.3.2,Obrigações Fiscais Diferidas,3172000.0,01425787,2021-12-31
+BP,IND,2.1.3.3,Transações de Pagamentos,39840050000.0,01425787,2021-12-31
+BP,IND,2.1.3.4,Diversas,3271856000.0,01425787,2021-12-31
+BP,IND,2.2,Patrimônio Líquido,44844985000.0,01425787,2021-12-31
+BP,IND,2.2.1,Capital Social,29305271000.0,01425787,2021-12-31
+BP,IND,2.2.2,Reservas de Capital,12510356000.0,01425787,2021-12-31
+BP,IND,2.2.3,Reservas de Lucros,3025229000.0,01425787,2021-12-31
+BP,IND,2.2.4,Outros Resultados Abrangentes,4129000.0,01425787,2021-12-31
+DR,IND,1,Receitas da Intermediação Financeira,1016664000.0,01425787,2021-12-31
+DR,IND,1.1,Operações de Outros Créditos,722105000.0,01425787,2021-12-31
+DR,IND,1.2,Resultado de Operações com Títulos e Valores Mobiliários,294559000.0,01425787,2021-12-31
+DR,IND,2,Resultado Bruto da Intermediação Financeira,1016664000.0,01425787,2021-12-31
+DR,IND,3,Outras Receitas / (Despesas) Operacionais,217377000.0,01425787,2021-12-31
+DR,IND,3.1,Receitas de Prestação de Serviços,3180187000.0,01425787,2021-12-31
+DR,IND,3.2,Despesas de Pessoal,-468795000.0,01425787,2021-12-31
+DR,IND,3.3,Outras Despesas Administrativas,-1749456000.0,01425787,2021-12-31
+DR,IND,3.4,Despesas de Provisões,-43281000.0,01425787,2021-12-31
+DR,IND,3.4.1,Provisões Cíveis,-17233000.0,01425787,2021-12-31
+DR,IND,3.4.2,Provisões Trabalhistas,-29034000.0,01425787,2021-12-31
+DR,IND,3.4.3,Provisões Fiscais e Previdenciárias e Outros Riscos,2986000.0,01425787,2021-12-31
+DR,IND,3.5,Despesas Tributárias,-283268000.0,01425787,2021-12-31
+DR,IND,3.6,Resultado de Participações sobre o Lucro Líquido em Investidas,8062000.0,01425787,2021-12-31
+DR,IND,3.7,Outras Receitas / (Despesas) Operacionais,-426072000.0,01425787,2021-12-31
+DR,IND,4,Resultado Operacional,1234041000.0,01425787,2021-12-31
+DR,IND,5,Resultado não Operacional,1693000.0,01425787,2021-12-31
+DR,IND,6,Resultado antes da Tributação sobre o Lucro,1235734000.0,01425787,2021-12-31
+DR,IND,7,Imposto de Renda e Contribuição Social,-395634000.0,01425787,2021-12-31
+DR,IND,7.1,Devidos sobre Operações do Período,-403501000.0,01425787,2021-12-31
+DR,IND,7.2,Referentes a Diferenças Temporárias,7867000.0,01425787,2021-12-31
+DR,IND,8,Participações no Lucro,-2645000.0,01425787,2021-12-31
+DR,IND,9,Lucro Líquido / (Prejuízo),837455000.0,01425787,2021-12-31
+DR,IND,10,Lucro / (Prejuízo) por Ação (Ordinárias) - Básico e Diluído R$,1.09,01425787,2021-12-31
+DR,IND,11,Média Ponderada da Quantidade de Ações (Ordinárias) em Circulação - Básica e Diluída,768174404.0,01425787,2021-12-31
+DRA,IND,1,Lucro Líquido / (Prejuízo),837455000.0,01425787,2021-12-31
+DRA,IND,2,Ativos Financeiros Disponíveis para Venda,-25000.0,01425787,2021-12-31
+DRA,IND,2.1,Variação de Valor Justo,-38000.0,01425787,2021-12-31
+DRA,IND,2.2,Efeito Fiscal,13000.0,01425787,2021-12-31
+DRA,IND,3,Remensurações em Obrigações de Benefícios Pós-Emprego (Montantes que não serão reclassificados subsequentemente para o resultado),-24000.0,01425787,2021-12-31
+DRA,IND,3.1,Remensurações,27000.0,01425787,2021-12-31
+DRA,IND,3.2,Efeito Fiscal,-51000.0,01425787,2021-12-31
+DRA,IND,4,Variações Cambiais de Investimentos no Exterior,0.0,01425787,2021-12-31
+DRA,IND,4.1,Investidas,0.0,01425787,2021-12-31
+DRA,IND,5,Total de Outros Resultados Abrangentes,-49000.0,01425787,2021-12-31
+DRA,IND,6,Total do Resultado Abrangente,837406000.0,01425787,2021-12-31
+DFC,IND,1,Lucro Líquido / (Prejuízo) Ajustado,1183502000.0,01425787,2021-12-31
+DFC,IND,1.1,Lucro  Líquido / (Prejuízo),837455000.0,01425787,2021-12-31
+DFC,IND,1.2,Ajustes ao Lucro Líquido / (Prejuízo):,346047000.0,01425787,2021-12-31
+DFC,IND,1.2.1,Depreciações e Amortizações,367097000.0,01425787,2021-12-31
+DFC,IND,1.2.2,Amortização de Ágio,43928000.0,01425787,2021-12-31
+DFC,IND,1.2.3,Tributos Diferidos,-7867000.0,01425787,2021-12-31
+DFC,IND,1.2.4,Receita de Atualização / Encargos de Depósitos em Garantia,-1300000.0,01425787,2021-12-31
+DFC,IND,1.2.5,Despesa de Atualização / Encargos de Provisões,4760000.0,01425787,2021-12-31
+DFC,IND,1.2.6,Constituição / (Reversão) de Provisões para Contingências,54380000.0,01425787,2021-12-31
+DFC,IND,1.2.7,Resultado de Participações em Investidas,-7989000.0,01425787,2021-12-31
+DFC,IND,1.2.8,Resultado de Juros e Variação Cambial de Títulos e Valores Mobiliários Disponíveis para Venda,-105355000.0,01425787,2021-12-31
+DFC,IND,1.2.9,Constituição / (Reversão) de Provisões para Perdas de Bens Não Destinados a Uso,77000.0,01425787,2021-12-31
+DFC,IND,1.2.10,(Ganho) / Perda na Alienação de Imobilizado,-1860000.0,01425787,2021-12-31
+DFC,IND,1.2.11,Outros,176000.0,01425787,2021-12-31
+DFC,IND,2,Variação de Ativos e Passivos,-278354000.0,01425787,2021-12-31
+DFC,IND,2.1.1,Títulos e Valores Mobiliários,-1890430000.0,01425787,2021-12-31
+DFC,IND,2.1.2,Relações Interfinanceiras e Relações Interdependências (Ativos / Passivos),-10891194000.0,01425787,2021-12-31
+DFC,IND,2.1.3,Outros Créditos e Outros Valores e Bens,-429049000.0,01425787,2021-12-31
+DFC,IND,2.2.1,Provisões e Outras Obrigações,13183925000.0,01425787,2021-12-31
+DFC,IND,2.2.2,Pagamento de Imposto de Renda e Contribuição Social,-251606000.0,01425787,2021-12-31
+DFC,IND,3,Caixa Líquido Proveniente / (Aplicado) nas Atividades Operacionais,905148000.0,01425787,2021-12-31
+DFC,IND,3.1,Dividendos Recebidos,0.0,01425787,2021-12-31
+DFC,IND,3.2,Recursos da Venda de Títulos e Valores Mobiliários Disponíveis para Venda,25000.0,01425787,2021-12-31
+DFC,IND,3.3,(Aquisição) de Títulos e Valores Mobiliários Disponíveis para Venda,-7211515000.0,01425787,2021-12-31
+DFC,IND,3.4,(Aquisição) de Investimentos,-24500000.0,01425787,2021-12-31
+DFC,IND,3.5,Alienação de Imobilizado,37758000.0,01425787,2021-12-31
+DFC,IND,3.6,(Aquisição) de Imobilizado,-183819000.0,01425787,2021-12-31
+DFC,IND,3.7,(Aquisição) de Intangível,-119583000.0,01425787,2021-12-31
+DFC,IND,4,Caixa Líquido Proveniente / (Aplicado) nas Atividades de Investimento,-7501634000.0,01425787,2021-12-31
+DFC,IND,4.1,Aumento de Capital,16000000000.0,01425787,2021-12-31
+DFC,IND,4.2,Dividendos Pagos,-1952000.0,01425787,2021-12-31
+DFC,IND,5,Caixa Líquido Proveniente / (Aplicado) nas Atividades de Financiamento,15998048000.0,01425787,2021-12-31
+DFC,IND,6,Aumento / (Diminuição) Líquido em Caixa e Equivalentes de Caixa,9401562000.0,01425787,2021-12-31
+DFC,IND,6.1,Caixa e Equivalentes de Caixa no Início do Período,2910447000.0,01425787,2021-12-31
+DFC,IND,6.2,Caixa e Equivalentes de Caixa no Final do Período,1737371000.0,01425787,2021-12-31
+DFC,IND,6.2.1,Disponibilidades,425129000.0,01425787,2021-12-31
+DFC,IND,6.2.2,Aplicações no Mercado Aberto - Posição Bancada,1312242000.0,01425787,2021-12-31
+DMPL,IND,1,Capital Social,29305271000.0,01425787,2021-12-31
+DMPL,IND,1.1,Aumento / (Redução) de Capital,16000000000.0,01425787,2021-12-31
+DMPL,IND,1.2,Reorganização Societária,9440061000.0,01425787,2021-12-31
+DMPL,IND,1.3,Mutações do Período,25440061000.0,01425787,2021-12-31
+DMPL,IND,2,Reservas de Capital,12510356000.0,01425787,2021-12-31
+DMPL,IND,2.1,Reconhecimento de Planos de Pagamento Baseado em Ações,4047000.0,01425787,2021-12-31
+DMPL,IND,2.2,Mutações do Período,4047000.0,01425787,2021-12-31
+DMPL,IND,3.1,Estatutária,3025229000.0,01425787,2021-12-31
+DMPL,IND,3.1.1,Reorganização Societária,4217842000.0,01425787,2021-12-31
+DMPL,IND,3.1.2,Dividendos,-2972000000.0,01425787,2021-12-31
+DMPL,IND,3.1.4.1,Reservas,829081000.0,01425787,2021-12-31
+DMPL,IND,3.1.5,Mutações do Período,2074923000.0,01425787,2021-12-31
+DMPL,IND,4,Outros Resultados Abrangentes,4129000.0,01425787,2021-12-31
+DMPL,IND,4.1,Total do Resultado Abrangente,-49000.0,01425787,2021-12-31
+DMPL,IND,4.1.1,Ajuste de Títulos Disponíveis para Venda,-25000.0,01425787,2021-12-31
+DMPL,IND,4.1.2,Remensurações em Obrigações de Benefícios Pós-Emprego,-24000.0,01425787,2021-12-31
+DMPL,IND,4.2,Mutações do Período,-49000.0,01425787,2021-12-31
+DMPL,IND,5.1,Total do Resultado Abrangente,837455000.0,01425787,2021-12-31
+DMPL,IND,5.1.1,Lucro Líquido / (Prejuízo),837455000.0,01425787,2021-12-31
+DMPL,IND,5.2.1,Reservas,-829081000.0,01425787,2021-12-31
+DMPL,IND,5.2.2,Dividendos,-8374000.0,01425787,2021-12-31
+DMPL,IND,6,Total,44844985000.0,01425787,2021-12-31
+DMPL,IND,6.1,Mutações do Período,27518982000.0,01425787,2021-12-31
+BP,IND,1,ativo,115018116000.0,01027058,2022-12-31
+BP,CON,1,ativo,110231201000.0,01027058,2022-12-31
+BP,IND,1.1,ativo circulante,103862850000.0,01027058,2022-12-31
+BP,CON,1.1,ativo circulante,96964459000.0,01027058,2022-12-31
+BP,IND,1.1.1,Disponibilidades,127730000.0,01027058,2022-12-31
+BP,CON,1.1.1,Disponibilidades,140547000.0,01027058,2022-12-31
+BP,IND,1.1.2,"Instrumentos financeiros, incluindo derivativos",959705000.0,01027058,2022-12-31
+BP,CON,1.1.2,"Instrumentos financeiros, incluindo derivativos",1742318000.0,01027058,2022-12-31
+BP,IND,1.1.3,Fundos de investimento em direitos creditórios,9927566000.0,01027058,2022-12-31
+BP,CON,1.1.3,Fundos de investimento em direitos creditórios,0.0,01027058,2022-12-31
+BP,IND,1.1.4,Rendas a receber,130002000.0,01027058,2022-12-31
+BP,CON,1.1.4,Rendas a receber,995533000.0,01027058,2022-12-31
+BP,IND,1.1.5,Contas a receber de emissores,92081398000.0,01027058,2022-12-31
+BP,CON,1.1.5,Contas a receber de emissores,92083831000.0,01027058,2022-12-31
+BP,IND,1.1.6,Contas a receber com partes relacionadas,13566000.0,01027058,2022-12-31
+BP,CON,1.1.6,Contas a receber com partes relacionadas,826350000.0,01027058,2022-12-31
+BP,IND,1.1.7,Impostos e contribuições a compensar/recuperar,571779000.0,01027058,2022-12-31
+BP,CON,1.1.7,Impostos e contribuições a compensar/recuperar,1112528000.0,01027058,2022-12-31
+BP,IND,1.1.8,Outras contas a receber operacionais,140633000.0,01027058,2022-12-31
+BP,CON,1.1.8,Outras contas a receber operacionais,142525000.0,01027058,2022-12-31
+BP,IND,1.1.9,Perdas esperadas para créditos de liquidação duvidosa,-170209000.0,01027058,2022-12-31
+BP,CON,1.1.9,Perdas esperadas para créditos de liquidação duvidosa,-170739000.0,01027058,2022-12-31
+BP,IND,1.1.10,Outros valores a receber,80680000.0,01027058,2022-12-31
+BP,CON,1.1.10,Outros valores a receber,91566000.0,01027058,2022-12-31
+BP,IND,1.2,ativo não circulante,11155266000.0,01027058,2022-12-31
+BP,CON,1.2,ativo não circulante,13266742000.0,01027058,2022-12-31
+BP,IND,1.2.1.1,"Instrumentos financeiros, incluindo derivativos",0.0,01027058,2022-12-31
+BP,CON,1.2.1.1,"Instrumentos financeiros, incluindo derivativos",286718000.0,01027058,2022-12-31
+BP,IND,1.2.1.2,Devedores por depósitos em garantia,1580209000.0,01027058,2022-12-31
+BP,CON,1.2.1.2,Devedores por depósitos em garantia,1584203000.0,01027058,2022-12-31
+BP,IND,1.2.1.3,Créditos tributários,1046478000.0,01027058,2022-12-31
+BP,CON,1.2.1.3,Créditos tributários,1346699000.0,01027058,2022-12-31
+BP,IND,1.2.1.4,Outras contas a receber operacionais,26937000.0,01027058,2022-12-31
+BP,CON,1.2.1.4,Outras contas a receber operacionais,26952000.0,01027058,2022-12-31
+BP,IND,1.2.2,Investimentos em participações em controladas,7047935000.0,01027058,2022-12-31
+BP,CON,1.2.2,Investimentos em participações em controladas,0.0,01027058,2022-12-31
+BP,IND,1.2.3,Imobilizado de uso,936886000.0,01027058,2022-12-31
+BP,CON,1.2.3,Imobilizado de uso,950937000.0,01027058,2022-12-31
+BP,IND,1.2.3.1,Imobilizações em uso,2143564000.0,01027058,2022-12-31
+BP,CON,1.2.3.1,Imobilizações em uso,2195211000.0,01027058,2022-12-31
+BP,IND,1.2.3.2,(-) Depreciação acumulada,-1096718000.0,01027058,2022-12-31
+BP,CON,1.2.3.2,(-) Depreciação acumulada,-1134314000.0,01027058,2022-12-31
+BP,IND,1.2.3.3,(-) Redução ao valor recuperável de ativos,-109960000.0,01027058,2022-12-31
+BP,CON,1.2.3.3,(-) Redução ao valor recuperável de ativos,-109960000.0,01027058,2022-12-31
+BP,IND,1.2.4,Intangível,516821000.0,01027058,2022-12-31
+BP,CON,1.2.4,Intangível,9071233000.0,01027058,2022-12-31
+BP,IND,1.2.4.1,Outros intangíveis,1452633000.0,01027058,2022-12-31
+BP,CON,1.2.4.1,Outros intangíveis,13039260000.0,01027058,2022-12-31
+BP,IND,1.2.4.2,(-) Amortização acumulada,-895244000.0,01027058,2022-12-31
+BP,CON,1.2.4.2,(-) Amortização acumulada,-3927459000.0,01027058,2022-12-31
+BP,IND,1.2.4.3,(-) Redução ao valor recuperável de ativos,-40568000.0,01027058,2022-12-31
+BP,CON,1.2.4.3,(-) Redução ao valor recuperável de ativos,-40568000.0,01027058,2022-12-31
+BP,IND,2,passivo e patrimônio líquido,115018116000.0,01027058,2022-12-31
+BP,CON,2,passivo e patrimônio líquido,110231201000.0,01027058,2022-12-31
+BP,IND,2.1,passivo circulante,98946440000.0,01027058,2022-12-31
+BP,CON,2.1,passivo circulante,83779756000.0,01027058,2022-12-31
+BP,IND,2.1.1,Obrigações por empréstimos,3623321000.0,01027058,2022-12-31
+BP,CON,2.1.1,Obrigações por empréstimos,3623321000.0,01027058,2022-12-31
+BP,IND,2.1.2,Outras obrigações,95323119000.0,01027058,2022-12-31
+BP,CON,2.1.2,Outras obrigações,80156435000.0,01027058,2022-12-31
+BP,IND,2.1.2.1,Sociais e estatutárias,340911000.0,01027058,2022-12-31
+BP,CON,2.1.2.1,Sociais e estatutárias,405743000.0,01027058,2022-12-31
+BP,IND,2.1.2.2,Fiscais e previdenciárias,147767000.0,01027058,2022-12-31
+BP,CON,2.1.2.2,Fiscais e previdenciárias,787165000.0,01027058,2022-12-31
+BP,IND,2.1.2.3,Contas a pagar a estabelecimentos,77709823000.0,01027058,2022-12-31
+BP,CON,2.1.2.3,Contas a pagar a estabelecimentos,77835921000.0,01027058,2022-12-31
+BP,IND,2.1.2.4,Contas a pagar com partes relacionadas,16486795000.0,01027058,2022-12-31
+BP,CON,2.1.2.4,Contas a pagar com partes relacionadas,422596000.0,01027058,2022-12-31
+BP,IND,2.1.2.5,Outras,637823000.0,01027058,2022-12-31
+BP,CON,2.1.2.5,Outras,705010000.0,01027058,2022-12-31
+BP,IND,2.2,passivo não circulante,5143099000.0,01027058,2022-12-31
+BP,CON,2.2,passivo não circulante,5329031000.0,01027058,2022-12-31
+BP,IND,2.2.1,Obrigações por empréstimos,3019750000.0,01027058,2022-12-31
+BP,CON,2.2.1,Obrigações por empréstimos,3019750000.0,01027058,2022-12-31
+BP,IND,2.2.2,Outras obrigações.,2123349000.0,01027058,2022-12-31
+BP,CON,2.2.2,Outras obrigações.,2309281000.0,01027058,2022-12-31
+BP,IND,2.2.2.1,"Riscos tributários, cíveis e trabalhistas",2061899000.0,01027058,2022-12-31
+BP,CON,2.2.2.1,"Riscos tributários, cíveis e trabalhistas",2239392000.0,01027058,2022-12-31
+BP,IND,2.2.2.2,Outras,61450000.0,01027058,2022-12-31
+BP,CON,2.2.2.2,Outras,69889000.0,01027058,2022-12-31
+BP,IND,2.3,Total do patrimônio líquido,10928577000.0,01027058,2022-12-31
+BP,CON,2.3,Total do patrimônio líquido,21122414000.0,01027058,2022-12-31
+BP,IND,2.3.1,Acionistas controladores,10928577000.0,01027058,2022-12-31
+BP,CON,2.3.1,Acionistas controladores,10928577000.0,01027058,2022-12-31
+BP,IND,2.3.1.1,Capital social,5700000000.0,01027058,2022-12-31
+BP,CON,2.3.1.1,Capital social,5700000000.0,01027058,2022-12-31
+BP,IND,2.3.1.2,Reservas de capital,70893000.0,01027058,2022-12-31
+BP,CON,2.3.1.2,Reservas de capital,70893000.0,01027058,2022-12-31
+BP,IND,2.3.1.3,Reservas de lucros,5435319000.0,01027058,2022-12-31
+BP,CON,2.3.1.3,Reservas de lucros,5435319000.0,01027058,2022-12-31
+BP,IND,2.3.1.4,Outros resultados abrangentes,-164030000.0,01027058,2022-12-31
+BP,CON,2.3.1.4,Outros resultados abrangentes,-164030000.0,01027058,2022-12-31
+BP,IND,2.3.1.5,(-) Ações em tesouraria,-113605000.0,01027058,2022-12-31
+BP,CON,2.3.1.5,(-) Ações em tesouraria,-113605000.0,01027058,2022-12-31
+BP,IND,2.3.2,Acionistas não controladores,0.0,01027058,2022-12-31
+BP,CON,2.3.2,Acionistas não controladores,10193837000.0,01027058,2022-12-31
+DR,IND,1,RECEITA LÍQUIDA,6227289000.0,01027058,2022-12-31
+DR,CON,1,RECEITA LÍQUIDA,10693106000.0,01027058,2022-12-31
+DR,IND,2,CUSTO DOS SERVIÇOS PRESTADOS,-3494863000.0,01027058,2022-12-31
+DR,CON,2,CUSTO DOS SERVIÇOS PRESTADOS,-6268754000.0,01027058,2022-12-31
+DR,IND,3,LUCRO BRUTO,2732426000.0,01027058,2022-12-31
+DR,CON,3,LUCRO BRUTO,4424352000.0,01027058,2022-12-31
+DR,IND,4.1,Pessoal,-471512000.0,01027058,2022-12-31
+DR,CON,4.1,Pessoal,-1014935000.0,01027058,2022-12-31
+DR,IND,4.2,Gerais e administrativas,-840459000.0,01027058,2022-12-31
+DR,CON,4.2,Gerais e administrativas,-335601000.0,01027058,2022-12-31
+DR,IND,4.3,Vendas e marketing,-111548000.0,01027058,2022-12-31
+DR,CON,4.3,Vendas e marketing,-155560000.0,01027058,2022-12-31
+DR,IND,4.4,Equivalência patrimonial,913113000.0,01027058,2022-12-31
+DR,CON,4.4,Equivalência patrimonial,0.0,01027058,2022-12-31
+DR,IND,4.5,"Outras receitas (despesas) operacionais, líquidas",-160399000.0,01027058,2022-12-31
+DR,CON,4.5,"Outras receitas (despesas) operacionais, líquidas",-77268000.0,01027058,2022-12-31
+DR,IND,5,LUCRO OPERACIONAL,2061621000.0,01027058,2022-12-31
+DR,CON,5,LUCRO OPERACIONAL,2840988000.0,01027058,2022-12-31
+DR,IND,6,RESULTADO FINANCEIRO,-517400000.0,01027058,2022-12-31
+DR,CON,6,RESULTADO FINANCEIRO,-384281000.0,01027058,2022-12-31
+DR,IND,6.1,Receitas financeiras,135785000.0,01027058,2022-12-31
+DR,CON,6.1,Receitas financeiras,467612000.0,01027058,2022-12-31
+DR,IND,6.2,Despesas financeiras,-1730272000.0,01027058,2022-12-31
+DR,CON,6.2,Despesas financeiras,-1722556000.0,01027058,2022-12-31
+DR,IND,6.3,Rendimento de cotas FIDCs e Antecipação de Recebíveis,1144878000.0,01027058,2022-12-31
+DR,CON,6.3,Rendimento de cotas FIDCs e Antecipação de Recebíveis,938478000.0,01027058,2022-12-31
+DR,IND,6.4,"Variação cambial, líquida",-67791000.0,01027058,2022-12-31
+DR,CON,6.4,"Variação cambial, líquida",-67815000.0,01027058,2022-12-31
+DR,IND,7,LUCRO OPERACIONAL ANTES DO IMPOSTO DE RENDA E DA CONTRIBUIÇÃO SOCIAL,1544221000.0,01027058,2022-12-31
+DR,CON,7,LUCRO OPERACIONAL ANTES DO IMPOSTO DE RENDA E DA CONTRIBUIÇÃO SOCIAL,2456707000.0,01027058,2022-12-31
+DR,IND,8.1,Correntes,-96680000.0,01027058,2022-12-31
+DR,CON,8.1,Correntes,-684458000.0,01027058,2022-12-31
+DR,IND,8.2,Diferidos,121986000.0,01027058,2022-12-31
+DR,CON,8.2,Diferidos,100499000.0,01027058,2022-12-31
+DR,IND,9,LUCRO LÍQUIDO DO PERÍODO,1569527000.0,01027058,2022-12-31
+DR,CON,9,LUCRO LÍQUIDO DO PERÍODO,1872748000.0,01027058,2022-12-31
+DR,CON,9.1,Acionistas controladores,1569527000.0,01027058,2022-12-31
+DR,CON,9.2,Acionistas não controladores,303221000.0,01027058,2022-12-31
+DR,IND,10,Lucro líquido por ação (em R$) - Básico,580.47,01027058,2022-12-31
+DR,CON,10,Lucro líquido por ação (em R$) - Básico,580.47,01027058,2022-12-31
+DR,IND,11,Lucro líquido por ação (em R$) - Diluído,576.0999999999999,01027058,2022-12-31
+DR,CON,11,Lucro líquido por ação (em R$) - Diluído,576.0999999999999,01027058,2022-12-31
+DRA,IND,1,Lucro líquido do período,1569527000.0,01027058,2022-12-31
+DRA,CON,1,Lucro líquido do período,1872748000.0,01027058,2022-12-31
+DRA,IND,2,Variação cambial sobre investimentos no exterior,163512000.0,01027058,2022-12-31
+DRA,CON,2,Variação cambial sobre investimentos no exterior,163512000.0,01027058,2022-12-31
+DRA,IND,3,Benefício pós-emprego,3310000.0,01027058,2022-12-31
+DRA,CON,3,Benefício pós-emprego,3310000.0,01027058,2022-12-31
+DRA,IND,4,Movimentações do período,166822000.0,01027058,2022-12-31
+DRA,CON,4,Movimentações do período,166822000.0,01027058,2022-12-31
+DRA,IND,5,Resultado abrangente total,1736349000.0,01027058,2022-12-31
+DRA,CON,5,Resultado abrangente total,2039570000.0,01027058,2022-12-31
+DRA,CON,6.1,Acionistas controladores,1736349000.0,01027058,2022-12-31
+DRA,CON,6.2,Acionistas não controladores,303221000.0,01027058,2022-12-31
+DFC,IND,1.1,Lucro antes do imposto de renda e da contribuição social,1544221000.0,01027058,2022-12-31
+DFC,CON,1.1,Lucro antes do imposto de renda e da contribuição social,2456707000.0,01027058,2022-12-31
+DFC,IND,2.1,Depreciações e amortizações,526365000.0,01027058,2022-12-31
+DFC,CON,2.1,Depreciações e amortizações,974531000.0,01027058,2022-12-31
+DFC,IND,2.2,Baixas e provisões/(reversões) para perdas de imobilizado e intangível,131859000.0,01027058,2022-12-31
+DFC,CON,2.2,Baixas e provisões/(reversões) para perdas de imobilizado e intangível,135069000.0,01027058,2022-12-31
+DFC,IND,2.3,Equivalência patrimonial,-913113000.0,01027058,2022-12-31
+DFC,CON,2.3,Equivalência patrimonial,0.0,01027058,2022-12-31
+DFC,IND,2.4,Variação cambial sobre imobilizado e intangível,0.0,01027058,2022-12-31
+DFC,CON,2.4,Variação cambial sobre imobilizado e intangível,44692000.0,01027058,2022-12-31
+DFC,IND,2.5,Ações restritas outorgadas,26261000.0,01027058,2022-12-31
+DFC,CON,2.5,Ações restritas outorgadas,26261000.0,01027058,2022-12-31
+DFC,IND,2.6,"Perdas esperadas para créditos de liquidação duvidosa, fraude e chargeback",48094000.0,01027058,2022-12-31
+DFC,CON,2.6,"Perdas esperadas para créditos de liquidação duvidosa, fraude e chargeback",141665000.0,01027058,2022-12-31
+DFC,IND,2.7,"Provisão para riscos tributários, cíveis e trabalhistas",125879000.0,01027058,2022-12-31
+DFC,CON,2.7,"Provisão para riscos tributários, cíveis e trabalhistas",135024000.0,01027058,2022-12-31
+DFC,IND,2.8,Variação cambial sobre juros de empréstimos e financiamentos captados no exterior,-27076000.0,01027058,2022-12-31
+DFC,CON,2.8,Variação cambial sobre juros de empréstimos e financiamentos captados no exterior,-30469000.0,01027058,2022-12-31
+DFC,IND,2.9,Resultado com instrumentos financeiros derivativos,-58605000.0,01027058,2022-12-31
+DFC,CON,2.9,Resultado com instrumentos financeiros derivativos,-58605000.0,01027058,2022-12-31
+DFC,IND,2.10,Juros sobre empréstimos e financiamentos,576284000.0,01027058,2022-12-31
+DFC,CON,2.10,Juros sobre empréstimos e financiamentos,655457000.0,01027058,2022-12-31
+DFC,IND,2.11,Amortização de custos de emissão de dívidas,1125000.0,01027058,2022-12-31
+DFC,CON,2.11,Amortização de custos de emissão de dívidas,3778000.0,01027058,2022-12-31
+DFC,IND,2.12,Rendimento de participação no FIDC,-1200712000.0,01027058,2022-12-31
+DFC,CON,2.12,Rendimento de participação no FIDC,0.0,01027058,2022-12-31
+DFC,IND,3.1,Rendas a receber,40078000.0,01027058,2022-12-31
+DFC,CON,3.1,Rendas a receber,-782175000.0,01027058,2022-12-31
+DFC,IND,3.2,Contas a receber de emissores,-13282525000.0,01027058,2022-12-31
+DFC,CON,3.2,Contas a receber de emissores,-13450625000.0,01027058,2022-12-31
+DFC,IND,3.3,Contas a receber com partes relacionadas,-10773000.0,01027058,2022-12-31
+DFC,CON,3.3,Contas a receber com partes relacionadas,-88245000.0,01027058,2022-12-31
+DFC,IND,3.4,Impostos e contribuições a compensar/recuperar,-310778000.0,01027058,2022-12-31
+DFC,CON,3.4,Impostos e contribuições a compensar/recuperar,-409144000.0,01027058,2022-12-31
+DFC,IND,3.5,Depósitos judiciais,-6333000.0,01027058,2022-12-31
+DFC,CON,3.5,Depósitos judiciais,-7560000.0,01027058,2022-12-31
+DFC,IND,3.6,Dividendos a receber,0.0,01027058,2022-12-31
+DFC,CON,3.6,Dividendos a receber,0.0,01027058,2022-12-31
+DFC,IND,3.7,Outros valores e bens,30959000.0,01027058,2022-12-31
+DFC,CON,3.7,Outros valores e bens,28912000.0,01027058,2022-12-31
+DFC,IND,3.8,Outros ativos,-155000.0,01027058,2022-12-31
+DFC,CON,3.8,Outros ativos,10007000.0,01027058,2022-12-31
+DFC,IND,3.9,"Instrumentos financeiros, incluindo derivativos",288262000.0,01027058,2022-12-31
+DFC,CON,3.9,"Instrumentos financeiros, incluindo derivativos",-58867000.0,01027058,2022-12-31
+DFC,IND,4.1,Sociais e estatutárias,50765000.0,01027058,2022-12-31
+DFC,CON,4.1,Sociais e estatutárias,57993000.0,01027058,2022-12-31
+DFC,IND,4.2,Fiscais e previdenciárias,271020000.0,01027058,2022-12-31
+DFC,CON,4.2,Fiscais e previdenciárias,661037000.0,01027058,2022-12-31
+DFC,IND,4.3,Contas a pagar a estabelecimentos,8571117000.0,01027058,2022-12-31
+DFC,CON,4.3,Contas a pagar a estabelecimentos,8690147000.0,01027058,2022-12-31
+DFC,IND,4.4,Contas a pagar com partes relacionadas,5544374000.0,01027058,2022-12-31
+DFC,CON,4.4,Contas a pagar com partes relacionadas,29412000.0,01027058,2022-12-31
+DFC,IND,4.5,Provisões para contingências,-49863000.0,01027058,2022-12-31
+DFC,CON,4.5,Provisões para contingências,-54123000.0,01027058,2022-12-31
+DFC,IND,4.6,Outros passivos,43698000.0,01027058,2022-12-31
+DFC,CON,4.6,Outros passivos,-532785000.0,01027058,2022-12-31
+DFC,IND,5,Caixa gerado nas/(aplicado em) atividades operacionais,1960428000.0,01027058,2022-12-31
+DFC,CON,5,Caixa gerado nas/(aplicado em) atividades operacionais,-1421906000.0,01027058,2022-12-31
+DFC,IND,6,Imposto de renda e contribuição social pagos,-53455000.0,01027058,2022-12-31
+DFC,CON,6,Imposto de renda e contribuição social pagos,-561272000.0,01027058,2022-12-31
+DFC,IND,7,Caixa líquido gerado nas/(aplicado em) atividades operacionais,1906973000.0,01027058,2022-12-31
+DFC,CON,7,Caixa líquido gerado nas/(aplicado em) atividades operacionais,-1983178000.0,01027058,2022-12-31
+DFC,IND,8.1,Caixa líquido gerado nas/(aplicado em) atividades de investimento,-3981160000.0,01027058,2022-12-31
+DFC,CON,8.1,Caixa líquido gerado nas/(aplicado em) atividades de investimento,-212382000.0,01027058,2022-12-31
+DFC,IND,8.1.1,Aquisições de cotas FIDCs,-3102284000.0,01027058,2022-12-31
+DFC,CON,8.1.1,Aquisições de cotas FIDCs,0.0,01027058,2022-12-31
+DFC,IND,8.1.2,Venda de participação em controlada,0.0,01027058,2022-12-31
+DFC,CON,8.1.2,Venda de participação em controlada,489483000.0,01027058,2022-12-31
+DFC,IND,8.1.3,Resgate de ações em controladas,540027000.0,01027058,2022-12-31
+DFC,CON,8.1.3,Resgate de ações em controladas,0.0,01027058,2022-12-31
+DFC,IND,8.1.4,Aporte de capital em controladas,-1426441000.0,01027058,2022-12-31
+DFC,CON,8.1.4,Aporte de capital em controladas,0.0,01027058,2022-12-31
+DFC,IND,8.1.5,Dividendos recebidos de subsidiárias,702563000.0,01027058,2022-12-31
+DFC,CON,8.1.5,Dividendos recebidos de subsidiárias,0.0,01027058,2022-12-31
+DFC,IND,8.1.6,Aquisições de imobilizado de uso,-467719000.0,01027058,2022-12-31
+DFC,CON,8.1.6,Aquisições de imobilizado de uso,-470023000.0,01027058,2022-12-31
+DFC,IND,8.1.7,Aquisições de intangível,-227306000.0,01027058,2022-12-31
+DFC,CON,8.1.7,Aquisições de intangível,-231842000.0,01027058,2022-12-31
+DFC,IND,9.1,Caixa líquido (aplicado em)/gerado nas atividades de financiamento,1336910000.0,01027058,2022-12-31
+DFC,CON,9.1,Caixa líquido (aplicado em)/gerado nas atividades de financiamento,-1261778000.0,01027058,2022-12-31
+DFC,IND,9.1.1,Captação de empréstimos,5420000000.0,01027058,2022-12-31
+DFC,CON,9.1.1,Captação de empréstimos,5420000000.0,01027058,2022-12-31
+DFC,IND,9.1.2,"Pagamento de principal de empréstimos, líquido de derivativos",-2957474000.0,01027058,2022-12-31
+DFC,CON,9.1.2,"Pagamento de principal de empréstimos, líquido de derivativos",-5217254000.0,01027058,2022-12-31
+DFC,IND,9.1.3,Custos incorridos sobre emissão de dívidas,-4953000.0,01027058,2022-12-31
+DFC,CON,9.1.3,Custos incorridos sobre emissão de dívidas,-4953000.0,01027058,2022-12-31
+DFC,IND,9.1.4,Juros pagos,-399281000.0,01027058,2022-12-31
+DFC,CON,9.1.4,Juros pagos,-478592000.0,01027058,2022-12-31
+DFC,IND,9.1.5,Aumento de participação de terceiros no FIDC,0.0,01027058,2022-12-31
+DFC,CON,9.1.5,Aumento de participação de terceiros no FIDC,893596000.0,01027058,2022-12-31
+DFC,IND,9.1.6,Amortização de cotas de terceiros no FIDC,0.0,01027058,2022-12-31
+DFC,CON,9.1.6,Amortização de cotas de terceiros no FIDC,-852095000.0,01027058,2022-12-31
+DFC,IND,9.1.7,Aquisição de ações em tesouraria,-47425000.0,01027058,2022-12-31
+DFC,CON,9.1.7,Aquisição de ações em tesouraria,-47425000.0,01027058,2022-12-31
+DFC,IND,9.1.8,Dividendos e juros sobre o capital próprio pagos,-673957000.0,01027058,2022-12-31
+DFC,CON,9.1.8,Dividendos e juros sobre o capital próprio pagos,-975055000.0,01027058,2022-12-31
+DFC,IND,10,(Redução)/aumento do saldo de caixa e equivalentes de caixa,-737277000.0,01027058,2022-12-31
+DFC,CON,10,(Redução)/aumento do saldo de caixa e equivalentes de caixa,-3457338000.0,01027058,2022-12-31
+DFC,IND,11.1,Saldo final,1087435000.0,01027058,2022-12-31
+DFC,CON,11.1,Saldo final,1882865000.0,01027058,2022-12-31
+DFC,IND,11.2,Efeito de variação cambial sobre caixa e equivalentes de caixa no exterior,0.0,01027058,2022-12-31
+DFC,CON,11.2,Efeito de variação cambial sobre caixa e equivalentes de caixa no exterior,-13588000.0,01027058,2022-12-31
+DFC,IND,11.3,Saldo inicial,1824712000.0,01027058,2022-12-31
+DFC,CON,11.3,Saldo inicial,5340203000.0,01027058,2022-12-31
+DFC,IND,12,(Redução)/aumento do saldo de caixa e equivalentes de caixa.,-737277000.0,01027058,2022-12-31
+DFC,CON,12,(Redução)/aumento do saldo de caixa e equivalentes de caixa.,-3457338000.0,01027058,2022-12-31
+DMPL,IND,1,Capital social,5700000000.0,01027058,2022-12-31
+DMPL,IND,1.1,Capital social_Aquisição de ações em tesouraria,0.0,01027058,2022-12-31
+DMPL,IND,1.2,Capital social_Ações restritas outorgadas,0.0,01027058,2022-12-31
+DMPL,IND,1.3,Capital social_Transferência de ações em tesouraria pelo exercício de ações,0.0,01027058,2022-12-31
+DMPL,IND,1.4,Capital social_Lucro líquido do exercício,0.0,01027058,2022-12-31
+DMPL,IND,1.5,Capital social_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio propostos,0.0,01027058,2022-12-31
+DMPL,IND,1.6,Capital social_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,0.0,01027058,2022-12-31
+DMPL,IND,1.7,Capital social_Destinação sobre o lucro líquido do exercício: Reserva Orçamento de Capital,0.0,01027058,2022-12-31
+DMPL,IND,1.8,Capital social_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2022-12-31
+DMPL,IND,1.9,Capital social_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2022-12-31
+DMPL,IND,1.10,Capital social_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2022-12-31
+DMPL,IND,2,Reserva de capital,70893000.0,01027058,2022-12-31
+DMPL,IND,2.1,Reserva de capital_Aquisição de ações em tesouraria,0.0,01027058,2022-12-31
+DMPL,IND,2.2,Reserva de capital_Ações restritas outorgadas,26261000.0,01027058,2022-12-31
+DMPL,IND,2.3,Reserva de capital_Transferência de ações em tesouraria pelo exercício de ações,-32398000.0,01027058,2022-12-31
+DMPL,IND,2.4,Reserva de capital_Lucro líquido do exercício,0.0,01027058,2022-12-31
+DMPL,IND,2.5,Reserva de capital_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio propostos,0.0,01027058,2022-12-31
+DMPL,IND,2.6,Reserva de capital_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,0.0,01027058,2022-12-31
+DMPL,IND,2.7,Reserva de capital_Destinação sobre o lucro líquido do exercício: Reserva Orçamento de Capital,0.0,01027058,2022-12-31
+DMPL,IND,2.8,Reserva de capital_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2022-12-31
+DMPL,IND,2.9,Reserva de capital_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2022-12-31
+DMPL,IND,2.10,Reserva de capital_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2022-12-31
+DMPL,IND,3,Ações em tesouraria,-113605000.0,01027058,2022-12-31
+DMPL,IND,3.1,Ações em tesouraria_Aquisição de ações em tesouraria,-47425000.0,01027058,2022-12-31
+DMPL,IND,3.2,Ações em tesouraria_Ações restritas outorgadas,0.0,01027058,2022-12-31
+DMPL,IND,3.3,Ações em tesouraria_Transferência de ações em tesouraria pelo exercício de ações,32398000.0,01027058,2022-12-31
+DMPL,IND,3.4,Ações em tesouraria_Lucro líquido do exercício,0.0,01027058,2022-12-31
+DMPL,IND,3.5,Ações em tesouraria_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio propostos,0.0,01027058,2022-12-31
+DMPL,IND,3.6,Ações em tesouraria_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,0.0,01027058,2022-12-31
+DMPL,IND,3.7,Ações em tesouraria_Destinação sobre o lucro líquido do exercício: Reserva Orçamento de Capital,0.0,01027058,2022-12-31
+DMPL,IND,3.8,Ações em tesouraria_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2022-12-31
+DMPL,IND,3.9,Ações em tesouraria_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2022-12-31
+DMPL,IND,3.10,Ações em tesouraria_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2022-12-31
+DMPL,IND,4,Reservas de lucros - Legal,1140000000.0,01027058,2022-12-31
+DMPL,IND,4.1,Reservas de lucros - Legal_Aquisição de ações em tesouraria,0.0,01027058,2022-12-31
+DMPL,IND,4.2,Reservas de lucros - Legal_Ações restritas outorgadas,0.0,01027058,2022-12-31
+DMPL,IND,4.3,Reservas de lucros - Legal_Transferência de ações em tesouraria pelo exercício de ações,0.0,01027058,2022-12-31
+DMPL,IND,4.4,Reservas de lucros - Legal_Lucro líquido do exercício,0.0,01027058,2022-12-31
+DMPL,IND,4.5,Reservas de lucros - Legal_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio propostos,0.0,01027058,2022-12-31
+DMPL,IND,4.6,Reservas de lucros - Legal_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,0.0,01027058,2022-12-31
+DMPL,IND,4.7,Reservas de lucros - Legal_Destinação sobre o lucro líquido do exercício: Reserva Orçamento de Capital,0.0,01027058,2022-12-31
+DMPL,IND,4.8,Reservas de lucros - Legal_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2022-12-31
+DMPL,IND,4.9,Reservas de lucros - Legal_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2022-12-31
+DMPL,IND,4.10,Reservas de lucros - Legal_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2022-12-31
+DMPL,IND,5,Reservas de lucros - Orçamento de capital,4295319000.0,01027058,2022-12-31
+DMPL,IND,5.1,Reservas de lucros - Orçamento de capital_Aquisição de ações em tesouraria,0.0,01027058,2022-12-31
+DMPL,IND,5.2,Reservas de lucros - Orçamento de capital_Ações restritas outorgadas,0.0,01027058,2022-12-31
+DMPL,IND,5.3,Reservas de lucros - Orçamento de capital_Transferência de ações em tesouraria pelo exercício de ações,0.0,01027058,2022-12-31
+DMPL,IND,5.4,Reservas de lucros - Orçamento de capital_Lucro líquido do exercício,0.0,01027058,2022-12-31
+DMPL,IND,5.5,Reservas de lucros - Orçamento de capital_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio propostos,0.0,01027058,2022-12-31
+DMPL,IND,5.6,Reservas de lucros - Orçamento de capital_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,0.0,01027058,2022-12-31
+DMPL,IND,5.7,Reservas de lucros - Orçamento de capital_Destinação sobre o lucro líquido do exercício: Reserva Orçamento de Capital,892330000.0,01027058,2022-12-31
+DMPL,IND,5.8,Reservas de lucros - Orçamento de capital_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2022-12-31
+DMPL,IND,5.9,Reservas de lucros - Orçamento de capital_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2022-12-31
+DMPL,IND,5.10,Reservas de lucros - Orçamento de capital_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2022-12-31
+DMPL,IND,6,Reservas de lucros - Retenção de lucros,0.0,01027058,2022-12-31
+DMPL,IND,6.2,Reservas de lucros - Retenção de lucros_Ações restritas outorgadas,0.0,01027058,2022-12-31
+DMPL,IND,6.3,Reservas de lucros - Retenção de lucros_Transferência de ações em tesouraria pelo exercício de ações,0.0,01027058,2022-12-31
+DMPL,IND,6.4,Reservas de lucros - Retenção de lucros_Lucro líquido do exercício,1569527000.0,01027058,2022-12-31
+DMPL,IND,6.5,Reservas de lucros - Retenção de lucros_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio propostos,-239000000.0,01027058,2022-12-31
+DMPL,IND,6.6,Reservas de lucros - Retenção de lucros_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,-438197000.0,01027058,2022-12-31
+DMPL,IND,6.7,Reservas de lucros - Retenção de lucros_Destinação sobre o lucro líquido do exercício: Reserva Orçamento de Capital,-892330000.0,01027058,2022-12-31
+DMPL,IND,6.8,Reservas de lucros - Retenção de lucros_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2022-12-31
+DMPL,IND,6.9,Reservas de lucros - Retenção de lucros_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2022-12-31
+DMPL,IND,6.10,Reservas de lucros - Retenção de lucros_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2022-12-31
+DMPL,IND,7,Outros resultados abrangentes,-164030000.0,01027058,2022-12-31
+DMPL,IND,7.1,Outros resultados abrangentes_Aquisição de ações em tesouraria,0.0,01027058,2022-12-31
+DMPL,IND,7.2,Outros resultados abrangentes_Ações restritas outorgadas,0.0,01027058,2022-12-31
+DMPL,IND,7.3,Outros resultados abrangentes_Transferência de ações em tesouraria pelo exercício de ações,0.0,01027058,2022-12-31
+DMPL,IND,7.4,Outros resultados abrangentes_Lucro líquido do exercício,0.0,01027058,2022-12-31
+DMPL,IND,7.5,Outros resultados abrangentes_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio propostos,0.0,01027058,2022-12-31
+DMPL,IND,7.6,Outros resultados abrangentes_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,0.0,01027058,2022-12-31
+DMPL,IND,7.7,Outros resultados abrangentes_Destinação sobre o lucro líquido do exercício: Reserva Orçamento de Capital,0.0,01027058,2022-12-31
+DMPL,IND,7.8,Outros resultados abrangentes_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,163512000.0,01027058,2022-12-31
+DMPL,IND,7.9,Outros resultados abrangentes_Outros resultados abrangentes: Benefício pós-emprego,3310000.0,01027058,2022-12-31
+DMPL,IND,7.10,Outros resultados abrangentes_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2022-12-31
+DMPL,IND,8,Participação dos acionistas controladores,10928577000.0,01027058,2022-12-31
+DMPL,IND,8.1,Participação dos acionistas controladores_Aquisição de ações em tesouraria,-47425000.0,01027058,2022-12-31
+DMPL,IND,8.2,Participação dos acionistas controladores_Ações restritas outorgadas,26261000.0,01027058,2022-12-31
+DMPL,IND,8.3,Participação dos acionistas controladores_Transferência de ações em tesouraria pelo exercício de ações,0.0,01027058,2022-12-31
+DMPL,IND,8.4,Participação dos acionistas controladores_Lucro líquido do exercício,1569527000.0,01027058,2022-12-31
+DMPL,IND,8.5,Participação dos acionistas controladores_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio propostos,-239000000.0,01027058,2022-12-31
+DMPL,IND,8.6,Participação dos acionistas controladores_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,-438197000.0,01027058,2022-12-31
+DMPL,IND,8.7,Participação dos acionistas controladores_Destinação sobre o lucro líquido do exercício: Reserva Orçamento de Capital,0.0,01027058,2022-12-31
+DMPL,IND,8.8,Participação dos acionistas controladores_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,163512000.0,01027058,2022-12-31
+DMPL,IND,8.9,Participação dos acionistas controladores_Outros resultados abrangentes: Benefício pós-emprego,3310000.0,01027058,2022-12-31
+DMPL,IND,8.10,Participação dos acionistas controladores_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2022-12-31
+DMPL,IND,9,Participação dos Acionistas não controladores,10193837000.0,01027058,2022-12-31
+DMPL,IND,9.1,Participação dos Acionistas não controladores_Aquisição de ações em tesouraria,0.0,01027058,2022-12-31
+DMPL,IND,9.2,Participação dos Acionistas não controladores_Ações restritas outorgadas,0.0,01027058,2022-12-31
+DMPL,IND,9.3,Participação dos Acionistas não controladores_Transferência de ações em tesouraria pelo exercício de ações,0.0,01027058,2022-12-31
+DMPL,IND,9.4,Participação dos Acionistas não controladores_Lucro líquido do exercício,303221000.0,01027058,2022-12-31
+DMPL,IND,9.5,Participação dos Acionistas não controladores_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio propostos,0.0,01027058,2022-12-31
+DMPL,IND,9.6,Participação dos Acionistas não controladores_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,0.0,01027058,2022-12-31
+DMPL,IND,9.7,Participação dos Acionistas não controladores_Destinação sobre o lucro líquido do exercício: Reserva Orçamento de Capital,0.0,01027058,2022-12-31
+DMPL,IND,9.8,Participação dos Acionistas não controladores_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2022-12-31
+DMPL,IND,9.9,Participação dos Acionistas não controladores_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2022-12-31
+DMPL,IND,9.10,Participação dos Acionistas não controladores_Efeito dos acionistas não controladores sobre entidades consolidadas,-477287000.0,01027058,2022-12-31
+DMPL,IND,10,Total do Patrimônio líquido,21122414000.0,01027058,2022-12-31
+BP,IND,1,Total do Ativo,113894954000.0,01425787,2022-12-31
+BP,IND,1.1,Circulante e Não Circulante,112180992000.0,01425787,2022-12-31
+BP,IND,1.1.1,Disponibilidades,307649000.0,01425787,2022-12-31
+BP,IND,1.1.2,Aplicações Interfinanceiras de Liquidez,1804188000.0,01425787,2022-12-31
+BP,IND,1.1.2.1,Aplicações no Mercado Aberto,1804188000.0,01425787,2022-12-31
+BP,IND,1.1.3,Títulos e Valores Mobiliários,15409719000.0,01425787,2022-12-31
+BP,IND,1.1.3.1,Carteira Própria,15409719000.0,01425787,2022-12-31
+BP,IND,1.1.4,Relações Interfinanceiras,92650310000.0,01425787,2022-12-31
+BP,IND,1.1.4.1,Pagamentos e Recebimentos a Liquidar,92650310000.0,01425787,2022-12-31
+BP,IND,1.1.5,Outros Créditos,1977322000.0,01425787,2022-12-31
+BP,IND,1.1.5.1,Ativos Fiscais Correntes,1530718000.0,01425787,2022-12-31
+BP,IND,1.1.5.2,Ativos Fiscais Diferidos,133801000.0,01425787,2022-12-31
+BP,IND,1.1.5.3,Diversos,312803000.0,01425787,2022-12-31
+BP,IND,1.1.6,Outros Valores e Bens,31804000.0,01425787,2022-12-31
+BP,IND,1.1.6.1,Despesas Antecipadas,31804000.0,01425787,2022-12-31
+BP,IND,1.2,Permanente,1713962000.0,01425787,2022-12-31
+BP,IND,1.2.1,Investimentos,712227000.0,01425787,2022-12-31
+BP,IND,1.2.1.1,Investimentos em Controladas e Coligadas,712227000.0,01425787,2022-12-31
+BP,IND,1.2.1.2,Outros Investimentos,133000.0,01425787,2022-12-31
+BP,IND,1.2.1.3,(Provisões para Perdas),-133000.0,01425787,2022-12-31
+BP,IND,1.2.2,Imobilizado,605535000.0,01425787,2022-12-31
+BP,IND,1.2.2.1,Outras Imobilizações,1745455000.0,01425787,2022-12-31
+BP,IND,1.2.2.2,(Depreciações Acumuladas),-1139920000.0,01425787,2022-12-31
+BP,IND,1.2.3,Ágio e Intangível,396200000.0,01425787,2022-12-31
+BP,IND,1.2.3.1,Ativos Intangíveis,13438455000.0,01425787,2022-12-31
+BP,IND,1.2.3.2,(Amortizações Acumuladas),-13042255000.0,01425787,2022-12-31
+BP,IND,2,Total do Passivo e do Patrimônio Líquido,113894954000.0,01425787,2022-12-31
+BP,IND,2.1,Circulante e Não Circulante,68750148000.0,01425787,2022-12-31
+BP,IND,2.1.1,Relações Interfinanceiras,12844974000.0,01425787,2022-12-31
+BP,IND,2.1.1.1,Transações de Pagamentos,12844974000.0,01425787,2022-12-31
+BP,IND,2.1.2,Provisões,83485000.0,01425787,2022-12-31
+BP,IND,2.1.3,Outras Obrigações,55821689000.0,01425787,2022-12-31
+BP,IND,2.1.3.1,Obrigações Fiscais Correntes,1036437000.0,01425787,2022-12-31
+BP,IND,2.1.3.2,Obrigações Fiscais Diferidas,4767000.0,01425787,2022-12-31
+BP,IND,2.1.3.3,Transações de Pagamentos,51418006000.0,01425787,2022-12-31
+BP,IND,2.1.3.4,Diversas,3362479000.0,01425787,2022-12-31
+BP,IND,2.2,Patrimônio Líquido,45144806000.0,01425787,2022-12-31
+BP,IND,2.2.1,Capital Social,29305271000.0,01425787,2022-12-31
+BP,IND,2.2.2,Reservas de Capital,12518519000.0,01425787,2022-12-31
+BP,IND,2.2.3,Reservas de Lucros,3315217000.0,01425787,2022-12-31
+BP,IND,2.2.4,Outros Resultados Abrangentes,5799000.0,01425787,2022-12-31
+DR,IND,1,Receitas da Intermediação Financeira,4357040000.0,01425787,2022-12-31
+DR,IND,1.1,Operações de Outros Créditos,1782947000.0,01425787,2022-12-31
+DR,IND,1.2,Resultado de Operações com Títulos e Valores Mobiliários e Outros,2574093000.0,01425787,2022-12-31
+DR,IND,2,Resultado Bruto da Intermediação Financeira,4357040000.0,01425787,2022-12-31
+DR,IND,3,Outras Receitas / (Despesas) Operacionais,598154000.0,01425787,2022-12-31
+DR,IND,3.1,Receitas de Prestação de Serviços,4216221000.0,01425787,2022-12-31
+DR,IND,3.2,Despesas de Pessoal,-468297000.0,01425787,2022-12-31
+DR,IND,3.3,Outras Despesas Administrativas,-1849270000.0,01425787,2022-12-31
+DR,IND,3.4,Despesas de Provisões,-34196000.0,01425787,2022-12-31
+DR,IND,3.4.1,Provisões Cíveis,-25946000.0,01425787,2022-12-31
+DR,IND,3.4.2,Provisões Trabalhistas,-29830000.0,01425787,2022-12-31
+DR,IND,3.4.3,Provisões Fiscais e Previdenciárias e Outros Riscos,21580000.0,01425787,2022-12-31
+DR,IND,3.5,Despesas Tributárias,-547868000.0,01425787,2022-12-31
+DR,IND,3.6,Resultado de Participações sobre o Lucro Líquido em Investidas,48935000.0,01425787,2022-12-31
+DR,IND,3.7,Outras Receitas / (Despesas) Operacionais,-767371000.0,01425787,2022-12-31
+DR,IND,4,Resultado Operacional,4955194000.0,01425787,2022-12-31
+DR,IND,5,Resultado não Operacional,4711000.0,01425787,2022-12-31
+DR,IND,6,Resultado antes da Tributação sobre o Lucro,4959905000.0,01425787,2022-12-31
+DR,IND,7,Imposto de Renda e Contribuição Social,-1607922000.0,01425787,2022-12-31
+DR,IND,7.1,Devidos sobre Operações do Período,-1618039000.0,01425787,2022-12-31
+DR,IND,7.2,Referentes a Diferenças Temporárias,10117000.0,01425787,2022-12-31
+DR,IND,8,Participações no Lucro,-3998000.0,01425787,2022-12-31
+DR,IND,9,Lucro Líquido / (Prejuízo),3347985000.0,01425787,2022-12-31
+DR,IND,10,Lucro / (Prejuízo) por Ação (Ordinárias) - Básico e Diluído R$,2.35,01425787,2022-12-31
+DR,IND,11,Média Ponderada da Quantidade de Ações (Ordinárias) em Circulação - Básica e Diluída,1425456716.0,01425787,2022-12-31
+DRA,IND,1,Lucro Líquido / (Prejuízo),3347985000.0,01425787,2022-12-31
+DRA,IND,2,Ativos Financeiros Disponíveis para Venda,774000.0,01425787,2022-12-31
+DRA,IND,2.1,Variação de Valor Justo,1228000.0,01425787,2022-12-31
+DRA,IND,2.2,Efeito Fiscal,-454000.0,01425787,2022-12-31
+DRA,IND,3,Remensurações em Obrigações de Benefícios Pós-Emprego (Montantes que não serão reclassificados subsequentemente para o resultado),450000.0,01425787,2022-12-31
+DRA,IND,3.1,Remensurações,682000.0,01425787,2022-12-31
+DRA,IND,3.2,Efeito Fiscal,-232000.0,01425787,2022-12-31
+DRA,IND,4,Variações Cambiais de Investimentos no Exterior,446000.0,01425787,2022-12-31
+DRA,IND,4.1,Investidas,446000.0,01425787,2022-12-31
+DRA,IND,5,Total de Outros Resultados Abrangentes,1670000.0,01425787,2022-12-31
+DRA,IND,6,Total do Resultado Abrangente,3349655000.0,01425787,2022-12-31
+DFC,IND,1,Lucro Líquido / (Prejuízo) Ajustado,3183332000.0,01425787,2022-12-31
+DFC,IND,1.1,Lucro Líquido / (Prejuízo),3347985000.0,01425787,2022-12-31
+DFC,IND,1.2,Ajustes ao Lucro Líquido / (Prejuízo),-164653000.0,01425787,2022-12-31
+DFC,IND,1.2.1,Depreciações e Amortizações,351602000.0,01425787,2022-12-31
+DFC,IND,1.2.2,Amortização de Ágio,42427000.0,01425787,2022-12-31
+DFC,IND,1.2.3,Tributos Diferidos,-10117000.0,01425787,2022-12-31
+DFC,IND,1.2.4,Receita de Atualização / Encargos de Depósitos em Garantia,-3087000.0,01425787,2022-12-31
+DFC,IND,1.2.5,Despesa de Atualização / Encargos de Provisões,6663000.0,01425787,2022-12-31
+DFC,IND,1.2.6,Constituição / (Reversão) de Provisões para Contingências,28710000.0,01425787,2022-12-31
+DFC,IND,1.2.7,Resultado de Participações em Investidas,-48935000.0,01425787,2022-12-31
+DFC,IND,1.2.8,Resultado de Juros e Variação Cambial de Títulos e Valores Mobiliários Disponíveis para Venda,-525674000.0,01425787,2022-12-31
+DFC,IND,1.2.9,(Ganho) / Perda na Alienação de Imobilizado,-4860000.0,01425787,2022-12-31
+DFC,IND,1.2.10,Outros,-1382000.0,01425787,2022-12-31
+DFC,IND,2,Variação de Ativos e Passivos,-4763644000.0,01425787,2022-12-31
+DFC,IND,2.1.1,Títulos e Valores Mobiliários,3531266000.0,01425787,2022-12-31
+DFC,IND,2.1.2,Relações Interfinanceiras e Relações Interdependências (Ativos / Passivos),-19582256000.0,01425787,2022-12-31
+DFC,IND,2.1.3,Outros Créditos e Outros Valores e Bens,-1067004000.0,01425787,2022-12-31
+DFC,IND,2.2.1,Provisões e Outras Obrigações,13183925000.0,01425787,2022-12-31
+DFC,IND,2.2.2,Pagamento de Imposto de Renda e Contribuição Social,-829575000.0,01425787,2022-12-31
+DFC,IND,3,Caixa Líquido Proveniente / (Aplicado) nas Atividades Operacionais,-1580312000.0,01425787,2022-12-31
+DFC,IND,3.1,Dividendos Recebidos,2000.0,01425787,2022-12-31
+DFC,IND,3.2,Recursos da Venda de Títulos e Valores Mobiliários Disponíveis para Venda,8026655000.0,01425787,2022-12-31
+DFC,IND,3.3,(Aquisição) de Títulos e Valores Mobiliários Disponíveis para Venda,-2346290000.0,01425787,2022-12-31
+DFC,IND,3.4,(Aquisição) de Investimentos,-27500000.0,01425787,2022-12-31
+DFC,IND,3.5,Alienação de Imobilizado,42335000.0,01425787,2022-12-31
+DFC,IND,3.6,(Aquisição) de Imobilizado,-548445000.0,01425787,2022-12-31
+DFC,IND,3.7,(Aquisição) de Intangível,-211605000.0,01425787,2022-12-31
+DFC,IND,4,Caixa Líquido Proveniente / (Aplicado) nas Atividades de Investimento,4935152000.0,01425787,2022-12-31
+DFC,IND,4.1,Dividendos Pagos,-2980374000.0,01425787,2022-12-31
+DFC,IND,5,Caixa Líquido Proveniente / (Aplicado) nas Atividades de Financiamento,-2980374000.0,01425787,2022-12-31
+DFC,IND,6,Aumento / (Diminuição) Líquido em Caixa e Equivalentes de Caixa,374466000.0,01425787,2022-12-31
+DFC,IND,6.1,Caixa e Equivalentes de Caixa no Início do Período,1737371000.0,01425787,2022-12-31
+DFC,IND,6.2,Caixa e Equivalentes de Caixa no Final do Período,2111837000.0,01425787,2022-12-31
+DFC,IND,6.2.1,Disponibilidades,307649000.0,01425787,2022-12-31
+DFC,IND,6.2.2,Aplicações no Mercado Aberto - Posição Bancada,1804188000.0,01425787,2022-12-31
+DMPL,IND,1,Capital Social,29305271000.0,01425787,2022-12-31
+DMPL,IND,2,Reservas de Capital,12518519000.0,01425787,2022-12-31
+DMPL,IND,2.1,Reconhecimento de Planos de Pagamento Baseado em Ações,8163000.0,01425787,2022-12-31
+DMPL,IND,2.2,Mutações do Período,8163000.0,01425787,2022-12-31
+DMPL,IND,3.1,Estatutária,3315217000.0,01425787,2022-12-31
+DMPL,IND,3.1.1,Dividendos,-3025229000.0,01425787,2022-12-31
+DMPL,IND,3.1.3,Outros,712000.0,01425787,2022-12-31
+DMPL,IND,3.1.4.1,Reservas,3314505000.0,01425787,2022-12-31
+DMPL,IND,3.1.5,Mutações do Período,289988000.0,01425787,2022-12-31
+DMPL,IND,4,Outros Resultados Abrangentes,5799000.0,01425787,2022-12-31
+DMPL,IND,4.1,Total do Resultado Abrangente,1670000.0,01425787,2022-12-31
+DMPL,IND,4.1.1,Ajuste de Títulos Disponíveis para Venda,774000.0,01425787,2022-12-31
+DMPL,IND,4.1.2,Remensurações em Obrigações de Benefícios Pós-Emprego,450000.0,01425787,2022-12-31
+DMPL,IND,4.1.3,Ajustes de Conversão de Investimentos no Exterior,446000.0,01425787,2022-12-31
+DMPL,IND,4.2,Mutações do Período,1670000.0,01425787,2022-12-31
+DMPL,IND,5.1,Total do Resultado Abrangente,3347985000.0,01425787,2022-12-31
+DMPL,IND,5.1.1,Lucro Líquido / (Prejuízo),3347985000.0,01425787,2022-12-31
+DMPL,IND,5.2.1,Reservas,-3314505000.0,01425787,2022-12-31
+DMPL,IND,5.2.2,Dividendos,-33480000.0,01425787,2022-12-31
+DMPL,IND,6,Total,45144806000.0,01425787,2022-12-31
+DMPL,IND,6.1,Mutações do Período,299821000.0,01425787,2022-12-31
+BP,IND,1,Ativo,115098434000.0,01027058,2023-12-31
+BP,CON,1,Ativo,108272400000.0,01027058,2023-12-31
+BP,IND,1.1,Circulante,106002208000.0,01027058,2023-12-31
+BP,CON,1.1,Circulante,97277490000.0,01027058,2023-12-31
+BP,IND,1.1.1,Disponibilidades,63146000.0,01027058,2023-12-31
+BP,CON,1.1.1,Disponibilidades,69745000.0,01027058,2023-12-31
+BP,IND,1.1.2,Ativos financeiros,336834000.0,01027058,2023-12-31
+BP,CON,1.1.2,Ativos financeiros,1184419000.0,01027058,2023-12-31
+BP,IND,1.1.3,Fundos de investimento em direitos creditórios,13398720000.0,01027058,2023-12-31
+BP,CON,1.1.3,Fundos de investimento em direitos creditórios,0.0,01027058,2023-12-31
+BP,IND,1.1.4,Rendas a receber,128977000.0,01027058,2023-12-31
+BP,CON,1.1.4,Rendas a receber,2546047000.0,01027058,2023-12-31
+BP,IND,1.1.5,Contas a receber de emissores,91035557000.0,01027058,2023-12-31
+BP,CON,1.1.5,Contas a receber de emissores,91043327000.0,01027058,2023-12-31
+BP,IND,1.1.6,Contas a receber com partes relacionadas,112511000.0,01027058,2023-12-31
+BP,CON,1.1.6,Contas a receber com partes relacionadas,921146000.0,01027058,2023-12-31
+BP,IND,1.1.7,Impostos e contribuições a compensar/recuperar,800639000.0,01027058,2023-12-31
+BP,CON,1.1.7,Impostos e contribuições a compensar/recuperar,1368266000.0,01027058,2023-12-31
+BP,IND,1.1.8,Outras contas a receber operacionais,173765000.0,01027058,2023-12-31
+BP,CON,1.1.8,Outras contas a receber operacionais,183221000.0,01027058,2023-12-31
+BP,IND,1.1.9,Perdas esperadas para créditos de liquidação duvidosa,-199804000.0,01027058,2023-12-31
+BP,CON,1.1.9,Perdas esperadas para créditos de liquidação duvidosa,-201094000.0,01027058,2023-12-31
+BP,IND,1.1.10,Outros valores a receber,151863000.0,01027058,2023-12-31
+BP,CON,1.1.10,Outros valores a receber,162413000.0,01027058,2023-12-31
+BP,IND,1.2,Ativo não circulante,9096226000.0,01027058,2023-12-31
+BP,CON,1.2,Ativo não circulante,10994910000.0,01027058,2023-12-31
+BP,IND,1.2.1.1,Ativos financeiros,0.0,01027058,2023-12-31
+BP,CON,1.2.1.1,Ativos financeiros,180164000.0,01027058,2023-12-31
+BP,IND,1.2.1.2,Devedores por depósitos em garantia,64859000.0,01027058,2023-12-31
+BP,CON,1.2.1.2,Devedores por depósitos em garantia,70741000.0,01027058,2023-12-31
+BP,IND,1.2.1.3,Créditos tributários,875386000.0,01027058,2023-12-31
+BP,CON,1.2.1.3,Créditos tributários,1111975000.0,01027058,2023-12-31
+BP,IND,1.2.1.4,Outras contas a receber operacionais,30609000.0,01027058,2023-12-31
+BP,CON,1.2.1.4,Outras contas a receber operacionais,31914000.0,01027058,2023-12-31
+BP,IND,1.2.2,Investimentos em participações em controladas,6702197000.0,01027058,2023-12-31
+BP,CON,1.2.2,Investimentos em participações em controladas,0.0,01027058,2023-12-31
+BP,IND,1.2.3,Imobilizado de uso,811165000.0,01027058,2023-12-31
+BP,CON,1.2.3,Imobilizado de uso,816739000.0,01027058,2023-12-31
+BP,IND,1.2.3.1,Imobilizações em uso,1922204000.0,01027058,2023-12-31
+BP,CON,1.2.3.1,Imobilizações em uso,1953102000.0,01027058,2023-12-31
+BP,IND,1.2.3.2,(-) Depreciação acumulada,-1073633000.0,01027058,2023-12-31
+BP,CON,1.2.3.2,(-) Depreciação acumulada,-1098957000.0,01027058,2023-12-31
+BP,IND,1.2.3.3,(-) Redução ao valor recuperável de ativos,-37406000.0,01027058,2023-12-31
+BP,CON,1.2.3.3,(-) Redução ao valor recuperável de ativos,-37406000.0,01027058,2023-12-31
+BP,IND,1.2.4,Intangível,612010000.0,01027058,2023-12-31
+BP,CON,1.2.4,Intangível,8783377000.0,01027058,2023-12-31
+BP,IND,1.2.4.1,Outros intangíveis,1759982000.0,01027058,2023-12-31
+BP,CON,1.2.4.1,Outros intangíveis,13350850000.0,01027058,2023-12-31
+BP,IND,1.2.4.2,(-) Amortização acumulada,-1114164000.0,01027058,2023-12-31
+BP,CON,1.2.4.2,(-) Amortização acumulada,-4533665000.0,01027058,2023-12-31
+BP,IND,1.2.4.3,(-) Redução ao valor recuperável de ativos,-33808000.0,01027058,2023-12-31
+BP,CON,1.2.4.3,(-) Redução ao valor recuperável de ativos,-33808000.0,01027058,2023-12-31
+BP,IND,2,Passivo e patrimônio líquido,115098434000.0,01027058,2023-12-31
+BP,CON,2,Passivo e patrimônio líquido,108272400000.0,01027058,2023-12-31
+BP,IND,2.1,Circulante,99481192000.0,01027058,2023-12-31
+BP,CON,2.1,Circulante,82574194000.0,01027058,2023-12-31
+BP,IND,2.1.1,Obrigações por empréstimos,4732526000.0,01027058,2023-12-31
+BP,CON,2.1.1,Obrigações por empréstimos,4732526000.0,01027058,2023-12-31
+BP,IND,2.1.2,Outras obrigações,94748666000.0,01027058,2023-12-31
+BP,CON,2.1.2,Outras obrigações,77841668000.0,01027058,2023-12-31
+BP,IND,2.1.2.1,Sociais e estatutárias,302631000.0,01027058,2023-12-31
+BP,CON,2.1.2.1,Sociais e estatutárias,376912000.0,01027058,2023-12-31
+BP,IND,2.1.2.2,Fiscais e previdenciárias,78669000.0,01027058,2023-12-31
+BP,CON,2.1.2.2,Fiscais e previdenciárias,778611000.0,01027058,2023-12-31
+BP,IND,2.1.2.3,Contas a pagar a estabelecimentos,75341285000.0,01027058,2023-12-31
+BP,CON,2.1.2.3,Contas a pagar a estabelecimentos,75480752000.0,01027058,2023-12-31
+BP,IND,2.1.2.4,Contas a pagar com partes relacionadas,18356044000.0,01027058,2023-12-31
+BP,CON,2.1.2.4,Contas a pagar com partes relacionadas,464250000.0,01027058,2023-12-31
+BP,IND,2.1.2.5,Outras,670037000.0,01027058,2023-12-31
+BP,CON,2.1.2.5,Outras,741143000.0,01027058,2023-12-31
+BP,IND,2.2,Não circulante,3358439000.0,01027058,2023-12-31
+BP,CON,2.2,Não circulante,3389904000.0,01027058,2023-12-31
+BP,IND,2.2.1,Obrigações por empréstimos,2998405000.0,01027058,2023-12-31
+BP,CON,2.2.1,Obrigações por empréstimos,2998405000.0,01027058,2023-12-31
+BP,IND,2.2.2,Outras obrigações.,360034000.0,01027058,2023-12-31
+BP,CON,2.2.2,Outras obrigações.,391499000.0,01027058,2023-12-31
+BP,IND,2.3,Patrimônio líquido,12258803000.0,01027058,2023-12-31
+BP,CON,2.3,Patrimônio líquido,22308302000.0,01027058,2023-12-31
+BP,IND,2.3.1,Acionistas controladores,12258803000.0,01027058,2023-12-31
+BP,CON,2.3.1,Acionistas controladores,12258803000.0,01027058,2023-12-31
+BP,IND,2.3.1.1,Capital social,5700000000.0,01027058,2023-12-31
+BP,CON,2.3.1.1,Capital social,5700000000.0,01027058,2023-12-31
+BP,IND,2.3.1.2,Reservas de capital,58578000.0,01027058,2023-12-31
+BP,CON,2.3.1.2,Reservas de capital,58578000.0,01027058,2023-12-31
+BP,IND,2.3.1.3,Reservas de lucros,6757870000.0,01027058,2023-12-31
+BP,CON,2.3.1.3,Reservas de lucros,6757870000.0,01027058,2023-12-31
+BP,IND,2.3.1.4,Outros resultados abrangentes,-162656000.0,01027058,2023-12-31
+BP,CON,2.3.1.4,Outros resultados abrangentes,-162656000.0,01027058,2023-12-31
+BP,IND,2.3.1.5,(-) Ações em tesouraria,-94989000.0,01027058,2023-12-31
+BP,CON,2.3.1.5,(-) Ações em tesouraria,-94989000.0,01027058,2023-12-31
+BP,IND,2.3.2,Acionistas não controladores,0.0,01027058,2023-12-31
+BP,CON,2.3.2,Acionistas não controladores,10049499000.0,01027058,2023-12-31
+DR,IND,1,RECEITA LÍQUIDA,6469254000.0,01027058,2023-12-31
+DR,CON,1,RECEITA LÍQUIDA,10601105000.0,01027058,2023-12-31
+DR,IND,2,CUSTO DOS SERVIÇOS PRESTADOS,-3337045000.0,01027058,2023-12-31
+DR,CON,2,CUSTO DOS SERVIÇOS PRESTADOS,-5609449000.0,01027058,2023-12-31
+DR,IND,3,LUCRO BRUTO,3132209000.0,01027058,2023-12-31
+DR,CON,3,LUCRO BRUTO,4991656000.0,01027058,2023-12-31
+DR,IND,4.1,Pessoal,-616692000.0,01027058,2023-12-31
+DR,CON,4.1,Pessoal,-1226272000.0,01027058,2023-12-31
+DR,IND,4.2,Gerais e administrativas,-976411000.0,01027058,2023-12-31
+DR,CON,4.2,Gerais e administrativas,-360980000.0,01027058,2023-12-31
+DR,IND,4.3,Vendas e marketing,-139932000.0,01027058,2023-12-31
+DR,CON,4.3,Vendas e marketing,-140242000.0,01027058,2023-12-31
+DR,IND,4.4,Equivalência patrimonial,1002816000.0,01027058,2023-12-31
+DR,CON,4.4,Equivalência patrimonial,0.0,01027058,2023-12-31
+DR,IND,4.5,"Outras receitas (despesas) operacionais, líquidas",166423000.0,01027058,2023-12-31
+DR,CON,4.5,"Outras receitas (despesas) operacionais, líquidas",238948000.0,01027058,2023-12-31
+DR,IND,5,LUCRO OPERACIONAL,2568413000.0,01027058,2023-12-31
+DR,CON,5,LUCRO OPERACIONAL,3503110000.0,01027058,2023-12-31
+DR,IND,6,RESULTADO FINANCEIRO,-314962000.0,01027058,2023-12-31
+DR,CON,6,RESULTADO FINANCEIRO,-153051000.0,01027058,2023-12-31
+DR,IND,6.1,Receitas financeiras,88953000.0,01027058,2023-12-31
+DR,CON,6.1,Receitas financeiras,331978000.0,01027058,2023-12-31
+DR,IND,6.2,Despesas financeiras,-2181558000.0,01027058,2023-12-31
+DR,CON,6.2,Despesas financeiras,-2023400000.0,01027058,2023-12-31
+DR,IND,6.3,Rendimento de cotas FIDCs e Antecipação de Recebíveis,1805974000.0,01027058,2023-12-31
+DR,CON,6.3,Rendimento de cotas FIDCs e Antecipação de Recebíveis,1566704000.0,01027058,2023-12-31
+DR,IND,6.4,"Variação cambial, líquida",-28331000.0,01027058,2023-12-31
+DR,CON,6.4,"Variação cambial, líquida",-28333000.0,01027058,2023-12-31
+DR,IND,7,LUCRO OPERACIONAL ANTES DO IMPOSTO DE RENDA E DA CONTRIBUIÇÃO SOCIAL,2253451000.0,01027058,2023-12-31
+DR,CON,7,LUCRO OPERACIONAL ANTES DO IMPOSTO DE RENDA E DA CONTRIBUIÇÃO SOCIAL,3350059000.0,01027058,2023-12-31
+DR,IND,8.1,Correntes,4479000.0,01027058,2023-12-31
+DR,CON,8.1,Correntes,-647313000.0,01027058,2023-12-31
+DR,IND,8.2,Diferidos,-171092000.0,01027058,2023-12-31
+DR,CON,8.2,Diferidos,-234583000.0,01027058,2023-12-31
+DR,IND,9,LUCRO LÍQUIDO DO PERÍODO,2086838000.0,01027058,2023-12-31
+DR,CON,9,LUCRO LÍQUIDO DO PERÍODO,2468163000.0,01027058,2023-12-31
+DR,CON,9.1,Acionistas controladores,2086838000.0,01027058,2023-12-31
+DR,CON,9.2,Acionistas não controladores,381325000.0,01027058,2023-12-31
+DR,IND,10,Lucro líquido por ação (em R$) - Básico,775.1400000000001,01027058,2023-12-31
+DR,CON,10,Lucro líquido por ação (em R$) - Básico,775.1400000000001,01027058,2023-12-31
+DR,IND,11,Lucro líquido por ação (em R$) - Diluído,769.9599999999999,01027058,2023-12-31
+DR,CON,11,Lucro líquido por ação (em R$) - Diluído,769.9599999999999,01027058,2023-12-31
+DRA,IND,1,Lucro líquido do período,2086838000.0,01027058,2023-12-31
+DRA,CON,1,Lucro líquido do período,2468163000.0,01027058,2023-12-31
+DRA,IND,2,Movimentações do período,1374000.0,01027058,2023-12-31
+DRA,CON,2,Movimentações do período,1374000.0,01027058,2023-12-31
+DRA,IND,2.1.1,Variação cambial sobre investimentos no exterior,-314000.0,01027058,2023-12-31
+DRA,CON,2.1.1,Variação cambial sobre investimentos no exterior,-314000.0,01027058,2023-12-31
+DRA,IND,2.1.2,Ajuste de avaliação patrimonial de instrumentos financeiros,0.0,01027058,2023-12-31
+DRA,CON,2.1.2,Ajuste de avaliação patrimonial de instrumentos financeiros,0.0,01027058,2023-12-31
+DRA,IND,2.2.1,Benefício pós-emprego,1688000.0,01027058,2023-12-31
+DRA,CON,2.2.1,Benefício pós-emprego,1688000.0,01027058,2023-12-31
+DRA,IND,3,Resultado abrangente total,2088212000.0,01027058,2023-12-31
+DRA,CON,3,Resultado abrangente total,2469537000.0,01027058,2023-12-31
+DRA,CON,4.1,Acionistas controladores,2088212000.0,01027058,2023-12-31
+DRA,CON,4.2,Acionistas não controladores,381325000.0,01027058,2023-12-31
+DFC,IND,1.1,Lucro antes do imposto de renda e da contribuição social,2253451000.0,01027058,2023-12-31
+DFC,CON,1.1,Lucro antes do imposto de renda e da contribuição social,3350059000.0,01027058,2023-12-31
+DFC,IND,2.1,Depreciações e amortizações,521496000.0,01027058,2023-12-31
+DFC,CON,2.1,Depreciações e amortizações,912677000.0,01027058,2023-12-31
+DFC,IND,2.2,Baixas e provisões/(reversões) para perdas de imobilizado e intangível,9378000.0,01027058,2023-12-31
+DFC,CON,2.2,Baixas e provisões/(reversões) para perdas de imobilizado e intangível,14300000.0,01027058,2023-12-31
+DFC,IND,2.3,Equivalência patrimonial,-1002816000.0,01027058,2023-12-31
+DFC,CON,2.3,Equivalência patrimonial,0.0,01027058,2023-12-31
+DFC,IND,2.4,Ações restritas outorgadas,37143000.0,01027058,2023-12-31
+DFC,CON,2.4,Ações restritas outorgadas,37143000.0,01027058,2023-12-31
+DFC,IND,2.5,Perdas esperadas para créditos de liquidação duvidosa,94957000.0,01027058,2023-12-31
+DFC,CON,2.5,Perdas esperadas para créditos de liquidação duvidosa,164725000.0,01027058,2023-12-31
+DFC,IND,2.6,"Provisão para riscos tributários, cíveis e trabalhistas",-166140000.0,01027058,2023-12-31
+DFC,CON,2.6,"Provisão para riscos tributários, cíveis e trabalhistas",-318941000.0,01027058,2023-12-31
+DFC,IND,2.7,Juros sobre empréstimos e financiamentos,913328000.0,01027058,2023-12-31
+DFC,CON,2.7,Juros sobre empréstimos e financiamentos,913328000.0,01027058,2023-12-31
+DFC,IND,2.8,Amortização de custos de emissão de dívidas,1551000.0,01027058,2023-12-31
+DFC,CON,2.8,Amortização de custos de emissão de dívidas,1551000.0,01027058,2023-12-31
+DFC,IND,2.9,Rendimento de participação no FIDC,-1894047000.0,01027058,2023-12-31
+DFC,CON,2.9,Rendimento de participação no FIDC,0.0,01027058,2023-12-31
+DFC,IND,3.1,Rendas a receber,1025000.0,01027058,2023-12-31
+DFC,CON,3.1,Rendas a receber,-1550514000.0,01027058,2023-12-31
+DFC,IND,3.2,Contas a receber de emissores,980479000.0,01027058,2023-12-31
+DFC,CON,3.2,Contas a receber de emissores,906134000.0,01027058,2023-12-31
+DFC,IND,3.3,Contas a receber com partes relacionadas,-98945000.0,01027058,2023-12-31
+DFC,CON,3.3,Contas a receber com partes relacionadas,-94796000.0,01027058,2023-12-31
+DFC,IND,3.4,Impostos e contribuições a compensar/recuperar,-57768000.0,01027058,2023-12-31
+DFC,CON,3.4,Impostos e contribuições a compensar/recuperar,-21014000.0,01027058,2023-12-31
+DFC,IND,3.5,Devedores por depósitos em garantia,-1791000.0,01027058,2023-12-31
+DFC,CON,3.5,Devedores por depósitos em garantia,-3679000.0,01027058,2023-12-31
+DFC,IND,3.6,Dividendos a receber,103403000.0,01027058,2023-12-31
+DFC,CON,3.6,Dividendos a receber,0.0,01027058,2023-12-31
+DFC,IND,3.7,Outros valores e bens,-71183000.0,01027058,2023-12-31
+DFC,CON,3.7,Outros valores e bens,-70847000.0,01027058,2023-12-31
+DFC,IND,3.8,Outros ativos,-36804000.0,01027058,2023-12-31
+DFC,CON,3.8,Outros ativos,-45658000.0,01027058,2023-12-31
+DFC,IND,3.9,Ativos financeiros,0.0,01027058,2023-12-31
+DFC,CON,3.9,Ativos financeiros,106554000.0,01027058,2023-12-31
+DFC,IND,4.1,Sociais e estatutárias,-38280000.0,01027058,2023-12-31
+DFC,CON,4.1,Sociais e estatutárias,-28831000.0,01027058,2023-12-31
+DFC,IND,4.2,Fiscais e previdenciárias,-64221000.0,01027058,2023-12-31
+DFC,CON,4.2,Fiscais e previdenciárias,81250000.0,01027058,2023-12-31
+DFC,IND,4.3,Contas a pagar a estabelecimentos,-2368538000.0,01027058,2023-12-31
+DFC,CON,4.3,Contas a pagar a estabelecimentos,-2355169000.0,01027058,2023-12-31
+DFC,IND,4.4,Contas a pagar com partes relacionadas,1869249000.0,01027058,2023-12-31
+DFC,CON,4.4,Contas a pagar com partes relacionadas,41654000.0,01027058,2023-12-31
+DFC,IND,4.5,"Pagamentos para riscos trabalhistas, tributários e cíveis",-75182000.0,01027058,2023-12-31
+DFC,CON,4.5,"Pagamentos para riscos trabalhistas, tributários e cíveis",-77081000.0,01027058,2023-12-31
+DFC,IND,4.6,Outros passivos,27403000.0,01027058,2023-12-31
+DFC,CON,4.6,Outros passivos,-494149000.0,01027058,2023-12-31
+DFC,IND,5,Caixa (aplicado em)/gerado nas atividades operacionais,937148000.0,01027058,2023-12-31
+DFC,CON,5,Caixa (aplicado em)/gerado nas atividades operacionais,1468696000.0,01027058,2023-12-31
+DFC,IND,6,Imposto de renda e contribuição social pagos,-22431000.0,01027058,2023-12-31
+DFC,CON,6,Imposto de renda e contribuição social pagos,-518805000.0,01027058,2023-12-31
+DFC,IND,7,Caixa líquido (aplicado em)/gerado nas atividades operacionais,914717000.0,01027058,2023-12-31
+DFC,CON,7,Caixa líquido (aplicado em)/gerado nas atividades operacionais,949891000.0,01027058,2023-12-31
+DFC,IND,8.1,Caixa líquido (aplicado em)/gerado nas atividades de investimento,-920412000.0,01027058,2023-12-31
+DFC,CON,8.1,Caixa líquido (aplicado em)/gerado nas atividades de investimento,-504923000.0,01027058,2023-12-31
+DFC,IND,8.1.1,Aquisição de cotas FIDCs,6482934000.0,01027058,2023-12-31
+DFC,CON,8.1.1,Aquisição de cotas FIDCs,0.0,01027058,2023-12-31
+DFC,IND,8.1.2,Amortização de cotas FIDCs,-8148114000.0,01027058,2023-12-31
+DFC,CON,8.1.2,Amortização de cotas FIDCs,0.0,01027058,2023-12-31
+DFC,IND,8.1.3,Resgate de ações em controladas,270013000.0,01027058,2023-12-31
+DFC,CON,8.1.3,Resgate de ações em controladas,0.0,01027058,2023-12-31
+DFC,IND,8.1.4,Dividendos recebidos de subsidiárias,975097000.0,01027058,2023-12-31
+DFC,CON,8.1.4,Dividendos recebidos de subsidiárias,0.0,01027058,2023-12-31
+DFC,IND,8.1.5,Aquisições de imobilizado de uso,-233793000.0,01027058,2023-12-31
+DFC,CON,8.1.5,Aquisições de imobilizado de uso,-234133000.0,01027058,2023-12-31
+DFC,IND,8.1.6,Aquisições de intangível,-266549000.0,01027058,2023-12-31
+DFC,CON,8.1.6,Aquisições de intangível,-270790000.0,01027058,2023-12-31
+DFC,IND,9.1,Caixa líquido gerado nas/(aplicado em) atividades de financiamento,-681760000.0,01027058,2023-12-31
+DFC,CON,9.1,Caixa líquido gerado nas/(aplicado em) atividades de financiamento,-1073669000.0,01027058,2023-12-31
+DFC,IND,9.1.1,Captação de empréstimos,11840000000.0,01027058,2023-12-31
+DFC,CON,9.1.1,Captação de empréstimos,11840000000.0,01027058,2023-12-31
+DFC,IND,9.1.2,Pagamento de principal de empréstimos,-10599681000.0,01027058,2023-12-31
+DFC,CON,9.1.2,Pagamento de principal de empréstimos,-10599681000.0,01027058,2023-12-31
+DFC,IND,9.1.3,Juros pagos,-1067338000.0,01027058,2023-12-31
+DFC,CON,9.1.3,Juros pagos,-1067338000.0,01027058,2023-12-31
+DFC,IND,9.1.4,Custos incorridos sobre emissão de dívidas,0.0,01027058,2023-12-31
+DFC,CON,9.1.4,Custos incorridos sobre emissão de dívidas,0.0,01027058,2023-12-31
+DFC,IND,9.1.5,Aumento de participação de terceiros no FIDC,0.0,01027058,2023-12-31
+DFC,CON,9.1.5,Aumento de participação de terceiros no FIDC,1102535000.0,01027058,2023-12-31
+DFC,IND,9.1.6,Amortização de cotas de terceiros no FIDC,0.0,01027058,2023-12-31
+DFC,CON,9.1.6,Amortização de cotas de terceiros no FIDC,-1125222000.0,01027058,2023-12-31
+DFC,IND,9.1.7,Aquisição/cancelamento de ações em tesouraria,-30842000.0,01027058,2023-12-31
+DFC,CON,9.1.7,Aquisição/cancelamento de ações em tesouraria,-30842000.0,01027058,2023-12-31
+DFC,IND,9.1.8,Dividendos e juros sobre o capital próprio pagos,-823899000.0,01027058,2023-12-31
+DFC,CON,9.1.8,Dividendos e juros sobre o capital próprio pagos,-1193121000.0,01027058,2023-12-31
+DFC,IND,10,Aumento/(redução) do saldo de caixa e equivalentes de caixa,-687455000.0,01027058,2023-12-31
+DFC,CON,10,Aumento/(redução) do saldo de caixa e equivalentes de caixa,-628701000.0,01027058,2023-12-31
+DFC,IND,11.1,Saldo final,399980000.0,01027058,2023-12-31
+DFC,CON,11.1,Saldo final,1254164000.0,01027058,2023-12-31
+DFC,IND,11.2,Efeito de variação cambial sobre caixa e equivalentes de caixa no exterior,0.0,01027058,2023-12-31
+DFC,CON,11.2,Efeito de variação cambial sobre caixa e equivalentes de caixa no exterior,-4725000.0,01027058,2023-12-31
+DFC,IND,11.3,Saldo inicial,1087435000.0,01027058,2023-12-31
+DFC,CON,11.3,Saldo inicial,1882865000.0,01027058,2023-12-31
+DFC,IND,12,Aumento/(redução) do saldo de caixa e equivalentes de caixa.,-687455000.0,01027058,2023-12-31
+DFC,CON,12,Aumento/(redução) do saldo de caixa e equivalentes de caixa.,-628701000.0,01027058,2023-12-31
+DMPL,IND,1,Capital social,5700000000.0,01027058,2023-12-31
+DMPL,IND,1.1,Capital social_Aquisição de ações em tesouraria,0.0,01027058,2023-12-31
+DMPL,IND,1.2,Capital social_Ações restritas outorgadas,0.0,01027058,2023-12-31
+DMPL,IND,1.3,Capital social_Transferência de ações em tesouraria pelo exercício de ações,0.0,01027058,2023-12-31
+DMPL,IND,1.4,Capital social_Lucro líquido do exercício,0.0,01027058,2023-12-31
+DMPL,IND,1.5,Capital social_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio proposto,0.0,01027058,2023-12-31
+DMPL,IND,1.7,Capital social_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,0.0,01027058,2023-12-31
+DMPL,IND,1.8,Capital social_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,0.0,01027058,2023-12-31
+DMPL,IND,1.10,Capital social_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2023-12-31
+DMPL,IND,1.11,Capital social_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2023-12-31
+DMPL,IND,1.12,Capital social_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2023-12-31
+DMPL,IND,2,Reserva de capital,58578000.0,01027058,2023-12-31
+DMPL,IND,2.1,Reserva de capital_Aquisição de ações em tesouraria,0.0,01027058,2023-12-31
+DMPL,IND,2.2,Reserva de capital_Ações restritas outorgadas,37143000.0,01027058,2023-12-31
+DMPL,IND,2.3,Reserva de capital_Transferência de ações em tesouraria pelo exercício de ações,-49458000.0,01027058,2023-12-31
+DMPL,IND,2.4,Reserva de capital_Lucro líquido do exercício,0.0,01027058,2023-12-31
+DMPL,IND,2.5,Reserva de capital_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio proposto,0.0,01027058,2023-12-31
+DMPL,IND,2.7,Reserva de capital_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,0.0,01027058,2023-12-31
+DMPL,IND,2.8,Reserva de capital_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,0.0,01027058,2023-12-31
+DMPL,IND,2.10,Reserva de capital_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2023-12-31
+DMPL,IND,2.11,Reserva de capital_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2023-12-31
+DMPL,IND,2.12,Reserva de capital_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2023-12-31
+DMPL,IND,3,Ações em tesouraria,-94989000.0,01027058,2023-12-31
+DMPL,IND,3.1,Ações em tesouraria_Aquisição de ações em tesouraria,-30842000.0,01027058,2023-12-31
+DMPL,IND,3.2,Ações em tesouraria_Ações restritas outorgadas,0.0,01027058,2023-12-31
+DMPL,IND,3.3,Ações em tesouraria_Transferência de ações em tesouraria pelo exercício de ações,49458000.0,01027058,2023-12-31
+DMPL,IND,3.4,Ações em tesouraria_Lucro líquido do exercício,0.0,01027058,2023-12-31
+DMPL,IND,3.5,Ações em tesouraria_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio proposto,0.0,01027058,2023-12-31
+DMPL,IND,3.7,Ações em tesouraria_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,0.0,01027058,2023-12-31
+DMPL,IND,3.8,Ações em tesouraria_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,0.0,01027058,2023-12-31
+DMPL,IND,3.10,Ações em tesouraria_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2023-12-31
+DMPL,IND,3.11,Ações em tesouraria_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2023-12-31
+DMPL,IND,3.12,Ações em tesouraria_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2023-12-31
+DMPL,IND,4,Reservas de lucros - Legal,1140000000.0,01027058,2023-12-31
+DMPL,IND,4.1,Reservas de lucros - Legal_Aquisição de ações em tesouraria,0.0,01027058,2023-12-31
+DMPL,IND,4.2,Reservas de lucros - Legal_Ações restritas outorgadas,0.0,01027058,2023-12-31
+DMPL,IND,4.3,Reservas de lucros - Legal_Transferência de ações em tesouraria pelo exercício de ações,0.0,01027058,2023-12-31
+DMPL,IND,4.4,Reservas de lucros - Legal_Lucro líquido do exercício,0.0,01027058,2023-12-31
+DMPL,IND,4.5,Reservas de lucros - Legal_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio proposto,0.0,01027058,2023-12-31
+DMPL,IND,4.7,Reservas de lucros - Legal_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,0.0,01027058,2023-12-31
+DMPL,IND,4.8,Reservas de lucros - Legal_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,0.0,01027058,2023-12-31
+DMPL,IND,4.10,Reservas de lucros - Legal_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2023-12-31
+DMPL,IND,4.11,Reservas de lucros - Legal_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2023-12-31
+DMPL,IND,4.12,Reservas de lucros - Legal_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2023-12-31
+DMPL,IND,5,Reservas de lucros - Orçamento de capital,5617870000.0,01027058,2023-12-31
+DMPL,IND,5.1,Reservas de lucros - Orçamento de capital_Aquisição de ações em tesouraria,0.0,01027058,2023-12-31
+DMPL,IND,5.2,Reservas de lucros - Orçamento de capital_Ações restritas outorgadas,0.0,01027058,2023-12-31
+DMPL,IND,5.3,Reservas de lucros - Orçamento de capital_Transferência de ações em tesouraria pelo exercício de ações,0.0,01027058,2023-12-31
+DMPL,IND,5.4,Reservas de lucros - Orçamento de capital_Lucro líquido do exercício,0.0,01027058,2023-12-31
+DMPL,IND,5.5,Reservas de lucros - Orçamento de capital_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio proposto,0.0,01027058,2023-12-31
+DMPL,IND,5.7,Reservas de lucros - Orçamento de capital_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,0.0,01027058,2023-12-31
+DMPL,IND,5.8,Reservas de lucros - Orçamento de capital_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,1322551000.0,01027058,2023-12-31
+DMPL,IND,5.10,Reservas de lucros - Orçamento de capital_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2023-12-31
+DMPL,IND,5.11,Reservas de lucros - Orçamento de capital_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2023-12-31
+DMPL,IND,5.12,Reservas de lucros - Orçamento de capital_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2023-12-31
+DMPL,IND,6,Reservas de lucros - Retenção de lucros,0.0,01027058,2023-12-31
+DMPL,IND,6.1,Reservas de lucros - Retenção de lucros_Aquisição de ações em tesouraria,0.0,01027058,2023-12-31
+DMPL,IND,6.2,Reservas de lucros - Retenção de lucros_Ações restritas outorgadas,0.0,01027058,2023-12-31
+DMPL,IND,6.3,Reservas de lucros - Retenção de lucros_Transferência de ações em tesouraria pelo exercício de ações,0.0,01027058,2023-12-31
+DMPL,IND,6.4,Reservas de lucros - Retenção de lucros_Lucro líquido do exercício,2086838000.0,01027058,2023-12-31
+DMPL,IND,6.5,Reservas de lucros - Retenção de lucros_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio proposto,-179388000.0,01027058,2023-12-31
+DMPL,IND,6.7,Reservas de lucros - Retenção de lucros_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,-584899000.0,01027058,2023-12-31
+DMPL,IND,6.8,Reservas de lucros - Retenção de lucros_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,-1322551000.0,01027058,2023-12-31
+DMPL,IND,6.10,Reservas de lucros - Retenção de lucros_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2023-12-31
+DMPL,IND,6.11,Reservas de lucros - Retenção de lucros_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2023-12-31
+DMPL,IND,6.12,Reservas de lucros - Retenção de lucros_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2023-12-31
+DMPL,IND,7,Outros resultados abrangentes,-162656000.0,01027058,2023-12-31
+DMPL,IND,7.1,Outros resultados abrangentes_Aquisição de ações em tesouraria,0.0,01027058,2023-12-31
+DMPL,IND,7.2,Outros resultados abrangentes_Ações restritas outorgadas,0.0,01027058,2023-12-31
+DMPL,IND,7.3,Outros resultados abrangentes_Transferência de ações em tesouraria pelo exercício de ações,0.0,01027058,2023-12-31
+DMPL,IND,7.4,Outros resultados abrangentes_Lucro líquido do exercício,0.0,01027058,2023-12-31
+DMPL,IND,7.5,Outros resultados abrangentes_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio proposto,0.0,01027058,2023-12-31
+DMPL,IND,7.7,Outros resultados abrangentes_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,0.0,01027058,2023-12-31
+DMPL,IND,7.8,Outros resultados abrangentes_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,0.0,01027058,2023-12-31
+DMPL,IND,7.10,Outros resultados abrangentes_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,-314000.0,01027058,2023-12-31
+DMPL,IND,7.11,Outros resultados abrangentes_Outros resultados abrangentes: Benefício pós-emprego,1688000.0,01027058,2023-12-31
+DMPL,IND,7.12,Outros resultados abrangentes_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2023-12-31
+DMPL,IND,8,Participação dos acionistas controladores,12258803000.0,01027058,2023-12-31
+DMPL,IND,8.1,Participação dos acionistas controladores_Aquisição de ações em tesouraria,-30842000.0,01027058,2023-12-31
+DMPL,IND,8.2,Participação dos acionistas controladores_Ações restritas outorgadas,37143000.0,01027058,2023-12-31
+DMPL,IND,8.3,Participação dos acionistas controladores_Transferência de ações em tesouraria pelo exercício de ações,0.0,01027058,2023-12-31
+DMPL,IND,8.4,Participação dos acionistas controladores_Lucro líquido do exercício,2086838000.0,01027058,2023-12-31
+DMPL,IND,8.5,Participação dos acionistas controladores_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio proposto,-179388000.0,01027058,2023-12-31
+DMPL,IND,8.7,Participação dos acionistas controladores_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,-584899000.0,01027058,2023-12-31
+DMPL,IND,8.8,Participação dos acionistas controladores_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,0.0,01027058,2023-12-31
+DMPL,IND,8.10,Participação dos acionistas controladores_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,-314000.0,01027058,2023-12-31
+DMPL,IND,8.11,Participação dos acionistas controladores_Outros resultados abrangentes: Benefício pós-emprego,1688000.0,01027058,2023-12-31
+DMPL,IND,8.12,Participação dos acionistas controladores_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2023-12-31
+DMPL,IND,9,Participação dos Acionistas não controladores,10049499000.0,01027058,2023-12-31
+DMPL,IND,9.1,Participação dos Acionistas não controladores_Aquisição de ações em tesouraria,0.0,01027058,2023-12-31
+DMPL,IND,9.2,Participação dos Acionistas não controladores_Ações restritas outorgadas,0.0,01027058,2023-12-31
+DMPL,IND,9.3,Participação dos Acionistas não controladores_Transferência de ações em tesouraria pelo exercício de ações,0.0,01027058,2023-12-31
+DMPL,IND,9.4,Participação dos Acionistas não controladores_Lucro líquido do exercício,381325000.0,01027058,2023-12-31
+DMPL,IND,9.5,Participação dos Acionistas não controladores_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio proposto,0.0,01027058,2023-12-31
+DMPL,IND,9.7,Participação dos Acionistas não controladores_Destinação sobre o lucro líquido do exercício: Juros sobre o capital próprio pagos,0.0,01027058,2023-12-31
+DMPL,IND,9.8,Participação dos Acionistas não controladores_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,0.0,01027058,2023-12-31
+DMPL,IND,9.10,Participação dos Acionistas não controladores_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2023-12-31
+DMPL,IND,9.11,Participação dos Acionistas não controladores_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2023-12-31
+DMPL,IND,9.12,Participação dos Acionistas não controladores_Efeito dos acionistas não controladores sobre entidades consolidadas,-525663000.0,01027058,2023-12-31
+DMPL,IND,10,Total do Patrimônio líquido,22308302000.0,01027058,2023-12-31
+BP,IND,1,Ativo,120211376000.0,01027058,2024-12-31
+BP,CON,1,Ativo,113100378000.0,01027058,2024-12-31
+BP,IND,1.1,Circulante,110792068000.0,01027058,2024-12-31
+BP,CON,1.1,Circulante,102242290000.0,01027058,2024-12-31
+BP,IND,1.1.1,Disponibilidades,111881000.0,01027058,2024-12-31
+BP,CON,1.1.1,Disponibilidades,119811000.0,01027058,2024-12-31
+BP,IND,1.1.2,Ativos financeiros,172758000.0,01027058,2024-12-31
+BP,CON,1.1.2,Ativos financeiros,1241231000.0,01027058,2024-12-31
+BP,IND,1.1.3,Fundos de investimento em direitos creditórios,12659622000.0,01027058,2024-12-31
+BP,CON,1.1.3,Fundos de investimento em direitos creditórios,0.0,01027058,2024-12-31
+BP,IND,1.1.4,Rendas a receber,101326000.0,01027058,2024-12-31
+BP,CON,1.1.4,Rendas a receber,1675120000.0,01027058,2024-12-31
+BP,IND,1.1.5,Contas a receber de emissores,96170471000.0,01027058,2024-12-31
+BP,CON,1.1.5,Contas a receber de emissores,96179080000.0,01027058,2024-12-31
+BP,IND,1.1.6,Contas a receber com partes relacionadas,177977000.0,01027058,2024-12-31
+BP,CON,1.1.6,Contas a receber com partes relacionadas,1038744000.0,01027058,2024-12-31
+BP,IND,1.1.7,Impostos e contribuições a compensar/recuperar,1151104000.0,01027058,2024-12-31
+BP,CON,1.1.7,Impostos e contribuições a compensar/recuperar,1689374000.0,01027058,2024-12-31
+BP,IND,1.1.8,Outras contas a receber operacionais,208728000.0,01027058,2024-12-31
+BP,CON,1.1.8,Outras contas a receber operacionais,217255000.0,01027058,2024-12-31
+BP,IND,1.1.9,Perdas esperadas para créditos de liquidação duvidosa,-185472000.0,01027058,2024-12-31
+BP,CON,1.1.9,Perdas esperadas para créditos de liquidação duvidosa,-188421000.0,01027058,2024-12-31
+BP,IND,1.1.10,Outros valores a receber,223673000.0,01027058,2024-12-31
+BP,CON,1.1.10,Outros valores a receber,270096000.0,01027058,2024-12-31
+BP,IND,1.2,Ativo não circulante,9419308000.0,01027058,2024-12-31
+BP,CON,1.2,Ativo não circulante,10858088000.0,01027058,2024-12-31
+BP,IND,1.2.1.1,Ativos financeiros,0.0,01027058,2024-12-31
+BP,CON,1.2.1.1,Ativos financeiros,172274000.0,01027058,2024-12-31
+BP,IND,1.2.1.2,Devedores por depósitos em garantia,73025000.0,01027058,2024-12-31
+BP,CON,1.2.1.2,Devedores por depósitos em garantia,89302000.0,01027058,2024-12-31
+BP,IND,1.2.1.3,Créditos tributários,898123000.0,01027058,2024-12-31
+BP,CON,1.2.1.3,Créditos tributários,1208611000.0,01027058,2024-12-31
+BP,IND,1.2.1.4,Outras contas a receber operacionais,42817000.0,01027058,2024-12-31
+BP,CON,1.2.1.4,Outras contas a receber operacionais,42821000.0,01027058,2024-12-31
+BP,IND,1.2.2,Investimentos em participações em controladas,6858569000.0,01027058,2024-12-31
+BP,CON,1.2.2,Investimentos em participações em controladas,0.0,01027058,2024-12-31
+BP,IND,1.2.3,Imobilizado de uso,870424000.0,01027058,2024-12-31
+BP,CON,1.2.3,Imobilizado de uso,873026000.0,01027058,2024-12-31
+BP,IND,1.2.3.1,Imobilizações em uso,2065183000.0,01027058,2024-12-31
+BP,CON,1.2.3.1,Imobilizações em uso,2077031000.0,01027058,2024-12-31
+BP,IND,1.2.3.2,(-) Depreciação acumulada,-1164903000.0,01027058,2024-12-31
+BP,CON,1.2.3.2,(-) Depreciação acumulada,-1174149000.0,01027058,2024-12-31
+BP,IND,1.2.3.3,(-) Redução ao valor recuperável de ativos,-29856000.0,01027058,2024-12-31
+BP,CON,1.2.3.3,(-) Redução ao valor recuperável de ativos,-29856000.0,01027058,2024-12-31
+BP,IND,1.2.4,Intangível,676350000.0,01027058,2024-12-31
+BP,CON,1.2.4,Intangível,8472054000.0,01027058,2024-12-31
+BP,IND,1.2.4.1,Outros intangíveis,1823475000.0,01027058,2024-12-31
+BP,CON,1.2.4.1,Outros intangíveis,13425078000.0,01027058,2024-12-31
+BP,IND,1.2.4.2,(-) Amortização acumulada,-1124427000.0,01027058,2024-12-31
+BP,CON,1.2.4.2,(-) Amortização acumulada,-4930326000.0,01027058,2024-12-31
+BP,IND,1.2.4.3,(-) Redução ao valor recuperável de ativos,-22698000.0,01027058,2024-12-31
+BP,CON,1.2.4.3,(-) Redução ao valor recuperável de ativos,-22698000.0,01027058,2024-12-31
+BP,IND,2,Passivo e patrimônio líquido,120211376000.0,01027058,2024-12-31
+BP,CON,2,Passivo e patrimônio líquido,113100378000.0,01027058,2024-12-31
+BP,IND,2.1,Circulante,106185763000.0,01027058,2024-12-31
+BP,CON,2.1,Circulante,91061165000.0,01027058,2024-12-31
+BP,IND,2.1.1,Obrigações por empréstimos,3105827000.0,01027058,2024-12-31
+BP,CON,2.1.1,Obrigações por empréstimos,3105827000.0,01027058,2024-12-31
+BP,IND,2.1.2,Outras obrigações,103079936000.0,01027058,2024-12-31
+BP,CON,2.1.2,Outras obrigações,87955338000.0,01027058,2024-12-31
+BP,IND,2.1.2.1,Sociais e estatutárias,4052634000.0,01027058,2024-12-31
+BP,CON,2.1.2.1,Sociais e estatutárias,4077859000.0,01027058,2024-12-31
+BP,IND,2.1.2.2,Fiscais e previdenciárias,103124000.0,01027058,2024-12-31
+BP,CON,2.1.2.2,Fiscais e previdenciárias,758989000.0,01027058,2024-12-31
+BP,IND,2.1.2.3,Contas a pagar a estabelecimentos,81662759000.0,01027058,2024-12-31
+BP,CON,2.1.2.3,Contas a pagar a estabelecimentos,81842095000.0,01027058,2024-12-31
+BP,IND,2.1.2.4,Contas a pagar com partes relacionadas,16531520000.0,01027058,2024-12-31
+BP,CON,2.1.2.4,Contas a pagar com partes relacionadas,496125000.0,01027058,2024-12-31
+BP,IND,2.1.2.5,Outras,729899000.0,01027058,2024-12-31
+BP,CON,2.1.2.5,Outras,780270000.0,01027058,2024-12-31
+BP,IND,2.2,Não circulante,4798740000.0,01027058,2024-12-31
+BP,CON,2.2,Não circulante,4827840000.0,01027058,2024-12-31
+BP,IND,2.2.1,Obrigações por empréstimos,4498339000.0,01027058,2024-12-31
+BP,CON,2.2.1,Obrigações por empréstimos,4498339000.0,01027058,2024-12-31
+BP,IND,2.2.2,Outras obrigações.,300401000.0,01027058,2024-12-31
+BP,CON,2.2.2,Outras obrigações.,329501000.0,01027058,2024-12-31
+BP,IND,2.3,Patrimônio líquido,9226873000.0,01027058,2024-12-31
+BP,CON,2.3,Patrimônio líquido,17211373000.0,01027058,2024-12-31
+BP,IND,2.3.1,Acionistas controladores,9226873000.0,01027058,2024-12-31
+BP,CON,2.3.1,Acionistas controladores,9226873000.0,01027058,2024-12-31
+BP,IND,2.3.1.1,Capital social,5700000000.0,01027058,2024-12-31
+BP,CON,2.3.1.1,Capital social,5700000000.0,01027058,2024-12-31
+BP,IND,2.3.1.2,Reservas de capital,7019000.0,01027058,2024-12-31
+BP,CON,2.3.1.2,Reservas de capital,7019000.0,01027058,2024-12-31
+BP,IND,2.3.1.3,Reservas de lucros,3680213000.0,01027058,2024-12-31
+BP,CON,2.3.1.3,Reservas de lucros,3680213000.0,01027058,2024-12-31
+BP,IND,2.3.1.4,Outros resultados abrangentes,-160329000.0,01027058,2024-12-31
+BP,CON,2.3.1.4,Outros resultados abrangentes,-160329000.0,01027058,2024-12-31
+BP,IND,2.3.1.5,(-) Ações em tesouraria,-30000.0,01027058,2024-12-31
+BP,CON,2.3.1.5,(-) Ações em tesouraria,-30000.0,01027058,2024-12-31
+BP,IND,2.3.2,Acionistas não controladores,0.0,01027058,2024-12-31
+BP,CON,2.3.2,Acionistas não controladores,7984500000.0,01027058,2024-12-31
+DR,IND,1,RECEITA LÍQUIDA,5906761000.0,01027058,2024-12-31
+DR,CON,1,RECEITA LÍQUIDA,10295249000.0,01027058,2024-12-31
+DR,IND,2,CUSTO DOS SERVIÇOS PRESTADOS,-3292545000.0,01027058,2024-12-31
+DR,CON,2,CUSTO DOS SERVIÇOS PRESTADOS,-5888284000.0,01027058,2024-12-31
+DR,IND,3,LUCRO BRUTO,2614216000.0,01027058,2024-12-31
+DR,CON,3,LUCRO BRUTO,4406965000.0,01027058,2024-12-31
+DR,IND,4.1,Pessoal,-1040944000.0,01027058,2024-12-31
+DR,CON,4.1,Pessoal,-1517401000.0,01027058,2024-12-31
+DR,IND,4.2,Gerais e administrativas,-892429000.0,01027058,2024-12-31
+DR,CON,4.2,Gerais e administrativas,-443312000.0,01027058,2024-12-31
+DR,IND,4.3,Vendas e marketing,-188744000.0,01027058,2024-12-31
+DR,CON,4.3,Vendas e marketing,-192022000.0,01027058,2024-12-31
+DR,IND,4.4,Equivalência patrimonial,989257000.0,01027058,2024-12-31
+DR,CON,4.4,Equivalência patrimonial,0.0,01027058,2024-12-31
+DR,IND,4.5,"Outras receitas (despesas) operacionais, líquidas",-204934000.0,01027058,2024-12-31
+DR,CON,4.5,"Outras receitas (despesas) operacionais, líquidas",-248663000.0,01027058,2024-12-31
+DR,IND,5,LUCRO OPERACIONAL,1276422000.0,01027058,2024-12-31
+DR,CON,5,LUCRO OPERACIONAL,2005567000.0,01027058,2024-12-31
+DR,IND,6,RESULTADO FINANCEIRO,160145000.0,01027058,2024-12-31
+DR,CON,6,RESULTADO FINANCEIRO,306469000.0,01027058,2024-12-31
+DR,IND,6.1,Receitas financeiras,51074000.0,01027058,2024-12-31
+DR,CON,6.1,Receitas financeiras,224256000.0,01027058,2024-12-31
+DR,IND,6.2,Despesas financeiras,-1387028000.0,01027058,2024-12-31
+DR,CON,6.2,Despesas financeiras,-1301046000.0,01027058,2024-12-31
+DR,IND,6.3,Rendimento de cotas FIDCs e Antecipação de Recebíveis,1516666000.0,01027058,2024-12-31
+DR,CON,6.3,Rendimento de cotas FIDCs e Antecipação de Recebíveis,1403696000.0,01027058,2024-12-31
+DR,IND,6.4,"Variação cambial, líquida",-20567000.0,01027058,2024-12-31
+DR,CON,6.4,"Variação cambial, líquida",-20437000.0,01027058,2024-12-31
+DR,IND,7,LUCRO OPERACIONAL ANTES DO IMPOSTO DE RENDA E DA CONTRIBUIÇÃO SOCIAL,1436567000.0,01027058,2024-12-31
+DR,CON,7,LUCRO OPERACIONAL ANTES DO IMPOSTO DE RENDA E DA CONTRIBUIÇÃO SOCIAL,2312036000.0,01027058,2024-12-31
+DR,IND,8.1,Correntes,-20466000.0,01027058,2024-12-31
+DR,CON,8.1,Correntes,-638050000.0,01027058,2024-12-31
+DR,IND,8.2,Diferidos,22737000.0,01027058,2024-12-31
+DR,CON,8.2,Diferidos,95557000.0,01027058,2024-12-31
+DR,IND,9,LUCRO LÍQUIDO DO PERÍODO,1438838000.0,01027058,2024-12-31
+DR,CON,9,LUCRO LÍQUIDO DO PERÍODO,1769543000.0,01027058,2024-12-31
+DR,CON,9.1,Acionistas controladores,1438838000.0,01027058,2024-12-31
+DR,CON,9.2,Acionistas não controladores,330705000.0,01027058,2024-12-31
+DR,IND,10,Lucro líquido por ação (em R$) - Básico,528.2099999999999,01027058,2024-12-31
+DR,CON,10,Lucro líquido por ação (em R$) - Básico,528.2099999999999,01027058,2024-12-31
+DR,IND,11,Lucro líquido por ação (em R$) - Diluído,528.2099999999999,01027058,2024-12-31
+DR,CON,11,Lucro líquido por ação (em R$) - Diluído,528.2099999999999,01027058,2024-12-31
+DRA,IND,1,Lucro líquido do período,1438838000.0,01027058,2024-12-31
+DRA,CON,1,Lucro líquido do período,1769543000.0,01027058,2024-12-31
+DRA,IND,2,Movimentações do período,2327000.0,01027058,2024-12-31
+DRA,CON,2,Movimentações do período,1915000.0,01027058,2024-12-31
+DRA,IND,2.1.1,Variação cambial sobre investimentos no exterior,903000.0,01027058,2024-12-31
+DRA,CON,2.1.1,Variação cambial sobre investimentos no exterior,903000.0,01027058,2024-12-31
+DRA,IND,2.1.2,Ajuste de avaliação patrimonial de instrumentos financeiros,-958000.0,01027058,2024-12-31
+DRA,CON,2.1.2,Ajuste de avaliação patrimonial de instrumentos financeiros,-1370000.0,01027058,2024-12-31
+DRA,IND,2.2.1,Benefício pós-emprego,2382000.0,01027058,2024-12-31
+DRA,CON,2.2.1,Benefício pós-emprego,2382000.0,01027058,2024-12-31
+DRA,IND,3,Resultado abrangente total,1441165000.0,01027058,2024-12-31
+DRA,CON,3,Resultado abrangente total,1771458000.0,01027058,2024-12-31
+DRA,CON,4.1,Acionistas controladores,1441165000.0,01027058,2024-12-31
+DRA,CON,4.2,Acionistas não controladores,330293000.0,01027058,2024-12-31
+DFC,IND,1.1,Lucro antes do imposto de renda e da contribuição social,1436567000.0,01027058,2024-12-31
+DFC,CON,1.1,Lucro antes do imposto de renda e da contribuição social,2312036000.0,01027058,2024-12-31
+DFC,IND,2.1,Depreciações e amortizações,495204000.0,01027058,2024-12-31
+DFC,CON,2.1,Depreciações e amortizações,883621000.0,01027058,2024-12-31
+DFC,IND,2.2,Baixas e provisões/(reversões) para perdas de imobilizado e intangível,60920000.0,01027058,2024-12-31
+DFC,CON,2.2,Baixas e provisões/(reversões) para perdas de imobilizado e intangível,62980000.0,01027058,2024-12-31
+DFC,IND,2.3,Equivalência patrimonial,-989257000.0,01027058,2024-12-31
+DFC,CON,2.3,Equivalência patrimonial,0.0,01027058,2024-12-31
+DFC,IND,2.4,Ações restritas outorgadas,43400000.0,01027058,2024-12-31
+DFC,CON,2.4,Ações restritas outorgadas,43400000.0,01027058,2024-12-31
+DFC,IND,2.5,Perdas esperadas para créditos de liquidação duvidosa,115460000.0,01027058,2024-12-31
+DFC,CON,2.5,Perdas esperadas para créditos de liquidação duvidosa,184736000.0,01027058,2024-12-31
+DFC,IND,2.6,"Provisão para riscos tributários, cíveis e trabalhistas",58353000.0,01027058,2024-12-31
+DFC,CON,2.6,"Provisão para riscos tributários, cíveis e trabalhistas",68628000.0,01027058,2024-12-31
+DFC,IND,2.7,Juros sobre empréstimos e financiamentos,480622000.0,01027058,2024-12-31
+DFC,CON,2.7,Juros sobre empréstimos e financiamentos,480622000.0,01027058,2024-12-31
+DFC,IND,2.8,Amortização de custos de emissão de dívidas,1092000.0,01027058,2024-12-31
+DFC,CON,2.8,Amortização de custos de emissão de dívidas,1092000.0,01027058,2024-12-31
+DFC,IND,2.9,Rendimento de participação no FIDC,-1590630000.0,01027058,2024-12-31
+DFC,CON,2.9,Rendimento de participação no FIDC,0.0,01027058,2024-12-31
+DFC,IND,3.1,Rendas a receber,27651000.0,01027058,2024-12-31
+DFC,CON,3.1,Rendas a receber,870927000.0,01027058,2024-12-31
+DFC,IND,3.2,Contas a receber de emissores,-5264706000.0,01027058,2024-12-31
+DFC,CON,3.2,Contas a receber de emissores,-5333162000.0,01027058,2024-12-31
+DFC,IND,3.3,Contas a receber com partes relacionadas,-148677000.0,01027058,2024-12-31
+DFC,CON,3.3,Contas a receber com partes relacionadas,-117598000.0,01027058,2024-12-31
+DFC,IND,3.4,Impostos e contribuições a compensar/recuperar,-373202000.0,01027058,2024-12-31
+DFC,CON,3.4,Impostos e contribuições a compensar/recuperar,-417744000.0,01027058,2024-12-31
+DFC,IND,3.5,Devedores por depósitos em garantia,-8166000.0,01027058,2024-12-31
+DFC,CON,3.5,Devedores por depósitos em garantia,-18561000.0,01027058,2024-12-31
+DFC,IND,3.6,Dividendos a receber,124607000.0,01027058,2024-12-31
+DFC,CON,3.6,Dividendos a receber,0.0,01027058,2024-12-31
+DFC,IND,3.7,Outros valores e bens,-71811000.0,01027058,2024-12-31
+DFC,CON,3.7,Outros valores e bens,-107683000.0,01027058,2024-12-31
+DFC,IND,3.8,Outros ativos,-47171000.0,01027058,2024-12-31
+DFC,CON,3.8,Outros ativos,-44941000.0,01027058,2024-12-31
+DFC,IND,3.9,Ativos financeiros,0.0,01027058,2024-12-31
+DFC,CON,3.9,Ativos financeiros,7890000.0,01027058,2024-12-31
+DFC,IND,4.1,Sociais e estatutárias,109391000.0,01027058,2024-12-31
+DFC,CON,4.1,Sociais e estatutárias,376605000.0,01027058,2024-12-31
+DFC,IND,4.2,Fiscais e previdenciárias,-17387000.0,01027058,2024-12-31
+DFC,CON,4.2,Fiscais e previdenciárias,-21039000.0,01027058,2024-12-31
+DFC,IND,4.3,Contas a pagar a estabelecimentos,6321474000.0,01027058,2024-12-31
+DFC,CON,4.3,Contas a pagar a estabelecimentos,6361343000.0,01027058,2024-12-31
+DFC,IND,4.4,Contas a pagar com partes relacionadas,-1824524000.0,01027058,2024-12-31
+DFC,CON,4.4,Contas a pagar com partes relacionadas,31875000.0,01027058,2024-12-31
+DFC,IND,4.5,"Pagamentos para riscos trabalhistas, tributários e cíveis",-75858000.0,01027058,2024-12-31
+DFC,CON,4.5,"Pagamentos para riscos trabalhistas, tributários e cíveis",-79826000.0,01027058,2024-12-31
+DFC,IND,4.6,Outros passivos,-1878000.0,01027058,2024-12-31
+DFC,CON,4.6,Outros passivos,-324227000.0,01027058,2024-12-31
+DFC,IND,5,Caixa (aplicado em)/gerado nas atividades operacionais,-1138526000.0,01027058,2024-12-31
+DFC,CON,5,Caixa (aplicado em)/gerado nas atividades operacionais,5220974000.0,01027058,2024-12-31
+DFC,IND,6,Imposto de renda e contribuição social pagos,-9386000.0,01027058,2024-12-31
+DFC,CON,6,Imposto de renda e contribuição social pagos,-541076000.0,01027058,2024-12-31
+DFC,IND,7,Caixa líquido (aplicado em)/gerado nas atividades operacionais,-1147912000.0,01027058,2024-12-31
+DFC,CON,7,Caixa líquido (aplicado em)/gerado nas atividades operacionais,4679898000.0,01027058,2024-12-31
+DFC,IND,8.1,Caixa líquido (aplicado em)/gerado nas atividades de investimento,2516933000.0,01027058,2024-12-31
+DFC,CON,8.1,Caixa líquido (aplicado em)/gerado nas atividades de investimento,-691565000.0,01027058,2024-12-31
+DFC,IND,8.1.1,Aquisição de cotas FIDCs,12392242000.0,01027058,2024-12-31
+DFC,CON,8.1.1,Aquisição de cotas FIDCs,0.0,01027058,2024-12-31
+DFC,IND,8.1.2,Amortização de cotas FIDCs,-9988550000.0,01027058,2024-12-31
+DFC,CON,8.1.2,Amortização de cotas FIDCs,0.0,01027058,2024-12-31
+DFC,IND,8.1.3,Resgate de ações em controladas,0.0,01027058,2024-12-31
+DFC,CON,8.1.3,Resgate de ações em controladas,0.0,01027058,2024-12-31
+DFC,IND,8.1.4,Dividendos recebidos de subsidiárias,792964000.0,01027058,2024-12-31
+DFC,CON,8.1.4,Dividendos recebidos de subsidiárias,0.0,01027058,2024-12-31
+DFC,IND,8.1.5,Aquisições de imobilizado de uso,-430879000.0,01027058,2024-12-31
+DFC,CON,8.1.5,Aquisições de imobilizado de uso,-431209000.0,01027058,2024-12-31
+DFC,IND,8.1.6,Aquisições de intangível,-248844000.0,01027058,2024-12-31
+DFC,CON,8.1.6,Aquisições de intangível,-260356000.0,01027058,2024-12-31
+DFC,IND,9.1,Caixa líquido gerado nas/(aplicado em) atividades de financiamento,-1484362000.0,01027058,2024-12-31
+DFC,CON,9.1,Caixa líquido gerado nas/(aplicado em) atividades de financiamento,-3881455000.0,01027058,2024-12-31
+DFC,IND,9.1.1,Captação de empréstimos,22166002000.0,01027058,2024-12-31
+DFC,CON,9.1.1,Captação de empréstimos,22166002000.0,01027058,2024-12-31
+DFC,IND,9.1.2,Pagamento de principal de empréstimos,-22288558000.0,01027058,2024-12-31
+DFC,CON,9.1.2,Pagamento de principal de empréstimos,-22288558000.0,01027058,2024-12-31
+DFC,IND,9.1.3,Juros pagos,-483405000.0,01027058,2024-12-31
+DFC,CON,9.1.3,Juros pagos,-483405000.0,01027058,2024-12-31
+DFC,IND,9.1.4,Custos incorridos sobre emissão de dívidas,-2518000.0,01027058,2024-12-31
+DFC,CON,9.1.4,Custos incorridos sobre emissão de dívidas,-2518000.0,01027058,2024-12-31
+DFC,IND,9.1.5,Aumento de participação de terceiros no FIDC,0.0,01027058,2024-12-31
+DFC,CON,9.1.5,Aumento de participação de terceiros no FIDC,678143000.0,01027058,2024-12-31
+DFC,IND,9.1.6,Amortização de cotas de terceiros no FIDC,0.0,01027058,2024-12-31
+DFC,CON,9.1.6,Amortização de cotas de terceiros no FIDC,-2758966000.0,01027058,2024-12-31
+DFC,IND,9.1.7,Aquisição/cancelamento de ações em tesouraria,-286495000.0,01027058,2024-12-31
+DFC,CON,9.1.7,Aquisição/cancelamento de ações em tesouraria,-286495000.0,01027058,2024-12-31
+DFC,IND,9.1.8,Dividendos e juros sobre o capital próprio pagos,-589388000.0,01027058,2024-12-31
+DFC,CON,9.1.8,Dividendos e juros sobre o capital próprio pagos,-905658000.0,01027058,2024-12-31
+DFC,IND,10,Aumento/(redução) do saldo de caixa e equivalentes de caixa,-115341000.0,01027058,2024-12-31
+DFC,CON,10,Aumento/(redução) do saldo de caixa e equivalentes de caixa,106878000.0,01027058,2024-12-31
+DFC,IND,11.1,Saldo final,284639000.0,01027058,2024-12-31
+DFC,CON,11.1,Saldo final,1361042000.0,01027058,2024-12-31
+DFC,IND,11.2,Efeito de variação cambial sobre caixa e equivalentes de caixa no exterior,0.0,01027058,2024-12-31
+DFC,CON,11.2,Efeito de variação cambial sobre caixa e equivalentes de caixa no exterior,9772000.0,01027058,2024-12-31
+DFC,IND,11.3,Saldo inicial,399980000.0,01027058,2024-12-31
+DFC,CON,11.3,Saldo inicial,1254164000.0,01027058,2024-12-31
+DFC,IND,12,Aumento/(redução) do saldo de caixa e equivalentes de caixa.,-115341000.0,01027058,2024-12-31
+DFC,CON,12,Aumento/(redução) do saldo de caixa e equivalentes de caixa.,106878000.0,01027058,2024-12-31
+DMPL,IND,1,Capital social,5700000000.0,01027058,2024-12-31
+DMPL,IND,1.2,Capital social_Ações restritas outorgadas,0.0,01027058,2024-12-31
+DMPL,IND,1.4,Capital social_Lucro líquido do exercício,0.0,01027058,2024-12-31
+DMPL,IND,1.6,Capital social_Juros sobre o capital próprio pagos,0.0,01027058,2024-12-31
+DMPL,IND,1.8,Capital social_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,0.0,01027058,2024-12-31
+DMPL,IND,1.10,Capital social_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2024-12-31
+DMPL,IND,1.11,Capital social_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2024-12-31
+DMPL,IND,1.12,Capital social_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2024-12-31
+DMPL,IND,1.13,Capital social_Transferência de ações em tesouraria pelo período de ações,0.0,01027058,2024-12-31
+DMPL,IND,1.14,Capital social_Cancelamento de ações,0.0,01027058,2024-12-31
+DMPL,IND,1.16,Capital social_Dividendos provisionados: Dividendos intermediários,0.0,01027058,2024-12-31
+DMPL,IND,1.17,Capital social_Dividendos provisionados: Dividendos mínimos obrigatórios,0.0,01027058,2024-12-31
+DMPL,IND,1.19,Capital social_Outros resultados abrangentes: Ajuste de avaliação patrimonial de instrumentos financeiros,0.0,01027058,2024-12-31
+DMPL,IND,2,Reserva de capital,7019000.0,01027058,2024-12-31
+DMPL,IND,2.2,Reserva de capital_Ações restritas outorgadas,43400000.0,01027058,2024-12-31
+DMPL,IND,2.4,Reserva de capital_Lucro líquido do exercício,0.0,01027058,2024-12-31
+DMPL,IND,2.6,Reserva de capital_Juros sobre o capital próprio pagos,0.0,01027058,2024-12-31
+DMPL,IND,2.8,Reserva de capital_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,0.0,01027058,2024-12-31
+DMPL,IND,2.10,Reserva de capital_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2024-12-31
+DMPL,IND,2.11,Reserva de capital_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2024-12-31
+DMPL,IND,2.12,Reserva de capital_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2024-12-31
+DMPL,IND,2.13,Reserva de capital_Transferência de ações em tesouraria pelo período de ações,-94959000.0,01027058,2024-12-31
+DMPL,IND,2.14,Reserva de capital_Cancelamento de ações,0.0,01027058,2024-12-31
+DMPL,IND,2.16,Reserva de capital_Dividendos provisionados: Dividendos intermediários,0.0,01027058,2024-12-31
+DMPL,IND,2.17,Reserva de capital_Dividendos provisionados: Dividendos mínimos obrigatórios,0.0,01027058,2024-12-31
+DMPL,IND,2.19,Reserva de capital_Outros resultados abrangentes: Ajuste de avaliação patrimonial de instrumentos financeiros,0.0,01027058,2024-12-31
+DMPL,IND,3,Ações em tesouraria,-30000.0,01027058,2024-12-31
+DMPL,IND,3.2,Ações em tesouraria_Ações restritas outorgadas,0.0,01027058,2024-12-31
+DMPL,IND,3.4,Ações em tesouraria_Lucro líquido do exercício,0.0,01027058,2024-12-31
+DMPL,IND,3.6,Ações em tesouraria_Juros sobre o capital próprio pagos,0.0,01027058,2024-12-31
+DMPL,IND,3.8,Ações em tesouraria_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,0.0,01027058,2024-12-31
+DMPL,IND,3.10,Ações em tesouraria_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2024-12-31
+DMPL,IND,3.11,Ações em tesouraria_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2024-12-31
+DMPL,IND,3.12,Ações em tesouraria_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2024-12-31
+DMPL,IND,3.13,Ações em tesouraria_Transferência de ações em tesouraria pelo período de ações,94959000.0,01027058,2024-12-31
+DMPL,IND,3.14,Ações em tesouraria_Cancelamento de ações,0.0,01027058,2024-12-31
+DMPL,IND,3.16,Ações em tesouraria_Dividendos provisionados: Dividendos intermediários,0.0,01027058,2024-12-31
+DMPL,IND,3.17,Ações em tesouraria_Dividendos provisionados: Dividendos mínimos obrigatórios,0.0,01027058,2024-12-31
+DMPL,IND,3.19,Ações em tesouraria_Outros resultados abrangentes: Ajuste de avaliação patrimonial de instrumentos financeiros,0.0,01027058,2024-12-31
+DMPL,IND,4,Reservas de lucros - Legal,1140000000.0,01027058,2024-12-31
+DMPL,IND,4.2,Reservas de lucros - Legal_Ações restritas outorgadas,0.0,01027058,2024-12-31
+DMPL,IND,4.4,Reservas de lucros - Legal_Lucro líquido do exercício,0.0,01027058,2024-12-31
+DMPL,IND,4.6,Reservas de lucros - Legal_Juros sobre o capital próprio pagos,0.0,01027058,2024-12-31
+DMPL,IND,4.8,Reservas de lucros - Legal_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,0.0,01027058,2024-12-31
+DMPL,IND,4.10,Reservas de lucros - Legal_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2024-12-31
+DMPL,IND,4.11,Reservas de lucros - Legal_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2024-12-31
+DMPL,IND,4.12,Reservas de lucros - Legal_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2024-12-31
+DMPL,IND,4.13,Reservas de lucros - Legal_Transferência de ações em tesouraria pelo período de ações,0.0,01027058,2024-12-31
+DMPL,IND,4.14,Reservas de lucros - Legal_Cancelamento de ações,0.0,01027058,2024-12-31
+DMPL,IND,4.16,Reservas de lucros - Legal_Dividendos provisionados: Dividendos intermediários,0.0,01027058,2024-12-31
+DMPL,IND,4.17,Reservas de lucros - Legal_Dividendos provisionados: Dividendos mínimos obrigatórios,0.0,01027058,2024-12-31
+DMPL,IND,4.19,Reservas de lucros - Legal_Outros resultados abrangentes: Ajuste de avaliação patrimonial de instrumentos financeiros,0.0,01027058,2024-12-31
+DMPL,IND,5,Reservas de lucros - Orçamento de capital,2540213000.0,01027058,2024-12-31
+DMPL,IND,5.2,Reservas de lucros - Orçamento de capital_Ações restritas outorgadas,0.0,01027058,2024-12-31
+DMPL,IND,5.4,Reservas de lucros - Orçamento de capital_Lucro líquido do exercício,0.0,01027058,2024-12-31
+DMPL,IND,5.6,Reservas de lucros - Orçamento de capital_Juros sobre o capital próprio pagos,-410000000.0,01027058,2024-12-31
+DMPL,IND,5.8,Reservas de lucros - Orçamento de capital_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,1438838000.0,01027058,2024-12-31
+DMPL,IND,5.10,Reservas de lucros - Orçamento de capital_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2024-12-31
+DMPL,IND,5.11,Reservas de lucros - Orçamento de capital_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2024-12-31
+DMPL,IND,5.12,Reservas de lucros - Orçamento de capital_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2024-12-31
+DMPL,IND,5.13,Reservas de lucros - Orçamento de capital_Transferência de ações em tesouraria pelo período de ações,0.0,01027058,2024-12-31
+DMPL,IND,5.14,Reservas de lucros - Orçamento de capital_Cancelamento de ações,-286495000.0,01027058,2024-12-31
+DMPL,IND,5.16,Reservas de lucros - Orçamento de capital_Dividendos provisionados: Dividendos intermediários,-3388349000.0,01027058,2024-12-31
+DMPL,IND,5.17,Reservas de lucros - Orçamento de capital_Dividendos provisionados: Dividendos mínimos obrigatórios,-431651000.0,01027058,2024-12-31
+DMPL,IND,5.19,Reservas de lucros - Orçamento de capital_Outros resultados abrangentes: Ajuste de avaliação patrimonial de instrumentos financeiros,0.0,01027058,2024-12-31
+DMPL,IND,6,Reservas de lucros - Retenção de lucros,0.0,01027058,2024-12-31
+DMPL,IND,6.2,Reservas de lucros - Retenção de lucros_Ações restritas outorgadas,0.0,01027058,2024-12-31
+DMPL,IND,6.4,Reservas de lucros - Retenção de lucros_Lucro líquido do exercício,1438838000.0,01027058,2024-12-31
+DMPL,IND,6.6,Reservas de lucros - Retenção de lucros_Juros sobre o capital próprio pagos,0.0,01027058,2024-12-31
+DMPL,IND,6.8,Reservas de lucros - Retenção de lucros_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,-1438838000.0,01027058,2024-12-31
+DMPL,IND,6.10,Reservas de lucros - Retenção de lucros_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2024-12-31
+DMPL,IND,6.11,Reservas de lucros - Retenção de lucros_Outros resultados abrangentes: Benefício pós-emprego,0.0,01027058,2024-12-31
+DMPL,IND,6.12,Reservas de lucros - Retenção de lucros_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2024-12-31
+DMPL,IND,6.13,Reservas de lucros - Retenção de lucros_Transferência de ações em tesouraria pelo período de ações,0.0,01027058,2024-12-31
+DMPL,IND,6.14,Reservas de lucros - Retenção de lucros_Cancelamento de ações,0.0,01027058,2024-12-31
+DMPL,IND,6.16,Reservas de lucros - Retenção de lucros_Dividendos provisionados: Dividendos intermediários,0.0,01027058,2024-12-31
+DMPL,IND,6.17,Reservas de lucros - Retenção de lucros_Dividendos provisionados: Dividendos mínimos obrigatórios,0.0,01027058,2024-12-31
+DMPL,IND,6.19,Reservas de lucros - Retenção de lucros_Outros resultados abrangentes: Ajuste de avaliação patrimonial de instrumentos financeiros,0.0,01027058,2024-12-31
+DMPL,IND,7,Outros resultados abrangentes,-160329000.0,01027058,2024-12-31
+DMPL,IND,7.2,Outros resultados abrangentes_Ações restritas outorgadas,0.0,01027058,2024-12-31
+DMPL,IND,7.4,Outros resultados abrangentes_Lucro líquido do exercício,0.0,01027058,2024-12-31
+DMPL,IND,7.6,Outros resultados abrangentes_Juros sobre o capital próprio pagos,0.0,01027058,2024-12-31
+DMPL,IND,7.8,Outros resultados abrangentes_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,0.0,01027058,2024-12-31
+DMPL,IND,7.10,Outros resultados abrangentes_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,903000.0,01027058,2024-12-31
+DMPL,IND,7.11,Outros resultados abrangentes_Outros resultados abrangentes: Benefício pós-emprego,2382000.0,01027058,2024-12-31
+DMPL,IND,7.12,Outros resultados abrangentes_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2024-12-31
+DMPL,IND,7.13,Outros resultados abrangentes_Transferência de ações em tesouraria pelo período de ações,0.0,01027058,2024-12-31
+DMPL,IND,7.14,Outros resultados abrangentes_Cancelamento de ações,0.0,01027058,2024-12-31
+DMPL,IND,7.16,Outros resultados abrangentes_Dividendos provisionados: Dividendos intermediários,0.0,01027058,2024-12-31
+DMPL,IND,7.17,Outros resultados abrangentes_Dividendos provisionados: Dividendos mínimos obrigatórios,0.0,01027058,2024-12-31
+DMPL,IND,7.19,Outros resultados abrangentes_Outros resultados abrangentes: Ajuste de avaliação patrimonial de instrumentos financeiros,-958000.0,01027058,2024-12-31
+DMPL,IND,8,Participação dos acionistas controladores,9226873000.0,01027058,2024-12-31
+DMPL,IND,8.2,Participação dos acionistas controladores_Ações restritas outorgadas,43400000.0,01027058,2024-12-31
+DMPL,IND,8.4,Participação dos acionistas controladores_Lucro líquido do exercício,1438838000.0,01027058,2024-12-31
+DMPL,IND,8.6,Participação dos acionistas controladores_Juros sobre o capital próprio pagos,-410000000.0,01027058,2024-12-31
+DMPL,IND,8.8,Participação dos acionistas controladores_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,0.0,01027058,2024-12-31
+DMPL,IND,8.10,Participação dos acionistas controladores_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,903000.0,01027058,2024-12-31
+DMPL,IND,8.11,Participação dos acionistas controladores_Outros resultados abrangentes: Benefício pós-emprego,2382000.0,01027058,2024-12-31
+DMPL,IND,8.12,Participação dos acionistas controladores_Efeito dos acionistas não controladores sobre entidades consolidadas,0.0,01027058,2024-12-31
+DMPL,IND,8.13,Participação dos acionistas controladores_Transferência de ações em tesouraria pelo período de ações,0.0,01027058,2024-12-31
+DMPL,IND,8.14,Participação dos acionistas controladores_Cancelamento de ações,-286495000.0,01027058,2024-12-31
+DMPL,IND,8.16,Participação dos acionistas controladores_Dividendos provisionados: Dividendos intermediários,-3388349000.0,01027058,2024-12-31
+DMPL,IND,8.17,Participação dos acionistas controladores_Dividendos provisionados: Dividendos mínimos obrigatórios,-431651000.0,01027058,2024-12-31
+DMPL,IND,8.19,Participação dos acionistas controladores_Outros resultados abrangentes: Ajuste de avaliação patrimonial de instrumentos financeiros,-958000.0,01027058,2024-12-31
+DMPL,IND,9,Participação dos Acionistas não controladores,7984500000.0,01027058,2024-12-31
+DMPL,IND,9.2,Participação dos Acionistas não controladores_Ações restritas outorgadas,0.0,01027058,2024-12-31
+DMPL,IND,9.4,Participação dos Acionistas não controladores_Lucro líquido do exercício,330705000.0,01027058,2024-12-31
+DMPL,IND,9.6,Participação dos Acionistas não controladores_Juros sobre o capital próprio pagos,0.0,01027058,2024-12-31
+DMPL,IND,9.8,Participação dos Acionistas não controladores_Destinação sobre o lucro líquido do exercício: Reserva de Orçamento de Capital,0.0,01027058,2024-12-31
+DMPL,IND,9.10,Participação dos Acionistas não controladores_Outros resultados abrangentes: Variação cambial sobre investimento líquido no exterior,0.0,01027058,2024-12-31
+DMPL,IND,9.12,Participação dos Acionistas não controladores_Efeito dos acionistas não controladores sobre entidades consolidadas,-2395292000.0,01027058,2024-12-31
+DMPL,IND,9.13,Participação dos Acionistas não controladores_Transferência de ações em tesouraria pelo período de ações,0.0,01027058,2024-12-31
+DMPL,IND,9.14,Participação dos Acionistas não controladores_Cancelamento de ações,0.0,01027058,2024-12-31
+DMPL,IND,9.16,Participação dos Acionistas não controladores_Dividendos provisionados: Dividendos intermediários,0.0,01027058,2024-12-31
+DMPL,IND,9.17,Participação dos Acionistas não controladores_Dividendos provisionados: Dividendos mínimos obrigatórios,0.0,01027058,2024-12-31
+DMPL,IND,9.19,Participação dos Acionistas não controladores_Outros resultados abrangentes: Ajuste de avaliação patrimonial de instrumentos financeiros,-412000.0,01027058,2024-12-31
+DMPL,IND,10,Total do Patrimônio líquido,17211373000.0,01027058,2024-12-31

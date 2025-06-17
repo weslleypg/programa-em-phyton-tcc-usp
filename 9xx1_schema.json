@@ -1,0 +1,288 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://www.bcb.gov.br/cdsfn_schema.json",
+  "type": "object",
+  "title": "Esquema para validação das remessas da Central de Demonstrações Financeiras do Sistema Financeiro Nacional",
+  "description": "Validação das remessas da CDSFN em formato JSON",
+  "additionalProperties": false,
+  "definitions": {
+    "identificador" : {
+      "$id": "#/raiz/definitions/identificador",
+      "type": "string",
+      "pattern": "^[a-zA-Z0-9._-]+$"
+    },
+    "stringvazia" : {
+      "$id": "#/raiz/definitions/stringvazia",
+      "type": "string",
+      "pattern": "^$"
+    },
+    "valoresTemporais": {
+      "$id": "#/raiz/definitions/valoresTemporais", 
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items":{
+        "$id": "#/raiz/definitions/valoresTemporais/items", 
+        "title": "Items", 
+        "type": "object",
+        "required": ["@dtBase", "@valor"],
+        "properties": {
+          "@dtBase": {"$ref": "#/definitions/identificador"},
+          "@valor": {
+            "$id": "#/raiz/definitions/valoresTemporais/items/valor", 
+            "title": "Valor", 
+            "type": "number"
+          }
+        }
+      }
+    },
+    "contas": {
+      "$id": "#/raiz/definitions/contas",
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "title": "Contas",
+      "additionalItems": false,
+      "items": {
+        "$id": "#/raiz/definitions/contas/items",
+        "type": "object",
+        "title": "Itens de conta",
+        "additionalProperties": false,
+        "required": ["@id", "@nivel", "@descricao", "@contaPai"],
+        "properties": {
+          "@id": {"$ref": "#/definitions/identificador"},
+          "@nivel": {
+            "$id": "#/raiz/definitions/contas/items/nivel",
+            "type": "string",
+            "pattern": "^[0-9]+([.][0-9]+)*$",
+            "title": "Nível da conta"
+          },
+          "@descricao": {
+            "$id": "#/raiz/definitions/contas/items/descricao",
+            "type": "string",
+            "title": "Descrição da conta"
+          },
+          "@contaPai": {
+            "$id": "#/raiz/definitions/contas/items/contaPai",
+            "oneOf": [
+              {"$ref": "#/definitions/identificador"},
+              {"type": "null"},
+              {"$ref": "#/definitions/stringvazia"}
+            ],
+            "title": "Conta-pai na hierarquia de contas"
+          },              
+          "valoresIndividualizados": {"$ref": "#/definitions/valoresTemporais"},
+          "valoresConsolidados": {"$ref": "#/definitions/valoresTemporais"}
+        }
+      }
+    }
+
+  },
+  "oneOf": [
+		{
+			"required": ["@cnpj", "@codigoDocumento", "@tipoRemessa", "@dataBase", "@unidadeMedida", "datasBaseReferencia", "BalancoPatrimonial", "DemonstracaoDoResultado", "DemonstracaoDoResultadoAbrangente", "DemonstracaoDosFluxosDeCaixa", "DemonstracaoDasMutacoesDoPatrimonioLiquido"]
+		},
+		{
+			"required": ["@cnpj", "@codigoDocumento", "@tipoRemessa", "@dataBase", "@unidadeMedida", "datasBaseReferencia", "BalancoPatrimonial", "DemonstracaoDeSobrasOuPerdas", "DemonstracaoDoResultadoAbrangente", "DemonstracaoDosFluxosDeCaixa", "DemonstracaoDasMutacoesDoPatrimonioLiquido"]
+		}
+	],  
+  "properties": {
+    "@cnpj": {
+      "$id": "#/raiz/cnpj",
+      "type": "string",
+      "pattern": "^[0-9]{8}$",
+      "title": "CNPJ",
+	    "minLength": 8,
+	    "maxLength": 8
+    },
+    "@codigoDocumento": {
+      "$id": "#/raiz/codigoDocumento",
+      "type": "string",
+      "title": "Código do documento",
+	    "enum": ["9011", "9311", "9031", "9331", "9061"]
+    },
+    "@tipoRemessa": {
+      "$id": "#/raiz/tipoRemessa",
+      "type": "string",
+      "enum": ["I", "S"],
+      "title": "Tipo de remessa",
+      "description": "I=Inclusão, S=Substituição"
+    },
+    "@dataBase": {
+      "$id": "#/raiz/dataBase",
+      "type": "string",
+      "pattern": "^(0[1-9]|1[0-2])[0-9]{4}$",
+      "minLength": 6,
+      "maxLength": 6,
+      "title": "Data-base do documento",
+      "description": "Formato MMAAAA"
+    },
+	  "@unidadeMedida": {
+      "$id": "#/raiz/unidadeMedida",
+      "type": "integer",
+      "title": "Unidade de medida dos valores monetários informados no documento",
+      "description": "Indica o multiplicador adotado para os valores em reais"
+    },
+    "datasBaseReferencia": {
+      "$id": "#/raiz/datasBaseReferencia",
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "title": "Datas-base referência informadas no documento",
+      "description": "Conjunto de ids e datas-base",
+      "additionalItems": false,
+      "items": {
+        "$id": "#/raiz/datasBaseReferencia/items",
+        "type": "object",
+        "title": "Itens de data-base referência",
+        "additionalProperties": false,
+        "required": ["@id","@data"],
+        "properties": {
+          "@id": {"$ref": "#/definitions/identificador"},
+          "@data": {
+            "$id": "#/raiz/datasBaseReferencia/items/data",
+            "type": "string",
+            "pattern": "^(A|S|T|I)(0[1-9]|1[0-2])[0-9]{4}$",
+            "minLength": 7,
+            "maxLength": 7,
+            "title": "Data-base",
+            "description": "Formato PMMAAAA, onde P refere-se ao período de apuração (A=ano, S=semestre, T=trimestre, I=Saldo acumulado nas declarações intermediarias), MM=mês e AAAA=ano"
+          }
+        }
+      }
+    },
+    "BalancoPatrimonial": {
+      "$id": "#/raiz/balancoPatrimonial",
+      "type": "object",
+      "title": "Balanço patrimonial",
+      "additionalProperties": false,
+      "required": ["contas"],
+      "properties": {
+        "contas": {"$ref": "#/definitions/contas"}
+      }
+    },
+    "BalancoPatrimonialConsolidado": {
+      "$id": "#/raiz/balancoPatrimonialConsolidado",
+      "type": "object",
+      "title": "Balanço patrimonial consolidado",
+      "additionalProperties": false,
+      "required": ["contas"],
+      "properties": {
+        "contas": {"$ref": "#/definitions/contas"}
+      }
+    },
+    "DemonstracaoDoResultado": {
+      "$id": "#/raiz/demonstracaoDoResultado",
+      "type": "object",
+      "title": "Demonstração do resultado",
+      "additionalProperties": false,
+      "properties": {
+        "contas": {"$ref": "#/definitions/contas"}
+      }
+    },
+    "DemonstracaoDoResultadoConsolidada": {
+      "$id": "#/raiz/demonstracaoDoResultadoConsolidada",
+      "type": "object",
+      "title": "Demonstração do resultado consolidada",
+      "additionalProperties": false,
+      "required": ["contas"],
+      "properties": {
+        "contas": {"$ref": "#/definitions/contas"}
+      }
+    },
+	"DemonstracaoDeSobrasOuPerdas": {
+      "$id": "#/raiz/DemonstracaoDeSobrasOuPerdas",
+      "type": "object",
+      "title": "Demonstração de sobras ou perdas",
+      "additionalProperties": false,
+      "required": ["contas"],
+      "properties": {
+        "contas": {"$ref": "#/definitions/contas"}
+      }
+    },
+	"DemonstracaoDeSobrasOuPerdasConsolidada": {
+      "$id": "#/raiz/DemonstracaoDeSobrasOuPerdasConsolidada",
+      "type": "object",
+      "title": "Demonstração de sobras ou perdas consolidada",
+      "additionalProperties": false,
+      "required": ["contas"],
+      "properties": {
+        "contas": {"$ref": "#/definitions/contas"}
+      }
+    },
+    "DemonstracaoDoResultadoAbrangente": {
+      "$id": "#/raiz/demonstracaoDoResultadoAbrangente",
+      "type": "object",
+      "title": "Demonstração do resultado abrangente",
+      "additionalProperties": false,
+      "properties": {
+        "contas": {"$ref": "#/definitions/contas"}
+      }
+    },
+    "DemonstracaoDoResultadoAbrangenteConsolidada": {
+      "$id": "#/raiz/demonstracaoDoResultadoAbrangenteConsolidada",
+      "type": "object",
+      "title": "Demonstração do resultado abrangente consolidada",
+      "additionalProperties": false,
+      "properties": {
+        "contas": {"$ref": "#/definitions/contas"}
+      }
+    },
+    "DemonstracaoDosFluxosDeCaixa": {
+      "$id": "#/raiz/demonstracaoDosFluxosDeCaixa",
+      "type": "object",
+      "title": "Demonstração dos fluxos de caixa",
+      "additionalProperties": false,
+      "properties": {
+        "contas": {"$ref": "#/definitions/contas"}
+      }
+    },
+    "DemonstracaoDosFluxosDeCaixaConsolidada": {
+      "$id": "#/raiz/demonstracaoDosFluxosDeCaixaConsolidada",
+      "type": "object",
+      "title": "Demonstração dos fluxos de caixa consolidada",
+      "additionalProperties": false,
+      "properties": {
+        "contas": {"$ref": "#/definitions/contas"}
+      }
+    },
+    "DemonstracaoDasMutacoesDoPatrimonioLiquido": {
+      "$id": "#/raiz/demonstracaoDasMutacoesDoPatrimonioLiquido",
+      "type": "object",
+      "title": "Demonstração das mutações do patrimônio líquido",
+      "additionalProperties": false,
+      "properties": {
+        "contas": {"$ref": "#/definitions/contas"}
+      }
+    },
+    "DemonstracaoDasMutacoesDoPatrimonioLiquidoConsolidada": {
+      "$id": "#/raiz/demonstracaoDasMutacoesDoPatrimonioLiquidoConsolidada",
+      "type": "object",
+      "title": "Demonstração das mutações do patrimônio líquido consolidada",
+      "additionalProperties": false,
+      "properties": {
+        "contas": {"$ref": "#/definitions/contas"}
+      }
+    },
+    "DemonstracaoDosRecursosDeConsorcioConsolidada": {
+      "$id": "#/raiz/demonstracaoDosRecursosDeConsorcioConsolidada",
+      "type": "object",
+      "title": "Demonstração dos recursos de consórcio consolidada",
+      "additionalProperties": false,
+      "required": ["contas"],
+      "properties": {
+        "contas": {"$ref": "#/definitions/contas"}
+      }
+    },
+    "DemonstracaoDeVariacoesNasDisponibilidadesDeGruposConsolidada": {
+      "$id": "#/raiz/demonstracaoDeVariacoesNasDisponibilidadesDeGruposConsolidada",
+      "type": "object",
+      "title": "Demonstração de variações nas disponibilidades de grupos consolidada",
+      "additionalProperties": false,
+      "required": ["contas"],
+      "properties": {
+        "contas": {"$ref": "#/definitions/contas"}
+      }
+    }
+  }
+}

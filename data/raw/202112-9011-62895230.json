@@ -1,0 +1,971 @@
+{"@cnpj": "62895230",
+ "@codigoDocumento": "9011",
+ "@tipoRemessa": "I",
+ "@unidadeMedida": 1000,
+  "@dataBase": "122021",
+  "datasBaseReferencia": [
+     {"@id": "dt1","@data": "S122021"},
+     {"@id": "dt2","@data": "A122021"},
+     {"@id": "dt3","@data": "A122020"}
+   ],
+ "BalancoPatrimonial": {
+    "contas": [
+         {"@id": "conta1",
+          "@nivel": "1",
+          "@descricao": "ATIVO",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 629581},
+              {"@dtBase": "dt2", "@valor": 629581},
+              {"@dtBase": "dt3", "@valor": 644689}
+          ]
+         },
+         {"@id": "conta2",
+          "@nivel": "1.1",
+          "@descricao": "CIRCULANTE",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 613732},
+              {"@dtBase": "dt2", "@valor": 613732},
+              {"@dtBase": "dt3", "@valor": 629596}
+          ]
+         },
+         {"@id": "conta3",
+          "@nivel": "1.1.1",
+          "@descricao": "Caixa e equivalentes de caixa",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 163083},
+              {"@dtBase": "dt2", "@valor": 163083},
+              {"@dtBase": "dt3", "@valor": 167550}
+          ]
+         },
+         {"@id": "conta4",
+          "@nivel": "1.1.2",
+          "@descricao": "Valores a receber relativos a transaçôes de pagamentos",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 461958},
+              {"@dtBase": "dt2", "@valor": 461958},
+              {"@dtBase": "dt3", "@valor": 466185}
+          ]
+         },
+         {"@id": "conta5",
+          "@nivel": "1.1.3",
+          "@descricao": "(-) Provisão para perdas esperadas associadas ao risco de crédito",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -13236},
+              {"@dtBase": "dt2", "@valor": -13236},
+              {"@dtBase": "dt3", "@valor": -5858}
+          ]
+         },
+         {"@id": "conta6",
+          "@nivel": "1.1.4",
+          "@descricao": "Créditos tributários",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 26},
+              {"@dtBase": "dt2", "@valor": 26},
+              {"@dtBase": "dt3", "@valor": 26}
+          ]
+         },
+         {"@id": "conta7",
+          "@nivel": "1.1.4.1",
+          "@descricao": "IRPJ e CSLL",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 16},
+              {"@dtBase": "dt2", "@valor": 16},
+              {"@dtBase": "dt3", "@valor": 16}
+          ]
+         },
+         {"@id": "conta8",
+          "@nivel": "1.1.4.2",
+          "@descricao": "Outros impostos",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 10},
+              {"@dtBase": "dt2", "@valor": 10},
+              {"@dtBase": "dt3", "@valor": 10}
+          ]
+         },
+         {"@id": "conta9",
+          "@nivel": "1.1.5",
+          "@descricao": "Outros valores e bens",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 572},
+              {"@dtBase": "dt2", "@valor": 572},
+              {"@dtBase": "dt3", "@valor": 768}
+          ]
+         },
+         {"@id": "conta10",
+          "@nivel": "1.1.6",
+          "@descricao": "Material em estoque",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 1329},
+              {"@dtBase": "dt2", "@valor": 1329},
+              {"@dtBase": "dt3", "@valor": 925}
+          ]
+         },
+         {"@id": "conta11",
+          "@nivel": "1.2",
+          "@descricao": "NÃO CIRCULANTE",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 15849},
+              {"@dtBase": "dt2", "@valor": 15849},
+              {"@dtBase": "dt3", "@valor": 15093}
+          ]
+         },
+         {"@id": "conta12",
+          "@nivel": "1.2.1",
+          "@descricao": "Realizável a longo prazo",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 339},
+              {"@dtBase": "dt2", "@valor": 339},
+              {"@dtBase": "dt3", "@valor": 331}
+          ]
+         },
+         {"@id": "conta13",
+          "@nivel": "1.2.1.1",
+          "@descricao": "Depósitos Judiciais",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 339},
+              {"@dtBase": "dt2", "@valor": 339},
+              {"@dtBase": "dt3", "@valor": 331}
+          ]
+         },
+         {"@id": "conta14",
+          "@nivel": "1.2.2",
+          "@descricao": "Imobilizado de uso",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 9939},
+              {"@dtBase": "dt2", "@valor": 9939},
+              {"@dtBase": "dt3", "@valor": 11311}
+          ]
+         },
+         {"@id": "conta15",
+          "@nivel": "1.2.3",
+          "@descricao": "Intangível",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 5571},
+              {"@dtBase": "dt2", "@valor": 5571},
+              {"@dtBase": "dt3", "@valor": 3451}
+          ]
+         },
+         {"@id": "conta16",
+          "@nivel": "2",
+          "@descricao": "PASSIVO E PATRIMÔNIO LÍQUIDO",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 629581},
+              {"@dtBase": "dt2", "@valor": 629581},
+              {"@dtBase": "dt3", "@valor": 644689}
+          ]
+         },
+         {"@id": "conta17",
+          "@nivel": "2.1",
+          "@descricao": "PASSIVO",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 352756},
+              {"@dtBase": "dt2", "@valor": 352756},
+              {"@dtBase": "dt3", "@valor": 417705}
+          ]
+         },
+         {"@id": "conta18",
+          "@nivel": "2.1.1",
+          "@descricao": "CIRCULANTE",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 356553},
+              {"@dtBase": "dt2", "@valor": 356553},
+              {"@dtBase": "dt3", "@valor": 404345}
+          ]
+         },
+         {"@id": "conta19",
+          "@nivel": "2.1.1.1",
+          "@descricao": "Obrigações por transações de pagamentos",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 339133},
+              {"@dtBase": "dt2", "@valor": 339133},
+              {"@dtBase": "dt3", "@valor": 383490}
+          ]
+         },
+         {"@id": "conta20",
+          "@nivel": "2.1.1.2",
+          "@descricao": "Fornecedores",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 1886},
+              {"@dtBase": "dt2", "@valor": 1886},
+              {"@dtBase": "dt3", "@valor": 1256}
+          ]
+         },
+         {"@id": "conta21",
+          "@nivel": "2.1.1.3",
+          "@descricao": "Salários a pagar",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 567},
+              {"@dtBase": "dt2", "@valor": 567},
+              {"@dtBase": "dt3", "@valor": 569}
+          ]
+         },
+         {"@id": "conta22",
+          "@nivel": "2.1.1.4",
+          "@descricao": "Obrigações tributárias",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 8661},
+              {"@dtBase": "dt2", "@valor": 8661},
+              {"@dtBase": "dt3", "@valor": 9582}
+          ]
+         },
+         {"@id": "conta23",
+          "@nivel": "2.1.1.5",
+          "@descricao": "Provisão para contingências",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 508},
+              {"@dtBase": "dt2", "@valor": 508},
+              {"@dtBase": "dt3", "@valor": 83}
+          ]
+         },
+         {"@id": "conta24",
+          "@nivel": "2.1.1.6",
+          "@descricao": "Provisões e demais obrigações",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 2526},
+              {"@dtBase": "dt2", "@valor": 2526},
+              {"@dtBase": "dt3", "@valor": 2365}
+          ]
+         },
+         {"@id": "conta25",
+          "@nivel": "2.1.1.7",
+          "@descricao": "Dividendos mínimos obrigatórios",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 3272},
+              {"@dtBase": "dt2", "@valor": 3272},
+              {"@dtBase": "dt3", "@valor": 7000}
+          ]
+         },
+         {"@id": "conta26",
+          "@nivel": "2.1.2",
+          "@descricao": "NÃO CIRCULANTE",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 13623},
+              {"@dtBase": "dt2", "@valor": 13623},
+              {"@dtBase": "dt3", "@valor": 13360}
+          ]
+         },
+         {"@id": "conta27",
+          "@nivel": "2.1.2.1",
+          "@descricao": "Exigível a longo prazo",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 13623},
+              {"@dtBase": "dt2", "@valor": 13623},
+              {"@dtBase": "dt3", "@valor": 13360}
+          ]
+         },
+         {"@id": "conta28",
+          "@nivel": "2.1.2.1.1",
+          "@descricao": "Partes relacionadas - Cessão de Créditos Fiscais — PRT",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 13360},
+              {"@dtBase": "dt2", "@valor": 13360},
+              {"@dtBase": "dt3", "@valor": 13360}
+          ]
+         },
+         {"@id": "conta29",
+          "@nivel": "2.1.2.1.2",
+          "@descricao": "Parcellamento tributário - IRPJ",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 263},
+              {"@dtBase": "dt2", "@valor": 263},
+              {"@dtBase": "dt3", "@valor": 0}
+          ]
+         },
+         {"@id": "conta30",
+          "@nivel": "2.2",
+          "@descricao": "PATRIMÔNIO LíQUlDO",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 259405},
+              {"@dtBase": "dt2", "@valor": 259405},
+              {"@dtBase": "dt3", "@valor": 226984}
+          ]
+         },
+         {"@id": "conta31",
+          "@nivel": "2.2.1",
+          "@descricao": "Capital social realizado",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 242992},
+              {"@dtBase": "dt2", "@valor": 242992},
+              {"@dtBase": "dt3", "@valor": 200819}
+          ]
+         },
+         {"@id": "conta32",
+          "@nivel": "2.2.2",
+          "@descricao": "Reserva legal",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 6598},
+              {"@dtBase": "dt2", "@valor": 6598},
+              {"@dtBase": "dt3", "@valor": 5163}
+          ]
+         },
+         {"@id": "conta33",
+          "@nivel": "2.2.3",
+          "@descricao": "Dividendos adicionais propostos",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 9815},
+              {"@dtBase": "dt2", "@valor": 9815},
+              {"@dtBase": "dt3", "@valor": 21002}
+          ]
+         }
+     ]
+  },
+ "DemonstracaoDoResultado": {
+    "contas": [
+         {"@id": "conta1",
+          "@nivel": "1",
+          "@descricao": "RECEITA OPERACIONAL LÍQUIDA",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 60220},
+              {"@dtBase": "dt2", "@valor": 117050},
+              {"@dtBase": "dt3", "@valor": 107369}
+          ]
+         },
+         {"@id": "conta2",
+          "@nivel": "1.1",
+          "@descricao": "(-) Custo dos servicos prestados",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -28571},
+              {"@dtBase": "dt2", "@valor": -56381},
+              {"@dtBase": "dt3", "@valor": -52728}
+          ]
+         },
+         {"@id": "conta3",
+          "@nivel": "1.2",
+          "@descricao": "LUCRO BRUTO",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 31649},
+              {"@dtBase": "dt2", "@valor": 60669},
+              {"@dtBase": "dt3", "@valor": 54641}
+          ]
+         },
+         {"@id": "conta4",
+          "@nivel": "2",
+          "@descricao": "(DESPESAS) RECEITAS OPERACIONAIS",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -7450},
+              {"@dtBase": "dt2", "@valor": -13698},
+              {"@dtBase": "dt3", "@valor": -12113}
+          ]
+         },
+         {"@id": "conta5",
+          "@nivel": "2.1",
+          "@descricao": "Com vendas",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -1764},
+              {"@dtBase": "dt2", "@valor": -2730},
+              {"@dtBase": "dt3", "@valor": -2225}
+          ]
+         },
+         {"@id": "conta6",
+          "@nivel": "2.2",
+          "@descricao": "Administrativas",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -2984},
+              {"@dtBase": "dt2", "@valor": -6213},
+              {"@dtBase": "dt3", "@valor": -5955}
+          ]
+         },
+         {"@id": "conta7",
+          "@nivel": "2.3",
+          "@descricao": "Tributárias",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -521},
+              {"@dtBase": "dt2", "@valor": -588},
+              {"@dtBase": "dt3", "@valor": -194}
+          ]
+         },
+         {"@id": "conta8",
+          "@nivel": "2.4",
+          "@descricao": "Depreciação e amortização",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -2181},
+              {"@dtBase": "dt2", "@valor": -4167},
+              {"@dtBase": "dt3", "@valor": -3739}
+          ]
+         },
+         {"@id": "conta9",
+          "@nivel": "3",
+          "@descricao": "(Perdas) Recuperação no recebimento de créditos",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -7538},
+              {"@dtBase": "dt2", "@valor": 221},
+              {"@dtBase": "dt3", "@valor": -6553}
+          ]
+         },
+         {"@id": "conta10",
+          "@nivel": "4",
+          "@descricao": "(Provisão) Reversão da provisão para créditos de liquidação duvidosa",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -1684},
+              {"@dtBase": "dt2", "@valor": -7378},
+              {"@dtBase": "dt3", "@valor": 5818}
+          ]
+         },
+         {"@id": "conta11",
+          "@nivel": "5",
+          "@descricao": "Reversão da provisão para contingências",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -5},
+              {"@dtBase": "dt2", "@valor": -425},
+              {"@dtBase": "dt3", "@valor": 269}
+          ]
+         },
+         {"@id": "conta12",
+          "@nivel": "6",
+          "@descricao": "LUCRO OPERACIONAL (ANTES DO RESULTADO FINANCEIRO)",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 14972},
+              {"@dtBase": "dt2", "@valor": 39389},
+              {"@dtBase": "dt3", "@valor": 42062}
+          ]
+         },
+         {"@id": "conta13",
+          "@nivel": "7",
+          "@descricao": "RESULTADO FINANCEIRO LIQUIDO DE TRIBUTOS",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 11537},
+              {"@dtBase": "dt2", "@valor": 16600},
+              {"@dtBase": "dt3", "@valor": 8286}
+          ]
+         },
+         {"@id": "conta14",
+          "@nivel": "7.1",
+          "@descricao": "Receitas Financeiras",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 15364},
+              {"@dtBase": "dt2", "@valor": 23589},
+              {"@dtBase": "dt3", "@valor": 15222}
+          ]
+         },
+         {"@id": "conta15",
+          "@nivel": "7.2",
+          "@descricao": "Despesas Financeiras",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -3827},
+              {"@dtBase": "dt2", "@valor": -6989},
+              {"@dtBase": "dt3", "@valor": -6936}
+          ]
+         },
+         {"@id": "conta16",
+          "@nivel": "8",
+          "@descricao": "LUCRO ANTES DOS IMPOSTOS",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 26509},
+              {"@dtBase": "dt2", "@valor": 55989},
+              {"@dtBase": "dt3", "@valor": 50348}
+          ]
+         },
+         {"@id": "conta17",
+          "@nivel": "9",
+          "@descricao": "Imposto de renda e contribuição social",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -12733},
+              {"@dtBase": "dt2", "@valor": -27297},
+              {"@dtBase": "dt3", "@valor": -20872}
+          ]
+         },
+         {"@id": "conta18",
+          "@nivel": "9.1",
+          "@descricao": "Imposto de renda da pessoa jurídica — corrente",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -7032},
+              {"@dtBase": "dt2", "@valor": -16121},
+              {"@dtBase": "dt3", "@valor": -12989}
+          ]
+         },
+         {"@id": "conta19",
+          "@nivel": "9.2",
+          "@descricao": "Contribuição social sobre o lucro líquido — corrente",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -5701},
+              {"@dtBase": "dt2", "@valor": -11176},
+              {"@dtBase": "dt3", "@valor": -7883}
+          ]
+         },
+         {"@id": "conta20",
+          "@nivel": "10",
+          "@descricao": "LUCRO LÍQUIDO DO SEMESTRE/EXERCÍCIO",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 13776},
+              {"@dtBase": "dt2", "@valor": 28692},
+              {"@dtBase": "dt3", "@valor": 29476}
+          ]
+         },
+         {"@id": "conta21",
+          "@nivel": "11",
+          "@descricao": "Quantidade por lote de mil ações na data do balanço",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 62277},
+              {"@dtBase": "dt2", "@valor": 62277},
+              {"@dtBase": "dt3", "@valor": 59641}
+          ]
+         },
+         {"@id": "conta22",
+          "@nivel": "12",
+          "@descricao": "Lucro Líquido básico por lote de 10 mil ações atribuível aos acionistas R$",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 2},
+              {"@dtBase": "dt2", "@valor": 5},
+              {"@dtBase": "dt3", "@valor": 5}
+          ]
+         }
+     ]
+  },
+ "DemonstracaoDoResultadoAbrangente": {
+    "contas": [
+         {"@id": "conta1",
+          "@nivel": "1",
+          "@descricao": "LUCRO LÍQUIDO DO SEMESTRE/EXERCICIO",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 13776},
+              {"@dtBase": "dt2", "@valor": 28692},
+              {"@dtBase": "dt3", "@valor": 29476}
+          ]
+         },
+         {"@id": "conta2",
+          "@nivel": "2",
+          "@descricao": "RESULTADOS ABRANGENTES DO PERÍODO",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 0},
+              {"@dtBase": "dt2", "@valor": 0},
+              {"@dtBase": "dt3", "@valor": 0}
+          ]
+         },
+         {"@id": "conta3",
+          "@nivel": "3",
+          "@descricao": "RESULTADO ABRANGENTE TOTAL",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 13776},
+              {"@dtBase": "dt2", "@valor": 28692},
+              {"@dtBase": "dt3", "@valor": 29476}
+          ]
+         }
+     ]
+  },
+ "DemonstracaoDosFluxosDeCaixa": {
+    "contas": [
+         {"@id": "conta1",
+          "@nivel": "1",
+          "@descricao": "CAIXA LÍQUIDO (CONSUMIDO) PELAS ATIVIDADES OPERACIONAIS",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -55154},
+              {"@dtBase": "dt2", "@valor": -38902},
+              {"@dtBase": "dt3", "@valor": -23193}
+          ]
+         },
+         {"@id": "conta2",
+          "@nivel": "1.1",
+          "@descricao": "Recebimentos",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 83883},
+              {"@dtBase": "dt2", "@valor": 156769},
+              {"@dtBase": "dt3", "@valor": 137595}
+          ]
+         },
+         {"@id": "conta3",
+          "@nivel": "1.1.1",
+          "@descricao": "Serviços prestados",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 68519},
+              {"@dtBase": "dt2", "@valor": 133180},
+              {"@dtBase": "dt3", "@valor": 122373}
+          ]
+         },
+         {"@id": "conta4",
+          "@nivel": "1.1.2",
+          "@descricao": "Juros e encargos",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 15364},
+              {"@dtBase": "dt2", "@valor": 23589},
+              {"@dtBase": "dt3", "@valor": 15222}
+          ]
+         },
+         {"@id": "conta5",
+          "@nivel": "1.2",
+          "@descricao": "Pagamentos",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -139037},
+              {"@dtBase": "dt2", "@valor": -195671},
+              {"@dtBase": "dt3", "@valor": -160788}
+          ]
+         },
+         {"@id": "conta6",
+          "@nivel": "1.2.1",
+          "@descricao": "Antecipações aos estabelecimentos comerciais",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -78891},
+              {"@dtBase": "dt2", "@valor": -78891},
+              {"@dtBase": "dt3", "@valor": -59433}
+          ]
+         },
+         {"@id": "conta7",
+          "@nivel": "1.2.2",
+          "@descricao": "Fornecedores de bens e serviços",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -14367},
+              {"@dtBase": "dt2", "@valor": -27206},
+              {"@dtBase": "dt3", "@valor": -24448}
+          ]
+         },
+         {"@id": "conta8",
+          "@nivel": "1.2.3",
+          "@descricao": "Salários e pró-labore",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -13713},
+              {"@dtBase": "dt2", "@valor": -26223},
+              {"@dtBase": "dt3", "@valor": -25345}
+          ]
+         },
+         {"@id": "conta9",
+          "@nivel": "1.2.4",
+          "@descricao": "Tributos e encargos sociais",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -26746},
+              {"@dtBase": "dt2", "@valor": -52940},
+              {"@dtBase": "dt3", "@valor": -41298}
+          ]
+         },
+         {"@id": "conta10",
+          "@nivel": "1.2.5",
+          "@descricao": "Despesas operacionais",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -3258},
+              {"@dtBase": "dt2", "@valor": -6579},
+              {"@dtBase": "dt3", "@valor": -6054}
+          ]
+         },
+         {"@id": "conta11",
+          "@nivel": "1.2.6",
+          "@descricao": "Serviços bancários e depósitos judiciais",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -2062},
+              {"@dtBase": "dt2", "@valor": -3832},
+              {"@dtBase": "dt3", "@valor": -4210}
+          ]
+         },
+         {"@id": "conta12",
+          "@nivel": "2",
+          "@descricao": "CAIXA LÍQUIDO (CONSUMIDO) PELAS ATIVIDADES DE INVESTIMENTOS",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -2512},
+              {"@dtBase": "dt2", "@valor": -5317},
+              {"@dtBase": "dt3", "@valor": -2438}
+          ]
+         },
+         {"@id": "conta13",
+          "@nivel": "2.1",
+          "@descricao": "Investimento no imobilizado",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -664},
+              {"@dtBase": "dt2", "@valor": -1283},
+              {"@dtBase": "dt3", "@valor": -530}
+          ]
+         },
+         {"@id": "conta14",
+          "@nivel": "2.2",
+          "@descricao": "Investimento no intangível — aquisição de Software SAP",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -1848},
+              {"@dtBase": "dt2", "@valor": -4034},
+              {"@dtBase": "dt3", "@valor": -1908}
+          ]
+         },
+         {"@id": "conta15",
+          "@nivel": "3",
+          "@descricao": "CAIXA LíQUIDO GERADO PELAS ATIVIDADES DE FINANCIAMENTOS",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 51408},
+              {"@dtBase": "dt2", "@valor": 39752},
+              {"@dtBase": "dt3", "@valor": 94896}
+          ]
+         },
+         {"@id": "conta16",
+          "@nivel": "3.1",
+          "@descricao": "Recebimentos (Pagamentos)",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 51408},
+              {"@dtBase": "dt2", "@valor": 39752},
+              {"@dtBase": "dt3", "@valor": 94896}
+          ]
+         },
+         {"@id": "conta17",
+          "@nivel": "3.1.1",
+          "@descricao": "Antecipações aos estabelecimentos comerciais",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 63924},
+              {"@dtBase": "dt2", "@valor": 59433},
+              {"@dtBase": "dt3", "@valor": 73345}
+          ]
+         },
+         {"@id": "conta18",
+          "@nivel": "3.1.2",
+          "@descricao": "Antecipações de recebíveis dos usuários de cartões",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 12663},
+              {"@dtBase": "dt2", "@valor": 12663},
+              {"@dtBase": "dt3", "@valor": 11284}
+          ]
+         },
+         {"@id": "conta19",
+          "@nivel": "3.1.3",
+          "@descricao": "Recursos oriundos dos usuários da Conta Garantida — Cláusula mandato",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 3983},
+              {"@dtBase": "dt2", "@valor": 15341},
+              {"@dtBase": "dt3", "@valor": -16755}
+          ]
+         },
+         {"@id": "conta20",
+          "@nivel": "3.1.4",
+          "@descricao": "Recuperação de perdas baixadas como prejuízos",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 167},
+              {"@dtBase": "dt2", "@valor": 8307},
+              {"@dtBase": "dt3", "@valor": 4701}
+          ]
+         },
+         {"@id": "conta21",
+          "@nivel": "3.1.5",
+          "@descricao": "Capital circulante líquido retido (aplicado) no negócio",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -17171},
+              {"@dtBase": "dt2", "@valor": -55992},
+              {"@dtBase": "dt3", "@valor": 22321}
+          ]
+         },
+         {"@id": "conta22",
+          "@nivel": "4",
+          "@descricao": "AUMENTO (REDUÇÃO) LÍQUIDA DAS DISPONIBILIDADES DE CAIXA",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 6258},
+              {"@dtBase": "dt2", "@valor": -4467},
+              {"@dtBase": "dt3", "@valor": 69265}
+          ]
+         },
+         {"@id": "conta23",
+          "@nivel": "4.1",
+          "@descricao": "Caixa e equivalentes de caixa em 31/12/2019",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 0},
+              {"@dtBase": "dt2", "@valor": 0},
+              {"@dtBase": "dt3", "@valor": 98285}
+          ]
+         },
+         {"@id": "conta24",
+          "@nivel": "4.2",
+          "@descricao": "Caixa e equivalentes de caixa em 31/12/2020",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 0},
+              {"@dtBase": "dt2", "@valor": 167550},
+              {"@dtBase": "dt3", "@valor": 167550}
+          ]
+         },
+         {"@id": "conta25",
+          "@nivel": "4.3",
+          "@descricao": "Caixa e equivalentes de caixa em 30/06/2021",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 156825},
+              {"@dtBase": "dt2", "@valor": 0},
+              {"@dtBase": "dt3", "@valor": 0}
+          ]
+         },
+         {"@id": "conta26",
+          "@nivel": "4.4",
+          "@descricao": "Caixa e equivalentes de caixa em 31/12/2021",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 163083},
+              {"@dtBase": "dt2", "@valor": 163083},
+              {"@dtBase": "dt3", "@valor": 0}
+          ]
+         }
+     ]
+  },
+ "DemonstracaoDasMutacoesDoPatrimonioLiquido": {
+    "contas": [
+         {"@id": "conta1",
+          "@nivel": "1.1",
+          "@descricao": "(+) Aumento de capital",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 21002},
+              {"@dtBase": "dt2", "@valor": 31545},
+              {"@dtBase": "dt3", "@valor": 37977}
+          ]
+         },
+         {"@id": "conta2",
+          "@nivel": "2",
+          "@descricao": "(+) Lucro Líquido do exercício/semestre",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 14916},
+              {"@dtBase": "dt2", "@valor": 28692},
+              {"@dtBase": "dt3", "@valor": 29476}
+          ]
+         },
+         {"@id": "conta3",
+          "@nivel": "2.1",
+          "@descricao": "(-) Constituição da Reserva Legal do exercício/semestre",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -746},
+              {"@dtBase": "dt2", "@valor": -1435},
+              {"@dtBase": "dt3", "@valor": -1474}
+          ]
+         },
+         {"@id": "conta4",
+          "@nivel": "2.2",
+          "@descricao": "(-) Dividendos Mínimos Obrigatórios",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": -3542},
+              {"@dtBase": "dt2", "@valor": -6814},
+              {"@dtBase": "dt3", "@valor": -7000}
+          ]
+         },
+         {"@id": "conta5",
+          "@nivel": "3",
+          "@descricao": "Dividendos Adicionais do exercício/semestre",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 10628},
+              {"@dtBase": "dt2", "@valor": 20443},
+              {"@dtBase": "dt3", "@valor": 21002}
+          ]
+         },
+         {"@id": "conta6",
+          "@nivel": "3.1",
+          "@descricao": "(-) Distribuição de Dividendos Adicionais",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 0},
+              {"@dtBase": "dt2", "@valor": 0},
+              {"@dtBase": "dt3", "@valor": 0}
+          ]
+         },
+         {"@id": "conta7",
+          "@nivel": "3.2",
+          "@descricao": "(-) Destinação dos Lucros Acumulados para dividendos adicionais",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 0},
+              {"@dtBase": "dt2", "@valor": 0},
+              {"@dtBase": "dt3", "@valor": 0}
+          ]
+         },
+         {"@id": "conta8",
+          "@nivel": "3.3",
+          "@descricao": "(+/-) Resultados abrangentes do período",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 0},
+              {"@dtBase": "dt2", "@valor": 0},
+              {"@dtBase": "dt3", "@valor": 0}
+          ]
+         },
+         {"@id": "conta9",
+          "@nivel": "4",
+          "@descricao": "Reserva de Lucros",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 5909},
+              {"@dtBase": "dt2", "@valor": 6598},
+              {"@dtBase": "dt3", "@valor": 5163}
+          ]
+         },
+         {"@id": "conta10",
+          "@nivel": "5",
+          "@descricao": "Patrimônio Líquido",
+          "@contaPai": "",
+          "valoresIndividualizados": [
+              {"@dtBase": "dt1", "@valor": 238358},
+              {"@dtBase": "dt2", "@valor": 259405},
+              {"@dtBase": "dt3", "@valor": 226984}
+          ]
+         }
+     ]
+  }
+}
