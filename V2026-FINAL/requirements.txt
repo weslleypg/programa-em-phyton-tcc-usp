@@ -1,0 +1,20 @@
+# SDK oficial unificado do Google para Gemini (substitui o antigo google-generativeai).
+google-genai>=1.0.0
+
+# Leitura de variáveis de ambiente a partir de .env
+python-dotenv>=1.0.0
+
+# Retry com backoff exponencial (cobre erros 429/500/503 etc.)
+tenacity>=8.2.0
+
+# Manipulação de dados e geração de CSV consolidado
+pandas>=2.1.0
+
+# Saída colorida e barras de progresso bonitas no terminal
+rich>=13.7.0
+# Preditor multi-modelo
+openai>=1.50.0
+anthropic>=0.40.0
+groq>=0.13.0
+
+json-repair>=0.30.0

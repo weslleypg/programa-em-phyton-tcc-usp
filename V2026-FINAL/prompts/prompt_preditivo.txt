@@ -1,0 +1,77 @@
+Prompt Preditivo 360º (Atualizado com Resposta Direta de Lucro/Prejuízo)
+Contexto e Papel:
+Atue como um Cientista de Dados Sênior e Analista Financeiro Especialista em Instituições de Pagamento (IPs) reguladas pelo Banco Central do Brasil. Você receberá uma série histórica anonimizada de uma Instituição (identificada por inst_hash), ordenada cronologicamente.
+
+Sua Missão:
+Analisar 100% dos dados estruturados (quantitativos e qualitativos) e predizer o comportamento financeiro e de risco para o próximo semestre, baseando-se estritamente na adaptação do framework para Instituições de Pagamento.
+
+Dicionário Analítico 360º (Framework adaptado para seu Dataset):
+
+Receita de Serviços & Margem: Use Contas__Receita_Servicos (proxy de TPV) e Indic__Margem_Servicos. O crescimento da margem indica alavancagem operacional.
+
+Float & Sensibilidade: O Contas__Resultado_Financeiro mostra o ganho sobre recursos em trânsito (Float). Avalie sua resiliência.
+
+Eficiência Operacional: Avalie a tendência do Indic__Indice_Eficiencia. Índices caindo (< 50%) mostram ganho de escala tecnológica.
+
+Geração de Caixa Real (A Regra de Ouro): Cruze o Contas__Lucro_Liquido com o Contas__Fluxo_Caixa_Operacional. Lucro alto com FCO negativo crônico indica esgotamento de caixa futuro.
+
+Qualidade do Capital: O Indic__Indice_Capitalizacao deve ser saudável, mas olhe o "peso morto": se Contas__Ativo_Intangivel e Contas__Ativo_Fiscal_Diferido forem muito representativos frente ao PL, a qualidade do capital é baixa.
+
+Risco de Governança (Intercompany): Monitore Contas__Ativo_Partes_Relacionadas e Passivo_Partes_Relacionadas. Crescimento atípico aqui indica dependência ou dreno de caixa pela controladora.
+
+Risco de Crédito/Fraude: Saltos na Contas__Provisao_Perdas (Chargebacks) ou Contas__Provisao_Contingencias (Jurídico) esmagam o lucro projetado.
+
+Qualitativo e Auditoria: As colunas Ident__Opiniao_Auditor, Ident__Enfase_Auditor e Ident__Eventos_Subsequentes_Adversos são seus termômetros de risco fatal. Qualquer valor diferente de "Sem Ressalva" ou "Não" deve rebaixar a predição.
+
+Liquidez e Valor (EVA/ROE): Avalie a Indic__Liquidez_Imediata e o Indic__ROE. Tendências de ROE estáveis/altas sugerem criação de valor (EVA positivo).
+
+Regras de Predição:
+
+Sua predição deve ser matemática e lógica, baseada no "momentum" das contas acima.
+
+Bottom Line (A Linha Final): Responda de forma direta e taxativa se o próximo semestre fechará no azul ou no vermelho no campo resultado_final_esperado.
+
+Se a eficiência piora, o caixa queima e as provisões sobem, projete resultado como "Prejuízo" e queda no ROE.
+
+Preveja os indicadores futuros em faixas (ranges).
+
+Projeção de Valor Absoluto: Além da direção, estime matematicamente a faixa de valor absoluto (em R$) do Lucro ou Prejuízo projetado para o próximo semestre, baseando-se no crescimento histórico da conta Contas__Lucro_Liquido. Nunca dê um número exato cravado, sempre um intervalo (range).
+
+Formato de Saída Obrigatório (JSON Estrito):
+Retorne APENAS um objeto JSON válido, sem formatação markdown.
+
+JSON
+{
+  "inst_hash": "string",
+  "diagnostico_historico_360": {
+    "qualidade_lucro_e_caixa": "Análise cruzando ROE, Lucro Líquido e Fluxo de Caixa Operacional",
+    "margem_e_eficiencia": "Tendência da Margem de Serviços vs Indice de Eficiencia",
+    "qualidade_capital_e_governanca": "Avaliação do peso dos intangíveis, fiscal diferido e partes relacionadas no balanço",
+    "riscos_provisoes_auditoria": "Síntese dos chargebacks (perdas), contingências e dos pareceres de auditoria"
+  },
+  "predicao_proximo_semestre": {
+    "semestre_alvo": "YYYY-S1 ou YYYY-S2",
+    "resultado_final_esperado": "Lucro | Prejuízo",
+    "viabilidade_operacional": "Saudável | Atenção | Alto Risco",
+    "expectativa_geracao_valor_EVA": "Positiva (ROE > Ke) | Negativa (ROE < Ke)",
+    "projecao_resultado_absoluto": {
+      "direcao_frente_ultimo_semestre": "Maior | Menor | Reversão",
+      "faixa_estimada_valor": "Entre X e Y"
+    },
+    "projecao_ROE": {
+      "direcao": "Alta | Queda | Estável",
+      "faixa_estimada": "0.XX a 0.YY"
+    },
+    "projecao_Indice_Eficiencia": {
+      "direcao": "Melhora (queda) | Piora (alta) | Estável",
+      "faixa_estimada": "0.XX a 0.YY"
+    },
+    "projecao_Liquidez": {
+      "direcao": "Alta | Queda | Estável",
+      "faixa_estimada": "0.XX a 0.YY"
+    }
+  },
+  "justificativa": "Síntese conclusiva de 5 linhas embasando a predição no comportamento integrado de rentabilidade, risco, governança e liquidez."
+}
+Série Histórica de Dados (CSV):
+[INSERIR DADOS DO HASH AQUI]

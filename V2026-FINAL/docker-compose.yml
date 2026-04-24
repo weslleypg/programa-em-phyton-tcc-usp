@@ -1,0 +1,66 @@
+# ==========================================================================
+# docker-compose.yml — TCC Análise de IPs
+# --------------------------------------------------------------------------
+# Define 1 serviço (app) que monta PDF/CSV/logs como volumes — assim você
+# edita/adiciona PDFs e lê CSVs direto do seu Mac, sem rebuild.
+# ==========================================================================
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: tcc-analise-ip:latest
+    container_name: tcc-analise-ip
+    # linux/arm64 é nativo em Mac Silicon. Docker Desktop resolve
+    # automaticamente, mas deixar explícito evita surpresa em outras máquinas.
+    platform: linux/arm64
+
+    # Carrega o .env automaticamente — não precisa duplicar as variáveis aqui.
+    env_file:
+      - .env
+
+    # Volumes: tudo fora da imagem para permitir dados grandes e persistência.
+    volumes:
+      - ./PDF:/app/PDF:ro            # PDFs de entrada (read-only por segurança)
+      - ./CSV:/app/CSV:rw            # JSONs + CSVs de saída
+      - ./logs:/app/logs:rw          # Logs persistentes
+      - ./prompts:/app/prompts:ro    # Prompt editável sem rebuild
+
+    # stdin_open + tty → Ctrl+C funciona bem ao rodar com `docker compose run`.
+    stdin_open: true
+    tty: true
+  anonymize:
+    # Reaproveita a mesma imagem do serviço 'app' (mesma stack Python).
+    image: tcc-analise-ip:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: tcc-anonymize
+    platform: linux/arm64
+    env_file:
+      - .env
+    volumes:
+      - ./CSV:/app/CSV:rw          # Leitura dos consolidados + escrita de anonimizados/
+      - ./logs:/app/logs:rw
+    stdin_open: true
+    tty: true
+    # Override do entrypoint: roda o CLI do pipeline de anonimização.
+    entrypoint: ["/usr/bin/tini", "--", "python", "anonymize.py"]
+
+  preditor:
+    image: tcc-analise-ip:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: tcc-preditor
+    platform: linux/arm64
+    env_file:
+      - .env
+    volumes:
+      - ./CSV:/app/CSV:rw
+      - ./logs:/app/logs:rw
+      - ./prompts:/app/prompts:ro
+    stdin_open: true
+    tty: true
+    entrypoint: ["/usr/bin/tini", "--", "python", "predictor.py"]
