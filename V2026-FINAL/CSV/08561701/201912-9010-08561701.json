@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "PagSeguro Internet S.A.",
+    "CNPJ": "0",
+    "Auditor_Independente": "ERNST & YOUNG Auditores Independentes S.S.",
+    "Opiniao_Auditor": "Com Ressalva",
+    "Enfase_Auditor": "Não",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 16038140,
+    "Patrimonio_Liquido": 7486235,
+    "Lucro_Liquido": 1381258,
+    "Caixa_Equivalentes": 473233,
+    "Obrigacoes_Liquidacao": 7179656,
+    "Receita_Servicos": 3984920,
+    "Despesa_Processamento": 2371085,
+    "Resultado_Financeiro": 133467,
+    "Despesa_Operacional_Total": 959169,
+    "Provisao_Perdas": 156219,
+    "Fluxo_Caixa_Operacional": -1194624,
+    "Ativo_Intangivel": 513600,
+    "Ativo_Partes_Relacionadas": 298053,
+    "Passivo_Partes_Relacionadas": 3279355,
+    "Provisao_Contingencias": 281533,
+    "Ativo_Fiscal_Diferido": 167255
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 0.07,
+    "Indice_Capitalizacao": 0.47,
+    "ROE": 0.18,
+    "Margem_Servicos": 1613835,
+    "Indice_Eficiencia": 0.23
+  }
+}

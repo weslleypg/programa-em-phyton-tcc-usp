@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "Acesso Soluções de Pagamento S.A.",
+    "CNPJ": "13140088000199",
+    "Auditor_Independente": "Baker Tilly 4Partners Auditores Independentes S.S.",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Não",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 227101,
+    "Patrimonio_Liquido": 13850,
+    "Lucro_Liquido": -7379,
+    "Caixa_Equivalentes": 182710,
+    "Obrigacoes_Liquidacao": 170545,
+    "Receita_Servicos": 20315,
+    "Despesa_Processamento": 16129,
+    "Resultado_Financeiro": 3561,
+    "Despesa_Operacional_Total": 17838,
+    "Provisao_Perdas": 798,
+    "Fluxo_Caixa_Operacional": -2082,
+    "Ativo_Intangivel": 3774,
+    "Ativo_Partes_Relacionadas": 0,
+    "Passivo_Partes_Relacionadas": 0,
+    "Provisao_Contingencias": 760,
+    "Ativo_Fiscal_Diferido": 15758
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 1.07,
+    "Indice_Capitalizacao": 0.06,
+    "ROE": -0.53,
+    "Margem_Servicos": 4186,
+    "Indice_Eficiencia": 0.75
+  }
+}

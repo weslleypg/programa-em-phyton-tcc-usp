@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "Adiq Instituição de Pagamento S.A.",
+    "CNPJ": "20520298000178",
+    "Auditor_Independente": "PricewaterhouseCoopers Auditores Independentes Ltda.",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Não",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 5499930,
+    "Patrimonio_Liquido": 263108,
+    "Lucro_Liquido": 68629,
+    "Caixa_Equivalentes": 297598,
+    "Obrigacoes_Liquidacao": 5167215,
+    "Receita_Servicos": 117546,
+    "Despesa_Processamento": 3058,
+    "Resultado_Financeiro": 635872,
+    "Despesa_Operacional_Total": 171642,
+    "Provisao_Perdas": 642,
+    "Fluxo_Caixa_Operacional": 33628,
+    "Ativo_Intangivel": 56146,
+    "Ativo_Partes_Relacionadas": 169811,
+    "Passivo_Partes_Relacionadas": 1273,
+    "Provisao_Contingencias": 211,
+    "Ativo_Fiscal_Diferido": 3660
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 0.06,
+    "Indice_Capitalizacao": 0.05,
+    "ROE": 0.26,
+    "Margem_Servicos": 114488,
+    "Indice_Eficiencia": 0.23
+  }
+}

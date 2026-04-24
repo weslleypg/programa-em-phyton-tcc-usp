@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "Acesso Soluções de Pagamento S.A.",
+    "CNPJ": "0",
+    "Auditor_Independente": "PricewaterhouseCoopers Auditores Independentes Ltda.",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Sim",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 867606,
+    "Patrimonio_Liquido": 21715,
+    "Lucro_Liquido": -13624,
+    "Caixa_Equivalentes": 582093,
+    "Obrigacoes_Liquidacao": 613914,
+    "Receita_Servicos": 58399,
+    "Despesa_Processamento": 9373,
+    "Resultado_Financeiro": 17114,
+    "Despesa_Operacional_Total": 71446,
+    "Provisao_Perdas": 0,
+    "Fluxo_Caixa_Operacional": 11239,
+    "Ativo_Intangivel": 13894,
+    "Ativo_Partes_Relacionadas": 2001,
+    "Passivo_Partes_Relacionadas": 105848,
+    "Provisao_Contingencias": 1422,
+    "Ativo_Fiscal_Diferido": 18168
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 0.95,
+    "Indice_Capitalizacao": 0.03,
+    "ROE": -0.63,
+    "Margem_Servicos": 49026,
+    "Indice_Eficiencia": 0.95
+  }
+}

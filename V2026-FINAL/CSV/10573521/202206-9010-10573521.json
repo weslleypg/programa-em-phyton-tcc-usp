@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "MERCADO PAGO INSTITUIÇÃO DE PAGAMENTO LTDA.",
+    "CNPJ": "0",
+    "Auditor_Independente": "ERNST & YOUNG Auditores Independentes S.S.",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Não",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 17343100,
+    "Patrimonio_Liquido": 846677,
+    "Lucro_Liquido": 140679,
+    "Caixa_Equivalentes": 6320014,
+    "Obrigacoes_Liquidacao": 15343052,
+    "Receita_Servicos": 5582880,
+    "Despesa_Processamento": 2500515,
+    "Resultado_Financeiro": 150691,
+    "Despesa_Operacional_Total": 855795,
+    "Provisao_Perdas": 77145,
+    "Fluxo_Caixa_Operacional": -1007555,
+    "Ativo_Intangivel": 424456,
+    "Ativo_Partes_Relacionadas": 218831,
+    "Passivo_Partes_Relacionadas": 7360619,
+    "Provisao_Contingencias": 35991,
+    "Ativo_Fiscal_Diferido": 199104
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 0.41,
+    "Indice_Capitalizacao": 0.05,
+    "ROE": 0.17,
+    "Margem_Servicos": 3082365,
+    "Indice_Eficiencia": 0.15
+  }
+}

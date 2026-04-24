@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "PagSeguro Internet Instituição de Pagamento S.A.",
+    "CNPJ": "0",
+    "Auditor_Independente": "PricewaterhouseCoopers Auditores Independentes Ltda.",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Não",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 70181682,
+    "Patrimonio_Liquido": 9785957,
+    "Lucro_Liquido": 1023846,
+    "Caixa_Equivalentes": 2640825,
+    "Obrigacoes_Liquidacao": 17650682,
+    "Receita_Servicos": 14642363,
+    "Despesa_Processamento": 6934228,
+    "Resultado_Financeiro": 3766589,
+    "Despesa_Operacional_Total": 3866781,
+    "Provisao_Perdas": 261126,
+    "Fluxo_Caixa_Operacional": -21136354,
+    "Ativo_Intangivel": 2562337,
+    "Ativo_Partes_Relacionadas": 1232104,
+    "Passivo_Partes_Relacionadas": 208753,
+    "Provisao_Contingencias": 503199,
+    "Ativo_Fiscal_Diferido": 449512
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 0.15,
+    "Indice_Capitalizacao": 0.14,
+    "ROE": 0.1,
+    "Margem_Servicos": 7708135,
+    "Indice_Eficiencia": 0.21
+  }
+}

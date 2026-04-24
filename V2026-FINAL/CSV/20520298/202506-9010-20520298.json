@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "BS2 Payments Instituição de Pagamento S.A.",
+    "CNPJ": "0",
+    "Auditor_Independente": "PricewaterhouseCoopers Auditores Independentes Ltda.",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Sim",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 891071,
+    "Patrimonio_Liquido": 248159,
+    "Lucro_Liquido": -20878,
+    "Caixa_Equivalentes": 1480,
+    "Obrigacoes_Liquidacao": 583135,
+    "Receita_Servicos": 43338,
+    "Despesa_Processamento": 3149,
+    "Resultado_Financeiro": 26157,
+    "Despesa_Operacional_Total": 97031,
+    "Provisao_Perdas": 545,
+    "Fluxo_Caixa_Operacional": 7131,
+    "Ativo_Intangivel": 86122,
+    "Ativo_Partes_Relacionadas": 72443,
+    "Passivo_Partes_Relacionadas": 248939,
+    "Provisao_Contingencias": 27,
+    "Ativo_Fiscal_Diferido": 21387
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 0.0,
+    "Indice_Capitalizacao": 0.28,
+    "ROE": -0.08,
+    "Margem_Servicos": 40189,
+    "Indice_Eficiencia": 1.4
+  }
+}

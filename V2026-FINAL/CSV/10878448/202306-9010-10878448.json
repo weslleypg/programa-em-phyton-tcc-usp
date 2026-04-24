@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "PAYPAL DO BRASIL INSTITUIÇÃO DE PAGAMENTO LTDA.",
+    "CNPJ": "10878448000166",
+    "Auditor_Independente": "PricewaterhouseCoopers Auditores Independentes Ltda.",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Não",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 6469451,
+    "Patrimonio_Liquido": 581316,
+    "Lucro_Liquido": -150789,
+    "Caixa_Equivalentes": 1251110,
+    "Obrigacoes_Liquidacao": 3962838,
+    "Receita_Servicos": 697910,
+    "Despesa_Processamento": 651199,
+    "Resultado_Financeiro": 60547,
+    "Despesa_Operacional_Total": 68332,
+    "Provisao_Perdas": 1089,
+    "Fluxo_Caixa_Operacional": 155266,
+    "Ativo_Intangivel": 0,
+    "Ativo_Partes_Relacionadas": 329524,
+    "Passivo_Partes_Relacionadas": 1863235,
+    "Provisao_Contingencias": 742,
+    "Ativo_Fiscal_Diferido": 0
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 0.32,
+    "Indice_Capitalizacao": 0.09,
+    "ROE": -0.26,
+    "Margem_Servicos": 46711,
+    "Indice_Eficiencia": 0.09
+  }
+}

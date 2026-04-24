@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "Cielo S.A. - Instituição de Pagamento",
+    "CNPJ": "Não informado",
+    "Auditor_Independente": "KPMG Auditores Independentes Ltda.",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Não",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 100504481,
+    "Patrimonio_Liquido": 20297030,
+    "Lucro_Liquido": 1038620,
+    "Caixa_Equivalentes": 1039298,
+    "Obrigacoes_Liquidacao": 74078911,
+    "Receita_Servicos": 5042341,
+    "Despesa_Processamento": 2848527,
+    "Resultado_Financeiro": 123752,
+    "Despesa_Operacional_Total": 907165,
+    "Provisao_Perdas": 116505,
+    "Fluxo_Caixa_Operacional": 7356823,
+    "Ativo_Intangivel": 8639981,
+    "Ativo_Partes_Relacionadas": 898017,
+    "Passivo_Partes_Relacionadas": 468834,
+    "Provisao_Contingencias": 315409,
+    "Ativo_Fiscal_Diferido": 1272800
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 0.01,
+    "Indice_Capitalizacao": 0.2,
+    "ROE": 0.05,
+    "Margem_Servicos": 2193814,
+    "Indice_Eficiencia": 0.18
+  }
+}

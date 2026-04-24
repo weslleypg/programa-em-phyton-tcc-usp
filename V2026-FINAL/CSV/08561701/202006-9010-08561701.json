@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "PagSeguro Internet S.A.",
+    "CNPJ": "08561701000101",
+    "Auditor_Independente": "PricewaterhouseCoopers",
+    "Opiniao_Auditor": "Com ressalva",
+    "Enfase_Auditor": "Não",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 16773277,
+    "Patrimonio_Liquido": 7735798,
+    "Lucro_Liquido": 625742,
+    "Caixa_Equivalentes": 312168,
+    "Obrigacoes_Liquidacao": 3287976,
+    "Receita_Servicos": 1916169,
+    "Despesa_Processamento": 1110780,
+    "Resultado_Financeiro": 86405,
+    "Despesa_Operacional_Total": 733018,
+    "Provisao_Perdas": 69406,
+    "Fluxo_Caixa_Operacional": 797530,
+    "Ativo_Intangivel": 651300,
+    "Ativo_Partes_Relacionadas": 3577330,
+    "Passivo_Partes_Relacionadas": 3863866,
+    "Provisao_Contingencias": 313565,
+    "Ativo_Fiscal_Diferido": 164143
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 0.09,
+    "Indice_Capitalizacao": 0.46,
+    "ROE": 0.08,
+    "Margem_Servicos": 805389,
+    "Indice_Eficiencia": 0.37
+  }
+}

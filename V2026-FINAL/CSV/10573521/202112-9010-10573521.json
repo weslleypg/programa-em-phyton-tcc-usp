@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "Mercado Pago Instituição de Pagamento Ltda.",
+    "CNPJ": "",
+    "Auditor_Independente": "Deloitte Touche Tohmatsu Auditores Independentes Ltda.",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Não",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 14057870,
+    "Patrimonio_Liquido": 325726,
+    "Lucro_Liquido": -185132,
+    "Caixa_Equivalentes": 6566022,
+    "Obrigacoes_Liquidacao": 12866044,
+    "Receita_Servicos": 8208734,
+    "Despesa_Processamento": 3854268,
+    "Resultado_Financeiro": 105372,
+    "Despesa_Operacional_Total": 1356001,
+    "Provisao_Perdas": 118366,
+    "Fluxo_Caixa_Operacional": 1355723,
+    "Ativo_Intangivel": 380888,
+    "Ativo_Partes_Relacionadas": 252640,
+    "Passivo_Partes_Relacionadas": 5112501,
+    "Provisao_Contingencias": 27748,
+    "Ativo_Fiscal_Diferido": 218765
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 0.51,
+    "Indice_Capitalizacao": 0.02,
+    "ROE": -0.57,
+    "Margem_Servicos": 4354466,
+    "Indice_Eficiencia": 0.16
+  }
+}

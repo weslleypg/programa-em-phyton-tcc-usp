@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "Acesso Soluções de Pagamento S.A.",
+    "CNPJ": "",
+    "Auditor_Independente": "ERNST & YOUNG Auditores Independentes S.S.",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Sim",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 403931,
+    "Patrimonio_Liquido": 12940,
+    "Lucro_Liquido": -10157,
+    "Caixa_Equivalentes": 359652,
+    "Obrigacoes_Liquidacao": 351340,
+    "Receita_Servicos": 29768,
+    "Despesa_Processamento": 19846,
+    "Resultado_Financeiro": 3205,
+    "Despesa_Operacional_Total": 22828,
+    "Provisao_Perdas": 268,
+    "Fluxo_Caixa_Operacional": 94924,
+    "Ativo_Intangivel": 4295,
+    "Ativo_Partes_Relacionadas": 0,
+    "Passivo_Partes_Relacionadas": 0,
+    "Provisao_Contingencias": 777,
+    "Ativo_Fiscal_Diferido": 18168
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 1.02,
+    "Indice_Capitalizacao": 0.03,
+    "ROE": -0.78,
+    "Margem_Servicos": 9922,
+    "Indice_Eficiencia": 0.69
+  }
+}

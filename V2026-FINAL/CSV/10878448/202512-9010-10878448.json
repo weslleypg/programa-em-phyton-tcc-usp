@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "PayPal do Brasil Instituição de Pagamento Ltda.",
+    "CNPJ": "10878448000166",
+    "Auditor_Independente": "PricewaterhouseCoopers Auditores Independentes Ltda.",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Não",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 2787077,
+    "Patrimonio_Liquido": 571639,
+    "Lucro_Liquido": 29235,
+    "Caixa_Equivalentes": 304401,
+    "Obrigacoes_Liquidacao": 736689,
+    "Receita_Servicos": 871709,
+    "Despesa_Processamento": 414189,
+    "Resultado_Financeiro": 53230,
+    "Despesa_Operacional_Total": 183651,
+    "Provisao_Perdas": 59345,
+    "Fluxo_Caixa_Operacional": 246020,
+    "Ativo_Intangivel": 0,
+    "Ativo_Partes_Relacionadas": 288763,
+    "Passivo_Partes_Relacionadas": 1388374,
+    "Provisao_Contingencias": 792,
+    "Ativo_Fiscal_Diferido": 0
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 0.41,
+    "Indice_Capitalizacao": 0.21,
+    "ROE": 0.05,
+    "Margem_Servicos": 457520,
+    "Indice_Eficiencia": 0.2
+  }
+}

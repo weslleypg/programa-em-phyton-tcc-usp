@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "Gerencianet S.A",
+    "CNPJ": "09089356000380",
+    "Auditor_Independente": "KPMG Auditores Independentes",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Não",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 208555,
+    "Patrimonio_Liquido": 19943,
+    "Lucro_Liquido": -488,
+    "Caixa_Equivalentes": 184234,
+    "Obrigacoes_Liquidacao": 152851,
+    "Receita_Servicos": 54351,
+    "Despesa_Processamento": 0,
+    "Resultado_Financeiro": 1369,
+    "Despesa_Operacional_Total": 52689,
+    "Provisao_Perdas": 0,
+    "Fluxo_Caixa_Operacional": -1509,
+    "Ativo_Intangivel": 15091,
+    "Ativo_Partes_Relacionadas": 0,
+    "Passivo_Partes_Relacionadas": 2606,
+    "Provisao_Contingencias": 214,
+    "Ativo_Fiscal_Diferido": 0
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 1.21,
+    "Indice_Capitalizacao": 0.1,
+    "ROE": -0.02,
+    "Margem_Servicos": 54351,
+    "Indice_Eficiencia": 0.95
+  }
+}

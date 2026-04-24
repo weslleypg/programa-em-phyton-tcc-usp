@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "REDECARD INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "CNPJ": "01425787000104",
+    "Auditor_Independente": "PricewaterhouseCoopers Auditores Independentes Ltda.",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Não",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 97517355,
+    "Patrimonio_Liquido": 43326634,
+    "Lucro_Liquido": 1502527,
+    "Caixa_Equivalentes": 560293,
+    "Obrigacoes_Liquidacao": 50170785,
+    "Receita_Servicos": 1926903,
+    "Despesa_Processamento": 0,
+    "Resultado_Financeiro": 1954665,
+    "Despesa_Operacional_Total": 1108834,
+    "Provisao_Perdas": 0,
+    "Fluxo_Caixa_Operacional": -5862755,
+    "Ativo_Intangivel": 335022,
+    "Ativo_Partes_Relacionadas": 40111953,
+    "Passivo_Partes_Relacionadas": 3720679,
+    "Provisao_Contingencias": 73812,
+    "Ativo_Fiscal_Diferido": 114831
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 0.01,
+    "Indice_Capitalizacao": 0.44,
+    "ROE": 0.03,
+    "Margem_Servicos": 1926903,
+    "Indice_Eficiencia": 0.29
+  }
+}

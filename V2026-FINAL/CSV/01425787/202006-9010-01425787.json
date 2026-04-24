@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "REDECARD S.A.",
+    "CNPJ": "01425787000104",
+    "Auditor_Independente": "PricewaterhouseCoopers",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Não",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 58470718,
+    "Patrimonio_Liquido": 17218437,
+    "Lucro_Liquido": 88225,
+    "Caixa_Equivalentes": 9149300,
+    "Obrigacoes_Liquidacao": 40600481,
+    "Receita_Servicos": 1402215,
+    "Despesa_Processamento": 0,
+    "Resultado_Financeiro": 194115,
+    "Despesa_Operacional_Total": 1097624,
+    "Provisao_Perdas": 0,
+    "Fluxo_Caixa_Operacional": 3032538,
+    "Ativo_Intangivel": 196332,
+    "Ativo_Partes_Relacionadas": 10712178,
+    "Passivo_Partes_Relacionadas": 721513,
+    "Provisao_Contingencias": 99912,
+    "Ativo_Fiscal_Diferido": 117123
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 0.23,
+    "Indice_Capitalizacao": 0.29,
+    "ROE": 0.01,
+    "Margem_Servicos": 1402215,
+    "Indice_Eficiencia": 0.69
+  }
+}

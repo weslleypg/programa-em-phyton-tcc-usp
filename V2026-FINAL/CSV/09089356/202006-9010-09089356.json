@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "Gerencianet Pagamentos do Brasil Ltda.",
+    "CNPJ": "09089356000118",
+    "Auditor_Independente": "KPMG Auditores Independentes",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Sim",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 115994,
+    "Patrimonio_Liquido": 14352,
+    "Lucro_Liquido": 235,
+    "Caixa_Equivalentes": 90949,
+    "Obrigacoes_Liquidacao": 92312,
+    "Receita_Servicos": 40255,
+    "Despesa_Processamento": 0,
+    "Resultado_Financeiro": 849,
+    "Despesa_Operacional_Total": 38466,
+    "Provisao_Perdas": 0,
+    "Fluxo_Caixa_Operacional": -63799,
+    "Ativo_Intangivel": 10601,
+    "Ativo_Partes_Relacionadas": 0,
+    "Passivo_Partes_Relacionadas": 0,
+    "Provisao_Contingencias": 35,
+    "Ativo_Fiscal_Diferido": 0
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 0.99,
+    "Indice_Capitalizacao": 0.12,
+    "ROE": 0.02,
+    "Margem_Servicos": 40255,
+    "Indice_Eficiencia": 0.94
+  }
+}

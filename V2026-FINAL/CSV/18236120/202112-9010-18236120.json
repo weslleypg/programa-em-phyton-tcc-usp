@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "Nu Pagamentos S.A. - Instituição de Pagamento",
+    "CNPJ": "0",
+    "Auditor_Independente": "KPMG Auditores Independentes Ltda.",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Não",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 51435186,
+    "Patrimonio_Liquido": 3180546,
+    "Lucro_Liquido": -157073,
+    "Caixa_Equivalentes": 22341571,
+    "Obrigacoes_Liquidacao": 38667516,
+    "Receita_Servicos": 5609554,
+    "Despesa_Processamento": 3411924,
+    "Resultado_Financeiro": 782357,
+    "Despesa_Operacional_Total": 2113765,
+    "Provisao_Perdas": 842244,
+    "Fluxo_Caixa_Operacional": 295237,
+    "Ativo_Intangivel": 106859,
+    "Ativo_Partes_Relacionadas": 7208721,
+    "Passivo_Partes_Relacionadas": 10108190,
+    "Provisao_Contingencias": 88390,
+    "Ativo_Fiscal_Diferido": 967260
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 0.58,
+    "Indice_Capitalizacao": 0.06,
+    "ROE": -0.05,
+    "Margem_Servicos": 2197630,
+    "Indice_Eficiencia": 0.33
+  }
+}

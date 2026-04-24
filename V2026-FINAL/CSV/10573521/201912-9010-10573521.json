@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "MERCADOPAGO.COM REPRESENTAÇÕES LTDA.",
+    "CNPJ": "",
+    "Auditor_Independente": "Deloitte Touche Tohmatsu Auditores Independentes",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Não",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 3577025,
+    "Patrimonio_Liquido": 122011,
+    "Lucro_Liquido": -45833,
+    "Caixa_Equivalentes": 2577469,
+    "Obrigacoes_Liquidacao": 3222583,
+    "Receita_Servicos": 3090278,
+    "Despesa_Processamento": 844320,
+    "Resultado_Financeiro": 87513,
+    "Despesa_Operacional_Total": 802577,
+    "Provisao_Perdas": 12453,
+    "Fluxo_Caixa_Operacional": 144373,
+    "Ativo_Intangivel": 83805,
+    "Ativo_Partes_Relacionadas": 213002,
+    "Passivo_Partes_Relacionadas": 726541,
+    "Provisao_Contingencias": 15966,
+    "Ativo_Fiscal_Diferido": 65618
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 0.8,
+    "Indice_Capitalizacao": 0.03,
+    "ROE": -0.38,
+    "Margem_Servicos": 2245958,
+    "Indice_Eficiencia": 0.25
+  }
+}

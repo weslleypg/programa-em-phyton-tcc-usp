@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "Efí S.A. - Instituição de Pagamento",
+    "CNPJ": "09089356000380",
+    "Auditor_Independente": "PricewaterhouseCoopers Auditores Independentes Ltda.",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Não",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 428569,
+    "Patrimonio_Liquido": 41941,
+    "Lucro_Liquido": 8172,
+    "Caixa_Equivalentes": 360652,
+    "Obrigacoes_Liquidacao": 348613,
+    "Receita_Servicos": 167450,
+    "Despesa_Processamento": 49072,
+    "Resultado_Financeiro": 30908,
+    "Despesa_Operacional_Total": 163506,
+    "Provisao_Perdas": 13,
+    "Fluxo_Caixa_Operacional": 26074,
+    "Ativo_Intangivel": 19664,
+    "Ativo_Partes_Relacionadas": 7601,
+    "Passivo_Partes_Relacionadas": 3932,
+    "Provisao_Contingencias": 48,
+    "Ativo_Fiscal_Diferido": 40
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 1.03,
+    "Indice_Capitalizacao": 0.1,
+    "ROE": 0.19,
+    "Margem_Servicos": 118378,
+    "Indice_Eficiencia": 0.82
+  }
+}

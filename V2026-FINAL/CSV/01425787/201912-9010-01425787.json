@@ -1,0 +1,35 @@
+{
+  "Identificacao": {
+    "Razao_Social": "Redecard S.A.",
+    "CNPJ": "01425787000104",
+    "Auditor_Independente": "PricewaterhouseCoopers Auditores Independentes",
+    "Opiniao_Auditor": "Sem Ressalva",
+    "Enfase_Auditor": "Não",
+    "Eventos_Subsequentes_Adversos": "Não"
+  },
+  "Contas_Base": {
+    "Ativo_Total": 71514922,
+    "Patrimonio_Liquido": 17126772,
+    "Lucro_Liquido": 965691,
+    "Caixa_Equivalentes": 292996,
+    "Obrigacoes_Liquidacao": 53694568,
+    "Receita_Servicos": 4259203,
+    "Despesa_Processamento": 0,
+    "Resultado_Financeiro": 539270,
+    "Despesa_Operacional_Total": 2335093,
+    "Provisao_Perdas": 0,
+    "Fluxo_Caixa_Operacional": -3502231,
+    "Ativo_Intangivel": 195417,
+    "Ativo_Partes_Relacionadas": 10508594,
+    "Passivo_Partes_Relacionadas": 78070,
+    "Provisao_Contingencias": 77333,
+    "Ativo_Fiscal_Diferido": 156167
+  },
+  "Indicadores": {
+    "Liquidez_Imediata": 0.01,
+    "Indice_Capitalizacao": 0.24,
+    "ROE": 0.06,
+    "Margem_Servicos": 4259203,
+    "Indice_Eficiencia": 0.49
+  }
+}
